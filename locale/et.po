@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "%lu tähemärki; pilt %d × %d."
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "%lu failid lõpetatud; ümbernimetamine ebaõnnestus:\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "%lu failid kopeeritakse; sama nimega uuemad failid kirjutavad vanemad failid üle. Kas jätkata?"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "%lu failid: kokku %lu, kood %lu, kommentaarid %lu, tühi %lu; jäeti vahele %lu"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "%lu päisefaili kirjed on laaditud; include laiendatakse sõelumise ajal rekursiivselt."
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s lõpetatud: %u -> %u baiti"
+
+msgid "/ No verification"
+msgstr "/ Ei kontrolli"
+
+msgid "/check"
+msgstr "/kontroll"
+
+msgid "1 byte (compact)"
+msgstr "1 bait (kompaktne)"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1,5 stopbitti saab kasutada ainult koos 5 andmebitiga."
+
+msgid "2 bytes"
+msgstr "2 baiti"
+
+msgid "3DES (legacy)"
+msgstr "3DES (pärand)"
+
+msgid "4 bytes"
+msgstr "4 baiti"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "5 andmebitti ei saa kombineerida 2 stopbitiga."
+
+msgid "64-bit unsigned integer"
+msgstr "64-bitine märgita täisarv"
+
+msgid "8 bytes"
+msgstr "8 baiti"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "Kohandatud parameeter ületab laiusega määratud biti laiuse."
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "Sihtfaili nimi on duplikaat olemas; operatsioon peatus."
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "Pärast kahe kausta valimist luuakse automaatselt sünkroonimise eelvaade."
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "Nullpikkusega massiivi toetatakse ainult struktuuri viimase liikmena."
+
+msgid "AAD (UTF-8):"
+msgstr "AAD (UTF-8):"
+
+msgid "ASCII converter"
+msgstr "ASCII konverter"
+
+msgid "ASCII string"
+msgstr "ASCII string"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "ASCII-tekst võib sisaldada ainult märke vahemikus 0x00 kuni 0x7F."
+
+msgid "ASCII text cannot be empty."
+msgstr "ASCII-tekst ei tohi olla tühi."
+
+msgid "About (&A)"
+msgstr "Teave (&A) kohta"
+
+msgid "About iTool"
+msgstr "iTooli kohta"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "Hakkab muutma faile %lu. Seda ei saa automaatselt tagasi võtta. Kas jätkata?"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "Failide %lu ümbernimetamine. Kas jätkata?"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "Loomulikuks sortimiseks lisage nummerdatud failinimedele eesolevad nullid"
+
+msgid "Add new receive/send pair"
+msgstr "Lisa uus vastuvõtmise/saatmise paar"
+
+msgid "Add new send/receive pair"
+msgstr "Lisa uus saatmise/vastuvõtmise paar"
+
+msgid "Added receive/send mapping"
+msgstr "Lisatud vastuvõtmise/saatmise kaardistus"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "Lisab esmalt 80 ja seejärel 00-ga."
+
+msgid "Algorithm and parameters"
+msgstr "Algoritm ja parameetrid"
+
+msgid "Algorithm:"
+msgstr "Algoritm:"
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "Algoritmid (22 tüüpi): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Korraga saab arvutada mitu algoritmi."
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "Pseudonüümi ei saa esitada pärast mittetüübilise struktuuri sulgevat lokkis sulgu."
+
+msgid "Alignment:"
+msgstr "Joondus:"
+
+msgid "All files (*.*)|*.*"
+msgstr "Kõik failid (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "Anonüümsed struktuurid peavad esitama typedefi nime."
+
+msgid "Any non-empty"
+msgstr "Igasugune mittetühi"
+
+msgid "Array length missing."
+msgstr "Massiivi pikkus puudub."
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "Massiivi pikkus peab olema positiivne täisarv või määratletud numbriline makro."
+
+msgid "Array length must be greater than zero."
+msgstr "Massiivi pikkus peab olema suurem kui null."
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "Arvutage kontrollsumma automaatselt, reguleerige suumi ja kopeerige pilt või salvestage PNG-vormingus."
+
+msgid "BIN file"
+msgstr "BIN-fail"
+
+msgid "Barcode encoder"
+msgstr "Vöötkoodi kodeerija"
+
+msgid "Barcode encoding"
+msgstr "Vöötkoodi kodeerimine"
+
+msgid "Barcode height:"
+msgstr "Vöötkoodi kõrgus:"
+
+msgid "Barcode image copied."
+msgstr "Vöötkoodi pilt kopeeritud."
+
+msgid "Base64"
+msgstr "Alus64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Base64 kodeerimine ja dekodeerimine; sisend ja väljund saavad iseseisvalt valida UTF-8 teksti või faile;"
+
+msgid "Base64 error"
+msgstr "Base64 viga"
+
+msgid "Baud rate:"
+msgstr "Baadi kiirus:"
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "Kahesuunaline teisendus 64-bitise Unixi ajatempli ja UTC kuupäeva ja kellaaja vahel; ajatempliüksus toetab sekundeid ja millisekundeid;"
+
+msgid "Binary"
+msgstr "Binaarne"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "Binaarfailid (*.bin)|*.bin|Kõik failid (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "Bitivälja liikmeid ei toetata."
+
+msgid "Bits set: %d / 64"
+msgstr "Otsikute komplekt: %d / 64"
+
+msgid "Bitset64"
+msgstr "Bitset64"
+
+msgid "Blank"
+msgstr "Tühi"
+
+msgid "Both folders have been synchronized."
+msgstr "Mõlemad kaustad on sünkroonitud."
+
+msgid "C structure definition"
+msgstr "C struktuuri määratlus"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB valikuline PKCS, null, ISO/IEC 7816-4 või polsterdus puudub; toetab turvalist juhuslikku võtit, IV/Nonce ja RSA võtmepaari genereerimist."
+
+msgid "CRC calculation error"
+msgstr "CRC arvutusviga"
+
+msgid "CRC calculator"
+msgstr "CRC kalkulaator"
+
+msgid "Calculate"
+msgstr "Arvutage"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "Arvutage teksti, kuueteistkümnendsüsteemi andmete või failide räsi"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "Arvutage teksti, baitide või failide standardsed ja kohandatud CRC väärtused"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "Faili CRC arvutamine taustal ..."
+
+msgid "Calculation completed."
+msgstr "Arvestus lõpetatud."
+
+msgid "Cancel"
+msgstr "Tühista"
+
+msgid "Canceled."
+msgstr "Tühistatud."
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "Märk %lu, „%s”, on väljaspool Latin-1 vahemikku (00–FF)."
+
+msgid "Clear"
+msgstr "Selge"
+
+msgid "Clear all"
+msgstr "Tühjenda kõik"
+
+msgid "Clear log"
+msgstr "Tühjenda logi"
+
+msgid "Clear results"
+msgstr "Selged tulemused"
+
+msgid "Cleared."
+msgstr "Kustutatud."
+
+msgid "Close"
+msgstr "Sule"
+
+msgid "Code"
+msgstr "Kood"
+
+msgid "Code 128-B content"
+msgstr "Kood 128-B sisu"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "Koodi 128-B sisu ei tohi ületada 200 tähemärki."
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "Kood 128-B genereerib kontrollsumma automaatselt."
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "Kood 128-B toetab ainult ASCII 32–126 tähemärki."
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "Koodi ja kommentaare saab lugeda samal real (näiteks lõpukommentaarid)."
+
+msgid "Comments"
+msgstr "Kommentaarid"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "Tavalisi andmeedastuskiirusi saab valida või käsitsi sisestada vahemikus 1 kuni 4000000."
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "Tavaliselt kasutatavad failid, nagu HTML/XML, CSS, Vue, CMake ja nende kommentaaristiilid; ühe faili maksimaalne suurus on 512 MiB."
+
+msgid "Communication client"
+msgstr "Suhtlusklient"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "Sideklient: Windows, Linux ja macOS toetavad kõik jadaporte ning TCP-d, UDP-d, WebSocketit ja MQTT 3.1.1; päringu/vastuse andmed võivad olla valikuliselt Hex või ASCII;"
+
+msgid "Communication server"
+msgstr "Sideserver"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "Sideserver: Windows, Linux ja macOS saavad jälgida jadaporti ning toetada TCP-d, UDP-d, WebSocketit ja MQTT 3.1.1; vastuvõturaamid võivad olla Hex või ASCII;"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "Võrrelge kahte kataloogi ja sünkroonige uuemaid või ühepoolseid faile"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "Võrrelge kahte kausta ja nende alamkatalooge; genereerida muutmisajal põhinevaid sünkroonitud eelvaateid; kopeerida mõlemas suunas uuemaid faile ja ühepoolseid faile;"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "Lõpetatud failid %lu, kopeerimine ebaõnnestus:\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "Lõpetatud: %llu baiti, %lu algoritmid."
+
+msgid "Completed: %lu files modified."
+msgstr "Lõpetatud: %lu-faile muudetud."
+
+msgid "Completed: %lu files renamed."
+msgstr "Lõpetatud: failid %lu ümber nimetatud."
+
+msgid "Confirm rename"
+msgstr "Kinnitage ümbernimetamine"
+
+msgid "Confirm replacement"
+msgstr "Kinnitage asendamine"
+
+msgid "Confirm synchronization"
+msgstr "Kinnitage sünkroonimine"
+
+msgid "Content matches"
+msgstr "Sisu vasted"
+
+msgid "Conversion completed."
+msgstr "Konversioon lõpetatud."
+
+msgid "Convert"
+msgstr "Teisenda"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "Teisendage 64-bitiste Unixi ajatemplite ja UTC kuupäeva/kellaaja vahel"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "Teisendamine kuueteistkümnendsüsteemi stringide ja ASCII vahel"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "Failide või UTF-8 teksti teisendamine Base64-sse ja sealt välja"
+
+msgid "Convert to Base64"
+msgstr "Teisendage Base64-ks"
+
+msgid "Convert to UTC ↓"
+msgstr "Teisenda UTC-ks ↓"
+
+msgid "Convert to Unix ↑"
+msgstr "Teisenda Unixiks ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "Teisendatud baite: %llu"
+
+msgid "Copied to the clipboard."
+msgstr "Kopeeritud lõikelauale."
+
+msgid "Copy"
+msgstr "Kopeeri"
+
+msgid "Copy image"
+msgstr "Kopeeri pilt"
+
+msgid "Copy result"
+msgstr "Kopeeri tulemus"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "Loendage üks fail või kataloog, saate valida, kas soovite laiendit korrata ja kohandada; loendage vastavalt ridu, koode, kommentaare ja tühje ridu;"
+
+msgid "Count results cleared."
+msgstr "Loendustulemused on kustutatud."
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "Loendage failide kaupa kokku, koodi, kommentaari ja tühjad read"
+
+msgid "Crypto++ conversion failed: "
+msgstr "Crypto++ teisendamine ebaõnnestus:"
+
+msgid "Current UTC time loaded."
+msgstr "Praegune UTC aeg laaditud."
+
+msgid "Current time"
+msgstr "Praegune aeg"
+
+msgid "Custom"
+msgstr "Kohandatud"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "Kohandatud Init, Poly ja XorOut peavad olema kuueteistkümnendarvud."
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "Kohandatud laius toetab ainult 8, 16, 24, 32 või 64."
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "Kohandatud algoritm: saab määrata laiuse, init, polü, XorOut, RefIn, RefOut ja korraga saab valida mitu algoritmi arvutust."
+
+msgid "DES (legacy)"
+msgstr "DES (pärand)"
+
+msgid "Data bits:"
+msgstr "Andmebitid:"
+
+msgid "Decimal"
+msgstr "Kümnend"
+
+msgid "Decode from Base64"
+msgstr "Dekodeerige Base64-st"
+
+msgid "Decrypt"
+msgstr "Dekrüpteerida"
+
+msgid "Decryption"
+msgstr "Dekrüpteerimine"
+
+msgid "Delay before sending (ms):"
+msgstr "Viivitus enne saatmist (ms):"
+
+msgid "Delete selected receive/send mapping"
+msgstr "Kustutage valitud vastuvõtmise/saatmise vastendus"
+
+msgid "Delete selected send/receive pair"
+msgstr "Kustutage valitud saatmise/vastuvõtmise paar"
+
+msgid "Determine width from the largest number"
+msgstr "Määrake laius suurima arvu järgi"
+
+msgid "Direction"
+msgstr "Suund"
+
+msgid "Directory sync"
+msgstr "Kataloogi sünkroonimine"
+
+msgid "Directory:"
+msgstr "Kataloog:"
+
+msgid "Dropped directory accepted."
+msgstr "Loobunud kataloog aktsepteeritud."
+
+msgid "Dropped file accepted."
+msgstr "Eemaldatud fail aktsepteeritud."
+
+msgid "Dynamic tail array length is too large."
+msgstr "Dünaamilise saba massiivi pikkus on liiga suur."
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "Dünaamilise saba massiivi jaoks on vaja vähemalt kahte struktuuriliiget."
+
+msgid "ECB (legacy)"
+msgstr "EKP (pärand)"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "Iga kuueteistkümnendsüsteemi väärtust ja biti olekut värskendatakse koos, toetades tulemuste kopeerimist."
+
+msgid "Edit receive/send pairs"
+msgstr "Muutke vastuvõtmise/saatmise paare"
+
+msgid "Edit selected receive/send mapping"
+msgstr "Redigeeri valitud vastuvõtmise/saatmise vastendamist"
+
+msgid "Edit selected send/receive pair"
+msgstr "Redigeeri valitud saatmise/vastuvõtmise paari"
+
+msgid "Edit send/receive pairs"
+msgstr "Redigeeri saatmise/vastuvõtmise paare"
+
+msgid "Enable this mapping"
+msgstr "Luba see kaardistamine"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "Kodeerige ASCII-tekst koodi 128-B vöötkoodina"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "Kodeerige UTF-8 tekst QR-koodi kujutisena"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "kodeerige UTF-8 tekst QR-koodiks; vali automaatselt QR-koodi versioon; toetus L (umbes 7%), M (umbes 15%),"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "Kodeerida tekst vahemikus ASCII 32–126 ja kuni 200 tähemärki koodiks 128-B;"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "Kodeeringu tuvastamine: GB18030-2022 -> UTF-8 -> kohalik koodileht; maksimaalselt 256 MiB faili kohta."
+
+msgid "Encountered failure and stopped as configured."
+msgstr "Ilmnes tõrge ja see peatus vastavalt konfiguratsioonile."
+
+msgid "Encrypt"
+msgstr "Krüptida"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "Andmete krüptimine ja dekrüpteerimine Crypto++ algoritmide abil"
+
+msgid "Encryption"
+msgstr "Krüpteerimine"
+
+msgid "Encryption / Decryption"
+msgstr "Krüpteerimine / dekrüpteerimine"
+
+msgid "Encryption/decryption error"
+msgstr "Krüptimise/dekrüpteerimise viga"
+
+msgid "Endianness:"
+msgstr "Endiaalsus:"
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "Sisestage kuueteistkümnendandmed, näiteks: 31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "Sisestage 64-bitine märgita täisarv kuueteistkümnend-, kümnend- või kahendsüsteemis; kuva ja klõpsake, et muuta bitte 0–63;"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "Sisestage ASCII string, näiteks: 123"
+
+msgid "Enter data"
+msgstr "Sisestage andmed"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "Sisestage kuueteistkümnendsüsteemis baidid, näiteks: 31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "Sisestage teisendatav tekst."
+
+msgid "Error correction:"
+msgstr "Veaparandus:"
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "Käivitage mitu testikomplekti konfigureeritud järjekorras, toetades ajalõppe, silmuseid, tulemuste statistikat ja millisekundite ajatempli logisid."
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "Välju (&X) Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "Oodatav vastus (mittetühjade andmete saamisel jätke tühjaks, et näidata lõpetamist):"
+
+msgid "Extensions:"
+msgstr "Laiendused:"
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "Faili CRC töötaja lõime loomine ebaõnnestus."
+
+msgid "Failed to initialize CRC."
+msgstr "CRC initsialiseerimine ebaõnnestus."
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "Faili vastendamine ebaõnnestus (nihe %llu, %s)"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "Faili vastendamine ebaõnnestus (nihe %llu, viga %lu)"
+
+msgid "Failed to parse Hex data."
+msgstr "Kuueteistkümnendandmete sõelumine ebaõnnestus."
+
+msgid "Failed to read BIN file."
+msgstr "BIN-faili lugemine ebaõnnestus."
+
+msgid "Failed to read header file:"
+msgstr "Päisefaili lugemine ebaõnnestus:"
+
+msgid "Failed to rename: "
+msgstr "Ümbernimetamine ebaõnnestus:"
+
+msgid "Failed to save PNG."
+msgstr "PNG-vormingus salvestamine ebaõnnestus."
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "Faili CRC töötaja lõime käivitamine ebaõnnestus."
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "CRC32/POSIX pikkuse värskendamine ebaõnnestus."
+
+msgid "Failed to write file: "
+msgstr "Faili kirjutamine ebaõnnestus:"
+
+msgid "Features\n\n"
+msgstr "Omadused"
+
+msgid "File"
+msgstr "Fail"
+
+msgid "File (&F)"
+msgstr "Fail (&F)"
+
+msgid "File hash calculation completed."
+msgstr "Faili räsi arvutamine on lõpetatud."
+
+msgid "File or directory:"
+msgstr "Fail või kataloog:"
+
+msgid "Filename zero-padding"
+msgstr "Failinime null-polster"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "Sama nimega failid on erineva suurusega, kuid sama muutmisajaga, nii et suunda ei saa ohutult määrata:"
+
+msgid "Find and replace"
+msgstr "Otsige ja asendage"
+
+msgid "Flow control:"
+msgstr "Voolu reguleerimine:"
+
+msgid "Folder 1:"
+msgstr "Kaust 1:"
+
+msgid "Folder 2"
+msgstr "2. kaust"
+
+msgid "Folder 2:"
+msgstr "Kaust 2:"
+
+msgid "Folder sync"
+msgstr "Kaustade sünkroonimine"
+
+msgid "Follow system"
+msgstr "Järgige süsteemi"
+
+msgid "For example: 123"
+msgstr "Näiteks: 123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "Näiteks: 31 32 33 või 0x31, 0x32, 0x33"
+
+msgid "Format:"
+msgstr "Vorming:"
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "Neli veaparanduse taset: Q (ca 25%), H (ca 30%); reguleerige suumi, kopeerige pilti või salvestage PNG-vormingus."
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "Murdsekundid sisaldavad kuni kolme numbrit."
+
+msgid "From file:"
+msgstr "Failist:"
+
+msgid "From text box:"
+msgstr "Tekstikastist:"
+
+msgid "GCM (recommended)"
+msgstr "GCM (soovitatav)"
+
+msgid "Generate"
+msgstr "Genereeri"
+
+msgid "Generate key pair"
+msgstr "Loo võtmepaar"
+
+msgid "Generate random"
+msgstr "Loo juhuslik"
+
+msgid "H (about 30%)"
+msgstr "H (umbes 30%)"
+
+msgid "Hash calculation"
+msgstr "Räsi arvutamine"
+
+msgid "Hash checker"
+msgstr "Räsikontrollija"
+
+msgid "Hash error"
+msgstr "Räsi viga"
+
+msgid "Header file directory:"
+msgstr "Päisefailide kataloog:"
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "Päisefail ei ole kehtiv UTF-8 või kohalik kodeering:"
+
+msgid "Help (&H)"
+msgstr "Abi (&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "Kuueteistkümnendbaidid võivad olla eraldatud tühikute, komade, semikoolonite või reavahedega, näiteks 31 32 33;"
+
+msgid "Hex data contains invalid characters."
+msgstr "Kuueteistkümnendandmed sisaldavad sobimatuid märke."
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "Kuueteistkümnendarvud peavad sisaldama paarisarv kuueteistkümnendarvu."
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "Kuueteistkümnendandmed peavad sisaldama paarisarv arve."
+
+msgid "Hex input cannot be empty."
+msgstr "Kuueteistkümnendsisend ei saa olla tühi."
+
+msgid "Hex input contains an invalid character."
+msgstr "Kuueteistkümnendsisend sisaldab sobimatut tähemärki."
+
+msgid "Hex input contains invalid characters."
+msgstr "Kuueteistkümnendsisend sisaldab sobimatuid märke."
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "Kuueteistkümnendsisend peab sisaldama paarisarv arve."
+
+msgid "Hex string"
+msgstr "Hex string"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "Kuueteistkümnend: 31 32 33 või 313233"
+
+msgid "Hexadecimal"
+msgstr "Kuueteistkümnendsüsteem"
+
+msgid "Host:"
+msgstr "Host:"
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "IPv4 täisliides: 0.0.0.0; IPv6 täisliides:::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV / Nonce (kuueteistkümnend):"
+
+msgid "Include header file not found:"
+msgstr "Kaasa päisefaili ei leitud:"
+
+msgid "Include subdirectories"
+msgstr "Kaasa alamkataloogid"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "Sisaldab standardset nelja mooduliga valget vaikset tsooni."
+
+msgid "Incremental CRC calculation failed."
+msgstr "Kasvav CRC arvutamine ebaõnnestus."
+
+msgid "Input"
+msgstr "Sisend"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "Sisend ja väljund tühjendatud; põhiparameetrid säilinud."
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "Sisend: Hex bytes, UTF-8 tekst, failid (suured failid kasutavad tükeldatud mälu vastendamist)."
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "Sisend: Hex-bait, UTF-8 tekst, failid (toetab pukseerimist ja tükeldatud mälu vastendamist)."
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "Ebapiisavad andmed: dünaamilise struktuuri päis nõuab %lu baiti."
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "Ebapiisavad andmed: struktuur nõuab %lu baiti."
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "Liidese ja logi salvestamise millisekundi ajatempel. Jadapordi eelseadistatud andmeedastuskiirus on kuni 921600 ja konkreetse boodikiiruse saab sisestada ka käsitsi."
+
+msgid "Invalid Hex character: '%c'."
+msgstr "Kehtetu kuueteistkümnendmärk: '%c'."
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "Kehtetu WebSocketi fragmentide järjestus."
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "Kehtetu WebSocketi raami vorming või maski suund."
+
+msgid "Invalid WebSocket opcode."
+msgstr "Kehtetu WebSocketi opkood."
+
+msgid "Invalid input"
+msgstr "Vale sisend"
+
+msgid "Invalid millisecond format."
+msgstr "Sobimatu millisekundi vorming."
+
+msgid "Invert all"
+msgstr "Pöörake kõik ümber"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "Üksus %lu „%s” ei ole kahekohaline kuueteistkümnendsüsteem."
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "Üksus %lu, „%s”, ei ole kehtiv Latin-1 bait (vahemik 00–FF)."
+
+msgid "Key (Hex):"
+msgstr "Võti (kuueteistkümnend):"
+
+msgid "Key length:"
+msgstr "Võtme pikkus:"
+
+msgid "L (about 7%)"
+msgstr "L (umbes 7%)"
+
+msgid "Language"
+msgstr "Keel"
+
+msgid "Line %lu:"
+msgstr "Rida %lu:"
+
+msgid "Line %lu: Block comment not ended."
+msgstr "Rida %lu: Blokeeri kommentaar ei lõppenud."
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "Rida %lu: toetamata märk „%c”."
+
+msgid "Line counter"
+msgstr "Liiniloendur"
+
+msgid "Listening address:"
+msgstr "Kuulamisaadress:"
+
+msgid "Load directory"
+msgstr "Laadige kataloog"
+
+msgid "Local port:"
+msgstr "Kohalik sadam:"
+
+msgid "M (about 15%)"
+msgstr "M (umbes 15%)"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "MQTT Brokeri ühendus ebaõnnestus või aegus."
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "MQTT Broker keeldus ühenduse loomisest või CONNACK on kehtetu."
+
+msgid "MQTT Payload not matched"
+msgstr "MQTT kasulik koormus ei sobi"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "MQTT järelejäänud pikkus on kehtetu."
+
+msgid "MQTT client"
+msgstr "MQTT klient"
+
+msgid "MQTT client disconnected."
+msgstr "MQTT klient on katkestatud."
+
+msgid "MQTT connection disconnected."
+msgstr "MQTT-ühendus katkes."
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "MQTT sõnum ületab 16 MiB piirangut."
+
+msgid "MQTT publish topic mismatch:"
+msgstr "MQTT avaldamise teema mittevastavus:"
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "MQTT avaldamise teemad ja tellimisteemad ei tohi olla tühjad."
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "MQTT vastuvõtuteema ja vastuse teema ei tohi olla tühjad."
+
+msgid "MQTT response publishing failed"
+msgstr "MQTT vastuse avaldamine ebaõnnestus"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "MQTT saatmine ebaõnnestus või ühendus katkes."
+
+msgid "Manual width:"
+msgstr "Käsitsi laius:"
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "Sobitage terveid kaadreid mitme konfiguratsiooni järgi korrast ära ja saatke vastavad vastused, kontrollides, kas kaadreid ja eesliidete ebaselgusi pole."
+
+msgid "Match expression:"
+msgstr "Sobi avaldis:"
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "Sobitage sõnumeid ja vastake jada-, TCP-, UDP-, WebSocketi või MQTT-i kaudu"
+
+msgid "Matched and posted response"
+msgstr "Sobitatud ja postitatud vastus"
+
+msgid "Matched and responded"
+msgstr "Sobis ja vastas"
+
+msgid "Member type enum is not supported."
+msgstr "Liikmetüüpi enum ei toetata."
+
+msgid "Member's statement is not concluded."
+msgstr "Liikme avaldust ei lõpetata."
+
+msgid "Milliseconds"
+msgstr "Millisekundid"
+
+msgid "Mode:"
+msgstr "Režiim:"
+
+msgid "Module width:"
+msgstr "Mooduli laius:"
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "Liigu alla: saate reguleerida saatmise/vastuvõtmise paaride täitmisjärjekorda"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "Liigu üles: saate kohandada saatmise/vastuvõtmise paaride täitmisjärjekorda"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Name cannot be empty."
+msgstr "Nimi ei tohi olla tühi."
+
+msgid "New filename"
+msgstr "Uus failinimi"
+
+msgid "No files need zero-padding."
+msgstr "Ükski fail ei vaja nulltäitmist."
+
+msgid "No matches found."
+msgstr "Ühtegi vastet ei leitud."
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "polsterdus puudub; sisendi pikkus peab olema ploki suuruse kordne."
+
+msgid "No structure definition found."
+msgstr "Struktuuri definitsiooni ei leitud."
+
+msgid "No valid file was found in the dropped content."
+msgstr "Väljalangenud sisust ei leitud ühtegi kehtivat faili."
+
+msgid "Not matched"
+msgstr "Ei sobi"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "Märkus. CBC ei paku terviklikkuse autentimist; eelistavad uute rakenduste jaoks GCM-i."
+
+msgid "Number of tasks sent:"
+msgstr "Saadetud ülesannete arv:"
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP ja PKCS#1 v1.5; sisendit ja väljundit saab sõltumatult valida UTF-8, Hex, Base64 või failiks;"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "Aktsepteerige ainult seda WebSocketi teed, näiteks /ws; toetab praegu ws://, mitte TLS/wss://"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "Töödeldakse ainult numbritega algavaid failinimesid; ülejäänud tekst ja laiendid säilivad."
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "Toetatakse ainult struktuuride määratlusi (enum/union/tavalisi deklaratsioone ei toetata)."
+
+msgid "Operation failed."
+msgstr "Toiming ebaõnnestus."
+
+msgid "Original Hex"
+msgstr "Algne Hex"
+
+msgid "Original filename"
+msgstr "Algne failinimi"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "Ebakorrapärane vastuvõtu/edastuse kaardistamine"
+
+msgid "Output"
+msgstr "Väljund"
+
+msgid "Output to text box:"
+msgstr "Väljund tekstikasti:"
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5 (pärand)"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5 / PKCS#7 (soovitatav)"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7 (soovitatav)"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "PNG-pilt (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "PNG salvestatud."
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "Täidis lisatakse automaatselt ja eemaldatakse dekrüpteerimise ajal."
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "Polster lisatakse automaatselt; lisaplokk lisatakse isegi siis, kui andmed on joondatud."
+
+msgid "Padding:"
+msgstr "Polsterdus:"
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "00-ga padjad; dekrüpteerimine eemaldab lõpu 00 baiti ja võib kaotada algse lõpu null baiti."
+
+msgid "Parity check:"
+msgstr "Pariteedi kontroll:"
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "Parsi hex-voogusid või BIN-faile C-struktuuri definitsioonide abil"
+
+msgid "Paste"
+msgstr "Kleebi"
+
+msgid "Paste an RSA private key"
+msgstr "Kleepige RSA privaatvõti"
+
+msgid "Paste an RSA public key"
+msgstr "Kleepige RSA avalik võti"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "Eelviimane väli määrab saba massiivi pikkuse"
+
+msgid "Pixels per module:"
+msgstr "Piksleid mooduli kohta:"
+
+msgid "Please add at least one send/receive pair."
+msgstr "Lisage vähemalt üks saatmise/vastuvõtmise paar."
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "Palun seadistage vähemalt üks lubatud vastuvõtmise/saatmise vastendus."
+
+msgid "Please select a valid BIN file."
+msgstr "Valige kehtiv BIN-fail."
+
+msgid "Please select a valid header directory."
+msgstr "Valige kehtiv päisekataloog."
+
+msgid "Please select two valid folders."
+msgstr "Valige kaks kehtivat kausta."
+
+msgid "Please wait ..."
+msgstr "Palun oota..."
+
+msgid "Pointer members are not supported."
+msgstr "Osuti liikmeid ei toetata."
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "Eelseadistatud algoritmid (18 tüüpi): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+
+msgid "Preview"
+msgstr "Eelvaade"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "Eelvaade: %lu failid muutuvad; %lu mitteteksti või liiga suured failid jäeti vahele."
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "Privaatvõti (Base64 DER / PEM):"
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "Privaatvõti (PKCS#1 PEM; hoidke seda turvalisena)"
+
+msgid "Protocol analysis"
+msgstr "Protokolli analüüs"
+
+msgid "Protocol parser"
+msgstr "Protokolli parser"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "Avalik võti (Base64 DER / PEM):"
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "Avalik võti (PKCS#1 PEM)"
+
+msgid "Q (about 25%)"
+msgstr "Q (umbes 25%)"
+
+msgid "QR Code content (UTF-8)"
+msgstr "QR-koodi sisu (UTF-8)"
+
+msgid "QR Code content cannot be empty."
+msgstr "QR-koodi sisu ei tohi olla tühi."
+
+msgid "QR Code content is too long: "
+msgstr "QR-koodi sisu on liiga pikk:"
+
+msgid "QR Code encoder"
+msgstr "QR-koodi kodeerija"
+
+msgid "QR Code encoding"
+msgstr "QR-koodi kodeering"
+
+msgid "QR Code image copied."
+msgstr "QR-koodi pilt kopeeritud."
+
+msgid "RC4 (legacy)"
+msgstr "RC4 (pärand)"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED ja RSA; toetab GCM-i, CBC-d, CTR-i, EKP-d,"
+
+msgid "RSA key pair"
+msgstr "RSA võtmepaar"
+
+msgid "Raw variable block"
+msgstr "Toores muutuja plokk"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "Lugege C struct/typedef struct definitsiooni ja #define massiivi pikkust ning sõeluge Hex andmevoogu või BIN-faili;"
+
+msgid "Ready"
+msgstr "Valmis"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "Saate vaste (peab olema täpne vaste):"
+
+msgid "Receive data does not match"
+msgstr "Vastuvõetud andmed ei ühti"
+
+msgid "Receive topic:"
+msgstr "Saate teema:"
+
+msgid "Received message not matched"
+msgstr "Vastuvõetud sõnum ei vasta"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "Vastu võetud: %lu Sobitatud: %lu Vastamata: %lu Vastatud: %lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "Vastu võetud: 0 sobitatud: 0 sobimata: 0 vastatud: 0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "Tunneb ära C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "Soovitatav vaikeseade: AES-256-GCM."
+
+msgid "Rename"
+msgstr "Nimeta ümber"
+
+msgid "Rename interrupted"
+msgstr "Ümbernimetamine katkestati"
+
+msgid "Replace"
+msgstr "Asenda"
+
+msgid "Replace file content"
+msgstr "Asenda faili sisu"
+
+msgid "Replace filenames"
+msgstr "Asenda failinimed"
+
+msgid "Replace folder names"
+msgstr "Asenda kaustade nimed"
+
+msgid "Replacement expression:"
+msgstr "Asendusavaldis:"
+
+msgid "Replacer error"
+msgstr "Asendaja viga"
+
+msgid "Reply frame"
+msgstr "Vastuse raam"
+
+msgid "Request data cannot be empty."
+msgstr "Päringu andmed ei tohi olla tühjad."
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "Nõuab %u baiti / %u kuueteistkümnendmärke"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "Nõuab enne käivitamist kinnitust ja kuvab sünkroonitavate ja kopeeritavate failide arvu."
+
+msgid "Respond to the topic:"
+msgstr "Vasta teemale:"
+
+msgid "Response delay (ms):"
+msgstr "Vastamise viivitus (ms):"
+
+msgid "Response does not match:"
+msgstr "Vastus ei ühti:"
+
+msgid "Response sending failed"
+msgstr "Vastuse saatmine ebaõnnestus"
+
+msgid "Response/verification"
+msgstr "Vastus/kinnitus"
+
+msgid "Result copied."
+msgstr "Tulemus kopeeritud."
+
+msgid "Results cleared."
+msgstr "Tulemused kustutatud."
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "Juurestruktuur %s: %lu baiti; sõeluda %lu kirjeid; lõpus järelejäänud %lu baidid."
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "Käivitage jada-, TCP-, UDP-, WebSocketi- või MQTT-päringu- ja vastusetestid"
+
+msgid "Save PNG"
+msgstr "Salvesta PNG"
+
+msgid "Save QR Code"
+msgstr "Salvestage QR-kood"
+
+msgid "Save barcode"
+msgstr "Salvestage vöötkood"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "Skannige kataloogis failinimede alguses olevad numbrilised numbrid ja lisage automaatselt ette nullid vastavalt maksimaalsele numbrilaiusele; alamkataloogide kaasamise tugi;"
+
+msgid "Search tools..."
+msgstr "Otsingutööriistad..."
+
+msgid "Seconds"
+msgstr "Sekundid"
+
+msgid "Select BIN file"
+msgstr "Valige BIN-fail"
+
+msgid "Select a file to calculate CRC"
+msgstr "Valige CRC arvutamiseks fail"
+
+msgid "Select a file to hash"
+msgstr "Valige räsitav fail"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "Valige üks fail või kataloog ja asendage failinimed ja tekstisisu pakettidena täiustatud regulaaravaldistega; toetab lohistamist;"
+
+msgid "Select a valid directory."
+msgstr "Valige kehtiv kataloog."
+
+msgid "Select a valid file or directory."
+msgstr "Valige kehtiv fail või kataloog."
+
+msgid "Select a valid file."
+msgstr "Valige kehtiv fail."
+
+msgid "Select a valid input file."
+msgstr "Valige sobiv sisendfail."
+
+msgid "Select algorithms, then calculate."
+msgstr "Valige algoritmid ja seejärel arvutage."
+
+msgid "Select an existing file."
+msgstr "Valige olemasolev fail."
+
+msgid "Select an output file."
+msgstr "Valige väljundfail."
+
+msgid "Select at least one CRC algorithm."
+msgstr "Valige vähemalt üks CRC-algoritm."
+
+msgid "Select at least one hash algorithm."
+msgstr "Valige vähemalt üks räsialgoritm."
+
+msgid "Select at least one replacement method."
+msgstr "Valige vähemalt üks asendusmeetod."
+
+msgid "Select directory"
+msgstr "Valige kataloog"
+
+msgid "Select directory for filename zero-padding"
+msgstr "Valige failinime null-täidise jaoks kataloog"
+
+msgid "Select directory..."
+msgstr "Vali kataloog..."
+
+msgid "Select file"
+msgstr "Valige fail"
+
+msgid "Select file..."
+msgstr "Vali fail..."
+
+msgid "Select folders to sync"
+msgstr "Valige sünkroonitavad kaustad"
+
+msgid "Select header file directory"
+msgstr "Valige päisefailide kataloog"
+
+msgid "Select input file"
+msgstr "Valige sisendfail"
+
+msgid "Select output file"
+msgstr "Valige väljundfail"
+
+msgid "Select source code directory"
+msgstr "Valige lähtekoodi kataloog"
+
+msgid "Select source code file"
+msgstr "Valige lähtekoodi fail"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "Valiti väljalangenud failide hulgast esimene kehtiv fail."
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "Saada pärast sobitamist (võib tühjaks jätta, saada ainult statistikat):"
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "Saadetud kaadreid: %lu Sobivaid vastuseid: %lu Sobimatuid vastuseid: %lu Aegumisi: %lu Õnnestunud ülesandeid: %lu/%lu Õnnestumise määr: %.2f%%"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "Saateraam: 0 Seaduslik vastuvõtmine: 0 Ebaseaduslik vastuvõtmine: 0 Aeg: 0 Õnnestunud ülesanne: 0/0 Edukuse määr: 0,00%"
+
+msgid "Sending interval (ms):"
+msgstr "Saatmisintervall (ms):"
+
+msgid "Serial port reception failed."
+msgstr "Jadapordi vastuvõtt ebaõnnestus."
+
+msgid "Serial port transmission failed."
+msgstr "Jadapordi edastamine ebaõnnestus."
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "Jadaport: eelseadistatud edastuskiirus 1200–921600 ja saab käsitsi sisestada 1–4000000; 5/6/7/8 andmebitti;"
+
+msgid "Set all to 1"
+msgstr "Määra kõik väärtuseks 1"
+
+msgid "Settings (&S)"
+msgstr "Seaded (&S)"
+
+msgid "Shift left <<"
+msgstr "Tõstuki vasakule <<"
+
+msgid "Shift right >>"
+msgstr "Tõstuki paremale >>"
+
+msgid "Show original text"
+msgstr "Kuva originaaltekst"
+
+msgid "Source line count"
+msgstr "Allika ridade arv"
+
+msgid "Start counting"
+msgstr "Alusta loendamist"
+
+msgid "Start the server"
+msgstr "Käivitage server"
+
+msgid "Stop bit:"
+msgstr "Stop bit:"
+
+msgid "Stop on failure"
+msgstr "Peatage ebaõnnestumisel"
+
+msgid "Stream cipher"
+msgstr "Voo šifr"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "Konstruktsiooni joondus peab olema 1, 2, 4 või 8."
+
+msgid "Success, RX:"
+msgstr "Edu, RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "Toetage AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "Toetab 1/2/4/8-baidi pakkimist, väike-/bigendiani, mitut järjestikust kirjet ja järelejäänud baidi viipasid."
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "Toetab IPv4, IPv6 (nt ::1) ja hostinime"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "Toetab põhitüüpe, fikseeritud pikkusega massiive ja määratletud pesastatud struktuure."
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "Toetab binaarfaile, edenemise kuvamist ja tühistamistoiminguid; mitte-UTF-8 dekodeerimise tulemusi saab failidena salvestada."
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "Toetab praeguse kellaaja hankimist, ajatempli ja UTC-teksti kopeerimist ning väärtusvahemiku ja kuupäevavormingu kontrollimist."
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "Toetab pesastatud struktuure, põhitäisarve, ujuv-, topelt-, bool-, märke ja fikseeritud pikkusega massiive;"
+
+msgid "Swap input and output"
+msgstr "Vahetage sisend ja väljund"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "Sünkroonimine on lõpetatud, %lu failid on kokku kopeeritud."
+
+msgid "Synchronization interruption"
+msgstr "Sünkroonimise katkestus"
+
+msgid "TCP client"
+msgstr "TCP klient"
+
+msgid "TCP connection failed or timed out."
+msgstr "TCP-ühendus ebaõnnestus või aegus."
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "TCP-vastuvõtt ebaõnnestus või ühendus katkes."
+
+msgid "TCP send failed."
+msgstr "TCP saatmine ebaõnnestus."
+
+msgid "Tag:"
+msgstr "Silt:"
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "Sihtlaius: %lu numbrit; %lu failid nimetatakse ümber."
+
+msgid "Testing has been stopped."
+msgstr "Testimine on peatatud."
+
+msgid "Testing is complete."
+msgstr "Testimine on lõppenud."
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "Teksti kodeering tuvastatakse GB18030-2022, UTF-8 ja kohaliku koodilehe järgi. Ühe faili maksimaalne suurus on 256 MiB."
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "Tekst räsitakse UTF-8 kodeeringuga"
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "Teksti töödeldakse UTF-8 kodeeringuga"
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "BIN-faili ei saa lugeda või faili maht ületab 256 MiB."
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "Teema MQTT PUBLISH on kehtetu."
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "MQTT SUBACK on kehtetu või tellimusest keelduti."
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "MQTT SUBSCRIBE sõnum on kehtetu."
+
+msgid "The MQTT publish topic is invalid."
+msgstr "MQTT avaldamise teema on kehtetu."
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "MQTT tellimuse teema on kehtetu."
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "UTC kuupäev või kellaaeg on väljaspool kehtivat vahemikku."
+
+msgid "The UTC time contains an invalid number."
+msgstr "UTC-aeg sisaldab vale numbrit."
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "UTC-aja vorming peaks olema AAAA-KK-PP HH:MM:SS[.mmm]."
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "WebSocketi partner on ühenduse sulgenud."
+
+msgid "The barcode content cannot be empty."
+msgstr "Vöötkoodi sisu ei tohi olla tühi."
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "Boodikiirus peab olema täisarv vahemikus 1 kuni 4000000."
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "Dekodeeritud tulemus ei ole UTF-8 tekst. Binaarandmete säilitamiseks väljastatakse faili."
+
+msgid "The dropped file or directory is invalid."
+msgstr "Väljalangenud fail või kataloog on kehtetu."
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "Fail ületab 16 MiB. Tekstikasti liigse mälu kasutamise vältimiseks kirjutage faili."
+
+msgid "The header file directory is invalid."
+msgstr "Päisefaili kataloog on kehtetu."
+
+msgid "The input and output files cannot be the same."
+msgstr "Sisend- ja väljundfailid ei saa olla samad."
+
+msgid "The language setting could not be saved."
+msgstr "Keeleseadet ei saanud salvestada."
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "Viimane liige peab olema dünaamilise sabamassiivi massiiv."
+
+msgid "The match expression cannot be empty."
+msgstr "Vasteavaldis ei tohi olla tühi."
+
+msgid "The parsing results have been cleared."
+msgstr "Sõelumistulemused on kustutatud."
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "Dünaamilise sabamassiivi jaoks peab eelviimane liige olema 8–32-bitine täisarvu skalaar."
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "Vastuvõtu vahemälu on ületanud limiidi ja on tühjendatud."
+
+msgid "The received data cannot be empty."
+msgstr "Vastuvõetud andmed ei tohi olla tühjad."
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "Vastuvõetud kaadrid ei saa olla ühesugused ega üksteise eesliidetega, vastasel juhul ei saa TCP/jadaport kaadripiiri määrata."
+
+msgid "The regular expression is invalid."
+msgstr "Regulaaravaldis on kehtetu."
+
+msgid "The replacement produced an invalid filename."
+msgstr "Asendus andis vale failinime."
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "Saadud päring ei olnud kehtiv MQTT 3.1.1 CONNECT."
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "Saadud päring ei olnud kehtiv WebSocket RFC 6455 käepigistus."
+
+msgid "The root structure is invalid."
+msgstr "Juurestruktuur on kehtetu."
+
+msgid "The serial port or host cannot be empty."
+msgstr "Jadaport või host ei tohi olla tühi."
+
+msgid "The server has ended."
+msgstr "Server on lõppenud."
+
+msgid "The server has stopped."
+msgstr "Server on peatunud."
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "Server lükkas WebSocketi versiooniuuenduse tagasi või oli käepigistuse vastus kehtetu."
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "Need kaks kausta ei saa olla samad ega ka üksteise alamkataloogid."
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "Väärtuse vorming on kehtetu või väljaspool 64-bitise märgita täisarvu vahemikku."
+
+msgid "Timeout (ms):"
+msgstr "Aegumine (ms):"
+
+msgid "Timestamp"
+msgstr "Ajatempel"
+
+msgid "Timestamp converter"
+msgstr "Ajatempli konverter"
+
+msgid "To be synchronized: %lu files"
+msgstr "Sünkroonitakse: %lu failid"
+
+msgid "Tools"
+msgstr "Tööriistad"
+
+msgid "Total lines"
+msgstr "Kokku ridu"
+
+msgid "Try again:"
+msgstr "Proovi uuesti:"
+
+msgid "UDP reception failed."
+msgstr "UDP vastuvõtt ebaõnnestus."
+
+msgid "UDP send failed."
+msgstr "UDP saatmine ebaõnnestus."
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "UTC-sisendis võib kasutada tühiku- või T-eraldajat ja valikulist lõppu Z."
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "UTC aeg (AAAA-KK-PP HH:MM:SS[.mmm])"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "UTC-aeg teisendatud Unixi ajatemplisse."
+
+msgid "UTF-8 text"
+msgstr "UTF-8 tekst"
+
+msgid "Unable to bind UDP port."
+msgstr "UDP-porti ei saa siduda."
+
+msgid "Unable to calculate relative path:"
+msgstr "Suhtelist teed ei saa arvutada:"
+
+msgid "Unable to create communication channel."
+msgstr "Suhtluskanalit ei saa luua."
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "Faili vastendamist ei saa luua (viga %lu)"
+
+msgid "Unable to get file size (%s)"
+msgstr "Faili suurust ei saa hankida (%s)"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "Faili suurust ei saa hankida (viga %lu)"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "Võrgupesa alamsüsteemi ei saa lähtestada; võrgutööriistad pole saadaval."
+
+msgid "Unable to listen on MQTT port."
+msgstr "MQTT-pordi kaudu ei saa kuulata."
+
+msgid "Unable to listen on TCP port."
+msgstr "TCP-pordi kaudu ei saa kuulata."
+
+msgid "Unable to listen on WebSocket port."
+msgstr "WebSocketi pordi kaudu ei saa kuulata."
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "UDP kohalikku porti ei saa avada (aadressiperekond või port pole saadaval)."
+
+msgid "Unable to open file: %s (%s)"
+msgstr "Faili ei saa avada: %s (%s)"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "Faili ei saa avada: %s (viga %lu)"
+
+msgid "Unable to open serial port:"
+msgstr "Jadaporti ei saa avada:"
+
+msgid "Unable to read directory:"
+msgstr "Kataloogi ei saa lugeda:"
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "Päisefaili ei saa lugeda või fail ületab 16 MiB:"
+
+msgid "Unable to read serial port configuration."
+msgstr "Jadapordi konfiguratsiooni ei saa lugeda."
+
+msgid "Unable to reread file during replacement: "
+msgstr "Faili ei saa asendamise ajal uuesti lugeda:"
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "IPv4/IPv6 aadressi ei saa lahendada:"
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "IPv4/IPv6 kuulamisaadressi ei saa lahendada:"
+
+msgid "Unable to resolve type:"
+msgstr "Tüüpi ei saa lahendada:"
+
+msgid "Unable to set serial port parameters."
+msgstr "Jadapordi parameetreid ei saa määrata."
+
+msgid "Unable to start server thread."
+msgstr "Serveri lõime ei saa käivitada."
+
+msgid "Unable to start test thread."
+msgstr "Testlõime ei saa käivitada."
+
+msgid "Unix / UTC conversion"
+msgstr "Unix / UTC teisendus"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Unixi sekundid on väljaspool kabriolettide vahemikku."
+
+msgid "Unix timestamp"
+msgstr "Unixi ajatempel"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "Unixi ajatempli väli ei saa olla tühi."
+
+msgid "Unix timestamp converted to UTC."
+msgstr "Unixi ajatempel teisendati UTC-ks."
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "Unixi ajatempel ei ole kehtiv 64-bitine täisarv."
+
+msgid "Unknown or undefined member type."
+msgstr "Tundmatu või määratlemata liikmetüüp."
+
+msgid "Use private key"
+msgstr "Kasutage privaatvõtit"
+
+msgid "Use public key"
+msgstr "Kasutage avalikku võtit"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "Failinimede ja teksti asendamiseks partiidena kasutage regulaaravaldisi"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "Kasutatakse sõnastiku loomuliku järjekorraga vastavusse viimiseks ja konfliktide kontrollimiseks enne ümbernimetamist."
+
+msgid "Value copied to the clipboard."
+msgstr "Väärtus kopeeriti lõikelauale."
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "Väärtuste vahemik: 0 kuni 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "Kontrollige vastuse sisu (kui see on märkimata, oodake ainult seadistatud pikkust)"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "Versioon %d; %d × %d moodulid; pilt %d × %d."
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "Saate vaadata ja redigeerida 64-bitise märgita täisarvu iga bitti"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "Hoiatus: Crypto++ nimetab oma XXTEA juurutuse BTEA ja märgib, et see pole põhjalikult testitud; sisend peab olema vähemalt 8 baiti ja 4 kordne."
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "Hoiatus: EKP paljastab andmemustrid ja seda ei soovitata kasutada pärisandmete jaoks."
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "Hoiatus: Eelista OAEP; PKCS#1 v1.5 on ette nähtud ainult ühilduvuse tagamiseks."
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "Hoiatus. See algoritm on ebaturvaline ja on ette nähtud ainult pärandühilduvuse tagamiseks."
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "Hoiatus: see algoritm on mõeldud pärandsüsteemide või protokollide jaoks; eelistavad uute andmete jaoks AES-GCM-i."
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "WebSocketi HTTP päis on liiga suur või mittetäielik."
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "WebSocketi TCP-ühendus ebaõnnestus või aegus."
+
+msgid "WebSocket client"
+msgstr "WebSocketi klient"
+
+msgid "WebSocket connection disconnected."
+msgstr "WebSocketi ühendus katkestati."
+
+msgid "WebSocket handshake connection broken."
+msgstr "WebSocketi käepigistuse ühendus katkes."
+
+msgid "WebSocket handshake timed out."
+msgstr "WebSocketi käepigistus aegus."
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "WebSocketi sõnum ületab 16 MiB piirangut."
+
+msgid "WebSocket path mismatch."
+msgstr "WebSocketi tee mittevastavus."
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "WebSocketi päringu tee, nt /ws; toetab praegu ws://, kuid ei toeta TLS/wss://"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "WebSocketi saatmine ebaõnnestus või ühendus katkes."
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "Kui vastuse valideerimine on lubatud, ei saa oodatud vastus olla tühi."
+
+msgid "Width"
+msgstr "Laius"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "Laius arvutatakse iga kausta jaoks eraldi; %lu faili nimetatakse ümber."
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows toetab 1/1.5/2 stopbitti, kõiki kontrollsummasid ja voo juhtimise kombinatsioone; Linuxi/macOS-i konkreetseid kombinatsioone piirab süsteemidraiver."
+
+msgid "Write to file:"
+msgstr "Kirjuta faili:"
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA / BTEA (katseline)"
+
+msgid "You can drop a file onto this page."
+msgstr "Saate sellele lehele faili pukseerida."
+
+msgid "Zero-pad filenames"
+msgstr "Nullpadjaga failinimed"
+
+msgid "Zero-padded filename"
+msgstr "Nullpolsterdatud failinimi"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "Nullpolster loob failinime duplikaadi:"
+
+msgid "[stop]"
+msgstr "[stopp]"
+
+msgid "ask"
+msgstr "küsi"
+
+msgid "ask:"
+msgstr "küsi:"
+
+msgid "big endian"
+msgstr "suur endian"
+
+msgid "communication client"
+msgstr "suhtlusklient"
+
+msgid "communication server"
+msgstr "sideserver"
+
+msgid "delay"
+msgstr "viivitus"
+
+msgid "direction"
+msgstr "suunas"
+
+msgid "even parity"
+msgstr "ühtlane võrdsus"
+
+msgid "expect '"
+msgstr "ootama'"
+
+msgid "folder 1"
+msgstr "kaust 1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\nEhitatud: %s %s wxvidinad %s %s"
+
+msgid "include is missing the closing quote:"
+msgstr "include puudub lõputsitaat:"
+
+msgid "little endian"
+msgstr "väike endian"
+
+msgid "mapping"
+msgstr "kaardistamine"
+
+msgid "mark"
+msgstr "mark"
+
+msgid "member"
+msgstr "liige"
+
+msgid "name"
+msgstr "nimi"
+
+msgid "name:"
+msgstr "nimi:"
+
+msgid "none"
+msgstr "mitte ühtegi"
+
+msgid "odd parity"
+msgstr "paaritu paarsus"
+
+msgid "offset"
+msgstr "kompenseerida"
+
+msgid "parse"
+msgstr "sõeluda"
+
+msgid "parsed value"
+msgstr "sõelutud väärtus"
+
+msgid "path:"
+msgstr "tee:"
+
+msgid "port:"
+msgstr "port:"
+
+msgid "receive timeout"
+msgstr "saada ajalõpp"
+
+msgid "release:"
+msgstr "vabastamine:"
+
+msgid "reset"
+msgstr "lähtestada"
+
+msgid "result"
+msgstr "tulemus"
+
+msgid "send"
+msgstr "saata"
+
+msgid "send/receive pair"
+msgstr "saata/vastu võtta paar"
+
+msgid "serial number"
+msgstr "seerianumber"
+
+msgid "size"
+msgstr "suurus"
+
+msgid "source"
+msgstr "allikas"
+
+msgid "space"
+msgstr "ruumi"
+
+msgid "start"
+msgstr "alustada"
+
+msgid "stop"
+msgstr "peatus"
+
+msgid "subscription:"
+msgstr "tellimus:"
+
+msgid "synchronous"
+msgstr "sünkroonne"
+
+msgid "take over"
+msgstr "üle võtma"
+
+msgid "test frame"
+msgstr "katseraam"
+
+msgid "test stopped"
+msgstr "test peatus"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "0x eesliide on lubatud ja Latin-1 vahemik on 00–FF."
+
+msgid "type"
+msgstr "tüüp"
+
+msgid "union is not supported."
+msgstr "liitu ei toetata."

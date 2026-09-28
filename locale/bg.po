@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "%lu символа; изображение %d × %d."
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "%lu файловете са завършени; неуспешно преименуване:\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "%lu файловете ще бъдат копирани; по-новите файлове със същото име ще презапишат по-старите файлове. Продължаване?"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "%lu файлове: общо %lu, код %lu, коментари %lu, празно %lu; пропусна %lu"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "%lu записи на заглавен файл са заредени; включването ще бъде разширено рекурсивно по време на анализиране."
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s завършен: %u -> %u байта"
+
+msgid "/ No verification"
+msgstr "/ Без проверка"
+
+msgid "/check"
+msgstr "/проверете"
+
+msgid "1 byte (compact)"
+msgstr "1 байт (компактен)"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1,5 стоп бита могат да се използват само в комбинация с 5 бита данни."
+
+msgid "2 bytes"
+msgstr "2 байта"
+
+msgid "3DES (legacy)"
+msgstr "3DES (наследство)"
+
+msgid "4 bytes"
+msgstr "4 байта"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "5 бита данни не могат да се комбинират с 2 стоп бита."
+
+msgid "64-bit unsigned integer"
+msgstr "64-битово цяло число без знак"
+
+msgid "8 bytes"
+msgstr "8 байта"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "Персонализираният параметър надвишава битовата ширина, зададена от Width."
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "Съществува дублирано целево име на файл; операцията е спряна."
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "Визуализация за синхронизиране ще се генерира автоматично след избиране на две папки."
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "Масив с нулева дължина се поддържа само като последен член на структурата."
+
+msgid "AAD (UTF-8):"
+msgstr "AAD (UTF-8):"
+
+msgid "ASCII converter"
+msgstr "ASCII конвертор"
+
+msgid "ASCII string"
+msgstr "ASCII низ"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "ASCII текстът може да съдържа само знаци от 0x00 до 0x7F."
+
+msgid "ASCII text cannot be empty."
+msgstr "ASCII текстът не може да бъде празен."
+
+msgid "About (&A)"
+msgstr "Относно (&A)"
+
+msgid "About iTool"
+msgstr "Относно iTool"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "Предстои да модифицирам %lu файлове. Това не може да се отмени автоматично. Продължаване?"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "Предстои да преименува %lu файлове. Продължаване?"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "Добавете водещи нули към номерирани имена на файлове за естествено сортиране"
+
+msgid "Add new receive/send pair"
+msgstr "Добавете нова двойка за получаване/изпращане"
+
+msgid "Add new send/receive pair"
+msgstr "Добавете нова двойка изпращане/получаване"
+
+msgid "Added receive/send mapping"
+msgstr "Добавено картографиране за получаване/изпращане"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "Първо добавя 80, след това допълва с 00."
+
+msgid "Algorithm and parameters"
+msgstr "Алгоритъм и параметри"
+
+msgid "Algorithm:"
+msgstr "Алгоритъм:"
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "Алгоритми (22 вида): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Кечак-224/256/384/512; РИПЕМД-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Множество алгоритми могат да бъдат изчислени наведнъж."
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "Псевдонимите не могат да се предоставят след затварящата фигурна скоба на структура, която не е typedef."
+
+msgid "Alignment:"
+msgstr "Подравняване:"
+
+msgid "All files (*.*)|*.*"
+msgstr "Всички файлове (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "Анонимните структури трябва да предоставят име с дефиниран тип."
+
+msgid "Any non-empty"
+msgstr "Всяко непразно"
+
+msgid "Array length missing."
+msgstr "Липсва дължина на масива."
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "Дължината на масива трябва да бъде положително цяло число или дефиниран цифров макрос."
+
+msgid "Array length must be greater than zero."
+msgstr "Дължината на масива трябва да е по-голяма от нула."
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "Автоматично изчисляване на контролна сума, регулиране на мащаба и копиране на изображение или запазване като PNG."
+
+msgid "BIN file"
+msgstr "BIN файл"
+
+msgid "Barcode encoder"
+msgstr "Баркод енкодер"
+
+msgid "Barcode encoding"
+msgstr "Кодиране на баркод"
+
+msgid "Barcode height:"
+msgstr "Височина на баркода:"
+
+msgid "Barcode image copied."
+msgstr "Изображението на баркод е копирано."
+
+msgid "Base64"
+msgstr "Base64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Base64 кодиране и декодиране; входът и изходът могат независимо да избират UTF-8 текст или файлове;"
+
+msgid "Base64 error"
+msgstr "Грешка в Base64"
+
+msgid "Baud rate:"
+msgstr "Скорост на предаване:"
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "Двупосочно преобразуване между 64-битово времево клеймо на Unix и UTC дата и час; модулът за клеймо поддържа секунди и милисекунди;"
+
+msgid "Binary"
+msgstr "Двоичен"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "Двоични файлове (*.bin)|*.bin|Всички файлове (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "Членовете на битово поле не се поддържат."
+
+msgid "Bits set: %d / 64"
+msgstr "Комплект битове: %d / 64"
+
+msgid "Bitset64"
+msgstr "Bitset64"
+
+msgid "Blank"
+msgstr "Празно"
+
+msgid "Both folders have been synchronized."
+msgstr "И двете папки са синхронизирани."
+
+msgid "C structure definition"
+msgstr "Дефиниция на C структура"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB по избор PKCS, Zero, ISO/IEC 7816-4 или без подложка; поддържа защитен случаен ключ, генериране на двойки ключове IV/Nonce и RSA."
+
+msgid "CRC calculation error"
+msgstr "Грешка в изчислението на CRC"
+
+msgid "CRC calculator"
+msgstr "CRC калкулатор"
+
+msgid "Calculate"
+msgstr "Изчислете"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "Изчислете хешове за текст, шестнадесетични данни или файлове"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "Изчислете стандартни и потребителски CRC стойности за текст, байтове или файлове"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "Изчисляване на CRC на файла във фонов режим..."
+
+msgid "Calculation completed."
+msgstr "Изчислението е завършено."
+
+msgid "Cancel"
+msgstr "Отказ"
+
+msgid "Canceled."
+msgstr "Отменено."
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "Символът %lu, „%s“, е извън обхвата на Latin-1 (00–FF)."
+
+msgid "Clear"
+msgstr "ясно"
+
+msgid "Clear all"
+msgstr "Изчисти всички"
+
+msgid "Clear log"
+msgstr "Изчистване на дневника"
+
+msgid "Clear results"
+msgstr "Ясни резултати"
+
+msgid "Cleared."
+msgstr "Изчистено."
+
+msgid "Close"
+msgstr "затвори"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Code 128-B content"
+msgstr "Код 128-Б съдържание"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "Съдържанието на код 128-B не може да надвишава 200 знака."
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "Код 128-B автоматично генерира контролната сума."
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "Код 128-B поддържа само ASCII 32~126 знака."
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "Кодът и коментарите могат да се броят на един и същ ред (например коментари в края)."
+
+msgid "Comments"
+msgstr "Коментари"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "Общите скорости на предаване могат да бъдат избрани или въведени ръчно от 1 до 4000000."
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "Често използвани файлове като HTML/XML, CSS, Vue, CMake и техните стилове на коментари; максималният размер на един файл е 512 MiB."
+
+msgid "Communication client"
+msgstr "Комуникационен клиент"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "Комуникационен клиент: всички Windows, Linux и macOS поддържат серийни портове и TCP, UDP, WebSocket и MQTT 3.1.1; данните за заявка/отговор могат да бъдат по избор Hex или ASCII;"
+
+msgid "Communication server"
+msgstr "Комуникационен сървър"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "Комуникационен сървър: Windows, Linux и macOS могат да наблюдават серийния порт и да поддържат TCP, UDP, WebSocket и MQTT 3.1.1; получаващите рамки могат да бъдат Hex или ASCII;"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "Сравнете две директории и синхронизирайте по-нови или едностранни файлове"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "Сравнете две папки и техните поддиректории; генериране на синхронизирани визуализации въз основа на времето за модификация; копирайте по-нови файлове и едностранни файлове в двете посоки;"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "Завършени %lu файлове, копирането е неуспешно:\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "Завършени: %llu байта, %lu алгоритми."
+
+msgid "Completed: %lu files modified."
+msgstr "Завършено: %lu файловете са променени."
+
+msgid "Completed: %lu files renamed."
+msgstr "Завършено: %lu файловете са преименувани."
+
+msgid "Confirm rename"
+msgstr "Потвърдете преименуването"
+
+msgid "Confirm replacement"
+msgstr "Потвърдете замяната"
+
+msgid "Confirm synchronization"
+msgstr "Потвърдете синхронизирането"
+
+msgid "Content matches"
+msgstr "Съдържанието съвпада"
+
+msgid "Conversion completed."
+msgstr "Преобразуването е завършено."
+
+msgid "Convert"
+msgstr "Преобразуване"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "Конвертиране между 64-битови Unix времеви клейма и UTC дата/час"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "Конвертиране между шестнадесетични низове и ASCII"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "Конвертирайте файлове или UTF-8 текст към и от Base64"
+
+msgid "Convert to Base64"
+msgstr "Преобразуване в Base64"
+
+msgid "Convert to UTC ↓"
+msgstr "Преобразуване в UTC ↓"
+
+msgid "Convert to Unix ↑"
+msgstr "Конвертиране в Unix ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "Преобразувани байтове: %llu"
+
+msgid "Copied to the clipboard."
+msgstr "Копирано в клипборда."
+
+msgid "Copy"
+msgstr "копие"
+
+msgid "Copy image"
+msgstr "Копиране на изображение"
+
+msgid "Copy result"
+msgstr "Копиране на резултата"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "Пребройте един файл или директория, можете да изберете дали да рекурсирате и персонализирате разширението; брои общо редове, код, коментари и празни редове съответно;"
+
+msgid "Count results cleared."
+msgstr "Резултатите от преброяването са изчистени."
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "Пребройте общо, код, коментар и празни редове по файл"
+
+msgid "Crypto++ conversion failed: "
+msgstr "Неуспешно преобразуване на Crypto++:"
+
+msgid "Current UTC time loaded."
+msgstr "Текущото UTC време е заредено."
+
+msgid "Current time"
+msgstr "Текущо време"
+
+msgid "Custom"
+msgstr "По поръчка"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "Custom Init, Poly и XorOut трябва да са шестнадесетични числа."
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "Custom Width поддържа само 8, 16, 24, 32 или 64."
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "Персонализиран алгоритъм: могат да бъдат зададени Width, Init, Poly, XorOut, RefIn, RefOut и едновременно могат да бъдат избрани няколко изчисления на алгоритъм."
+
+msgid "DES (legacy)"
+msgstr "DES (наследство)"
+
+msgid "Data bits:"
+msgstr "Битове данни:"
+
+msgid "Decimal"
+msgstr "десетична"
+
+msgid "Decode from Base64"
+msgstr "Декодиране от Base64"
+
+msgid "Decrypt"
+msgstr "Декриптиране"
+
+msgid "Decryption"
+msgstr "Декриптиране"
+
+msgid "Delay before sending (ms):"
+msgstr "Забавяне преди изпращане (ms):"
+
+msgid "Delete selected receive/send mapping"
+msgstr "Изтриване на избраното съпоставяне на получаване/изпращане"
+
+msgid "Delete selected send/receive pair"
+msgstr "Изтриване на избраната двойка изпращане/получаване"
+
+msgid "Determine width from the largest number"
+msgstr "Определете ширината от най-голямото число"
+
+msgid "Direction"
+msgstr "Посока"
+
+msgid "Directory sync"
+msgstr "Синхронизиране на директория"
+
+msgid "Directory:"
+msgstr "указател:"
+
+msgid "Dropped directory accepted."
+msgstr "Изпуснатата директория е приета."
+
+msgid "Dropped file accepted."
+msgstr "Изпуснатият файл е приет."
+
+msgid "Dynamic tail array length is too large."
+msgstr "Дължината на динамичната опашка е твърде голяма."
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "Динамичният опашен масив изисква поне два члена на структурата."
+
+msgid "ECB (legacy)"
+msgstr "ЕЦБ (наследство)"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "Всяка шестнадесетична стойност и битово състояние се актуализират заедно, поддържайки копирането на резултатите."
+
+msgid "Edit receive/send pairs"
+msgstr "Редактиране на двойки за получаване/изпращане"
+
+msgid "Edit selected receive/send mapping"
+msgstr "Редактирайте избраното картографиране за получаване/изпращане"
+
+msgid "Edit selected send/receive pair"
+msgstr "Редактирайте избраната двойка изпращане/получаване"
+
+msgid "Edit send/receive pairs"
+msgstr "Редактиране на двойки изпращане/получаване"
+
+msgid "Enable this mapping"
+msgstr "Активирайте това картографиране"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "Кодирайте ASCII текст като баркод Code 128-B"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "Кодирайте UTF-8 текст като изображение на QR код"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "Кодирайте UTF-8 текст в QR код; автоматично изберете версията на QR кода; подкрепа L (около 7%), M (около 15%),"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "Кодирайте текст в диапазона от ASCII 32 до 126 и до 200 знака в код 128-B;"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "Откриване на кодиране: GB18030-2022 -> UTF-8 -> локална кодова страница; максимум 256 MiB на файл."
+
+msgid "Encountered failure and stopped as configured."
+msgstr "Възникна грешка и спря, както е конфигурирано."
+
+msgid "Encrypt"
+msgstr "Шифроване"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "Шифроване и дешифриране на данни с помощта на Crypto++ алгоритми"
+
+msgid "Encryption"
+msgstr "Шифроване"
+
+msgid "Encryption / Decryption"
+msgstr "Криптиране/декриптиране"
+
+msgid "Encryption/decryption error"
+msgstr "Грешка при криптиране/декриптиране"
+
+msgid "Endianness:"
+msgstr "Endianness:"
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "Въведете шестнадесетични данни, например: 31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "Въведете 64-битово цяло число без знак в шестнадесетична, десетична или двоична система; показване и щракване за редактиране на битове 0~63;"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "Въведете ASCII низ, например: 123"
+
+msgid "Enter data"
+msgstr "Въведете данни"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "Въведете шестнадесетични байтове, например: 31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "Въведете текста за конвертиране."
+
+msgid "Error correction:"
+msgstr "Корекция на грешка:"
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "Изпълнявайте множество набори от тестове в конфигуриран ред, като поддържате изчаквания, цикли, статистически данни за резултатите и регистрационни файлове с времеви клейма в милисекунди."
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "Изход (&X) Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "Очакван отговор (оставете празно, за да посочите завършване при получаване на непразни данни):"
+
+msgid "Extensions:"
+msgstr "Разширения:"
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "Неуспешно създаване на CRC работна нишка на файла."
+
+msgid "Failed to initialize CRC."
+msgstr "Неуспешно инициализиране на CRC."
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "Неуспешно картографиране на файл (отместване %llu, %s)"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "Неуспешно картографиране на файла (отместване %llu, грешка %lu)"
+
+msgid "Failed to parse Hex data."
+msgstr "Неуспешно анализиране на шестнадесетични данни."
+
+msgid "Failed to read BIN file."
+msgstr "Неуспешно четене на BIN файл."
+
+msgid "Failed to read header file:"
+msgstr "Неуспешно четене на заглавния файл:"
+
+msgid "Failed to rename: "
+msgstr "Неуспешно преименуване:"
+
+msgid "Failed to save PNG."
+msgstr "Неуспешно запазване на PNG."
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "Неуспешно стартиране на CRC работната нишка на файла."
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "Неуспешно актуализиране на дължината на CRC32/POSIX."
+
+msgid "Failed to write file: "
+msgstr "Неуспешно записване на файл:"
+
+msgid "Features\n\n"
+msgstr "Характеристики"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File (&F)"
+msgstr "Файл (&F)"
+
+msgid "File hash calculation completed."
+msgstr "Изчисляването на хеша на файла е завършено."
+
+msgid "File or directory:"
+msgstr "Файл или директория:"
+
+msgid "Filename zero-padding"
+msgstr "Име на файл с нулева подложка"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "Файловете с едно и също име имат различни размери, но едно и също време за модификация, така че посоката не може да бъде безопасно определена:"
+
+msgid "Find and replace"
+msgstr "Намерете и заменете"
+
+msgid "Flow control:"
+msgstr "Контрол на потока:"
+
+msgid "Folder 1:"
+msgstr "Папка 1:"
+
+msgid "Folder 2"
+msgstr "Папка 2"
+
+msgid "Folder 2:"
+msgstr "Папка 2:"
+
+msgid "Folder sync"
+msgstr "Синхронизиране на папки"
+
+msgid "Follow system"
+msgstr "Следвайте системата"
+
+msgid "For example: 123"
+msgstr "Например: 123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "Например: 31 32 33 или 0x31, 0x32, 0x33"
+
+msgid "Format:"
+msgstr "формат:"
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "Четири нива на коригиране на грешки: Q (приблизително 25%), H (приблизително 30%); коригирайте мащаба, копирайте изображение или запазете като PNG."
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "Дробните секунди съдържат до три цифри."
+
+msgid "From file:"
+msgstr "От файл:"
+
+msgid "From text box:"
+msgstr "От текстовото поле:"
+
+msgid "GCM (recommended)"
+msgstr "GCM (препоръчително)"
+
+msgid "Generate"
+msgstr "Генерирай"
+
+msgid "Generate key pair"
+msgstr "Генериране на двойка ключове"
+
+msgid "Generate random"
+msgstr "Генериране на случаен принцип"
+
+msgid "H (about 30%)"
+msgstr "H (около 30%)"
+
+msgid "Hash calculation"
+msgstr "Хеш изчисление"
+
+msgid "Hash checker"
+msgstr "Хеш проверка"
+
+msgid "Hash error"
+msgstr "Хеш грешка"
+
+msgid "Header file directory:"
+msgstr "Директория на заглавния файл:"
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "Заглавният файл не е валиден UTF-8 или локално кодиране:"
+
+msgid "Help (&H)"
+msgstr "Помощ (&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "Шестнадесетичните байтове могат да бъдат разделени с интервали, запетаи, точка и запетая или нов ред, например 31 32 33;"
+
+msgid "Hex data contains invalid characters."
+msgstr "Шестнадесетичните данни съдържат невалидни знаци."
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "Шестнадесетичните данни трябва да съдържат четен брой шестнадесетични цифри."
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "Шестнадесетичните данни трябва да съдържат четен брой числа."
+
+msgid "Hex input cannot be empty."
+msgstr "Шестнадесетичният вход не може да бъде празен."
+
+msgid "Hex input contains an invalid character."
+msgstr "Въведеният шестнадесетичен код съдържа невалиден знак."
+
+msgid "Hex input contains invalid characters."
+msgstr "Въведеното шестнадесетично съдържа невалидни знаци."
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "Шестнадесетичният вход трябва да съдържа четен брой числа."
+
+msgid "Hex string"
+msgstr "Шестнадесетичен низ"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "Шестнадесетичен: 31 32 33 или 313233"
+
+msgid "Hexadecimal"
+msgstr "Шестнадесетичен"
+
+msgid "Host:"
+msgstr "Домакин:"
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "IPv4 пълен интерфейс: 0.0.0.0; IPv6 пълен интерфейс :::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV / Nonce (Hex):"
+
+msgid "Include header file not found:"
+msgstr "Включване на заглавния файл не е намерен:"
+
+msgid "Include subdirectories"
+msgstr "Включете поддиректории"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "Включва стандартната четиримодулна бяла тиха зона."
+
+msgid "Incremental CRC calculation failed."
+msgstr "Инкременталното изчисление на CRC е неуспешно."
+
+msgid "Input"
+msgstr "Вход"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "Входът и изходът са изчистени; запазени ключови параметри."
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "Вход: шестнадесетични байта, UTF-8 текст, файлове (големите файлове използват картографиране на паметта на парчета)."
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "Вход: шестнадесетични байтове, UTF-8 текст, файлове (поддържа плъзгане и пускане и картографиране на паметта на парчета)."
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "Недостатъчни данни: Заглавката на динамичната структура изисква %lu байта."
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "Недостатъчни данни: Структурата изисква %lu байта."
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "Времево клеймо за милисекунди на запис на интерфейс и журнал. Предварително зададената скорост на предаване на сериен порт е до 921600, а конкретна скорост на предаване може да се въведе и ръчно."
+
+msgid "Invalid Hex character: '%c'."
+msgstr "Невалиден шестнадесетичен знак: „%c“."
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "Невалидна последователност на фрагменти на WebSocket."
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "Невалиден формат на рамката на WebSocket или посока на маската."
+
+msgid "Invalid WebSocket opcode."
+msgstr "Невалиден код за операция WebSocket."
+
+msgid "Invalid input"
+msgstr "Невалиден вход"
+
+msgid "Invalid millisecond format."
+msgstr "Невалиден формат на милисекунди."
+
+msgid "Invert all"
+msgstr "Обърнете всички"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "Елемент %lu, „%s“, не е двуцифрен шестнадесетичен байт."
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "Елемент %lu, „%s“, не е валиден Latin-1 байт (диапазон 00–FF)."
+
+msgid "Key (Hex):"
+msgstr "Ключ (шестнадесетичен):"
+
+msgid "Key length:"
+msgstr "Дължина на ключа:"
+
+msgid "L (about 7%)"
+msgstr "L (около 7%)"
+
+msgid "Language"
+msgstr "език"
+
+msgid "Line %lu:"
+msgstr "Ред %lu:"
+
+msgid "Line %lu: Block comment not ended."
+msgstr "Ред %lu: Блокираният коментар не е приключил."
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "Ред %lu: Неподдържан знак „%c“."
+
+msgid "Line counter"
+msgstr "Брояч на линии"
+
+msgid "Listening address:"
+msgstr "Адрес за слушане:"
+
+msgid "Load directory"
+msgstr "Зареди директория"
+
+msgid "Local port:"
+msgstr "Местен порт:"
+
+msgid "M (about 15%)"
+msgstr "M (около 15%)"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "Връзката с MQTT Broker е неуспешна или времето за изчакване е изтекло."
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "MQTT Брокер отказа връзка или невалиден CONNACK."
+
+msgid "MQTT Payload not matched"
+msgstr "MQTT полезният товар не съответства"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "MQTT Remaining Length е невалидна."
+
+msgid "MQTT client"
+msgstr "MQTT клиент"
+
+msgid "MQTT client disconnected."
+msgstr "MQTT клиентът е прекъснат."
+
+msgid "MQTT connection disconnected."
+msgstr "MQTT връзката е прекъсната."
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "MQTT съобщението надхвърля ограничението от 16 MiB."
+
+msgid "MQTT publish topic mismatch:"
+msgstr "Несъответствие на темата за публикуване на MQTT:"
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "Темите за публикуване на MQTT и темите за абонамент не могат да бъдат празни."
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "Темата за получаване на MQTT и темата за отговор не могат да бъдат празни."
+
+msgid "MQTT response publishing failed"
+msgstr "Публикуването на MQTT отговор е неуспешно"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "Изпращането на MQTT е неуспешно или връзката е прекъсната."
+
+msgid "Manual width:"
+msgstr "Ръчна ширина:"
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "Съвпадение на пълни рамки в нередовен ред според множество конфигурации и изпращане на съответните отговори, проверка за дублиращи се рамки и неясноти на префикса;"
+
+msgid "Match expression:"
+msgstr "Израз за съответствие:"
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "Сравнете съобщенията и отговорете по сериен, TCP, UDP, WebSocket или MQTT"
+
+msgid "Matched and posted response"
+msgstr "Съвпадение и публикуван отговор"
+
+msgid "Matched and responded"
+msgstr "Съвпадение и отговор"
+
+msgid "Member type enum is not supported."
+msgstr "Тип член enum не се поддържа."
+
+msgid "Member's statement is not concluded."
+msgstr "Изявлението на члена не е приключило."
+
+msgid "Milliseconds"
+msgstr "Милисекунди"
+
+msgid "Mode:"
+msgstr "режим:"
+
+msgid "Module width:"
+msgstr "Ширина на модула:"
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "Преместване надолу: Регулирайте реда на изпълнение на двойки изпращане/получаване"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "Преместване нагоре: Регулирайте реда на изпълнение на двойки изпращане/получаване"
+
+msgid "Name"
+msgstr "Име"
+
+msgid "Name cannot be empty."
+msgstr "Името не може да бъде празно."
+
+msgid "New filename"
+msgstr "Ново име на файл"
+
+msgid "No files need zero-padding."
+msgstr "Никакви файлове не се нуждаят от нулева подложка."
+
+msgid "No matches found."
+msgstr "Няма намерени съвпадения."
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "Без подплата; дължината на входа трябва да е кратна на размера на блока."
+
+msgid "No structure definition found."
+msgstr "Не е намерена дефиниция на структура."
+
+msgid "No valid file was found in the dropped content."
+msgstr "Не е намерен валиден файл в изпуснато съдържание."
+
+msgid "Not matched"
+msgstr "Не съответства"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "Забележка: CBC не осигурява удостоверяване на целостта; предпочитайте GCM за нови приложения."
+
+msgid "Number of tasks sent:"
+msgstr "Брой изпратени задачи:"
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP и PKCS#1 v1.5; входът и изходът могат да бъдат независимо избрани като UTF-8, Hex, Base64 или файл;"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "Приемете само този път на WebSocket, като /ws; в момента поддържа ws://, а не TLS/wss://"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "Обработват се само имена на файлове, започващи с цифри; останалият текст и разширенията се запазват."
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "Поддържат се само структурни дефиниции (не се поддържат enum/union/обикновени декларации)."
+
+msgid "Operation failed."
+msgstr "Операцията е неуспешна."
+
+msgid "Original Hex"
+msgstr "Оригинален шестограм"
+
+msgid "Original filename"
+msgstr "Оригинално име на файл"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "Картографиране на получаване/предаване извън реда"
+
+msgid "Output"
+msgstr "Изход"
+
+msgid "Output to text box:"
+msgstr "Извеждане в текстово поле:"
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5 (наследено)"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5 / PKCS#7 (препоръчително)"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7 (препоръчително)"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "PNG изображение (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "PNG е запазен."
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "Подпълването се добавя автоматично и се премахва по време на дешифрирането."
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "Подложката се добавя автоматично; добавя се допълнителен блок, дори когато данните са подравнени."
+
+msgid "Padding:"
+msgstr "Подплата:"
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "Подложки с 00; дешифрирането премахва крайните 00 байта и може да загуби оригиналните крайни нула байта."
+
+msgid "Parity check:"
+msgstr "Проверка на паритета:"
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "Анализирайте шестнадесетични потоци или BIN файлове, като използвате дефиниции на C структура"
+
+msgid "Paste"
+msgstr "Залепете"
+
+msgid "Paste an RSA private key"
+msgstr "Поставете RSA частен ключ"
+
+msgid "Paste an RSA public key"
+msgstr "Поставете RSA публичен ключ"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "Предпоследното поле указва дължината на крайния масив"
+
+msgid "Pixels per module:"
+msgstr "Пиксели на модул:"
+
+msgid "Please add at least one send/receive pair."
+msgstr "Моля, добавете поне една двойка изпращане/получаване."
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "Моля, конфигурирайте поне едно активирано съпоставяне за получаване/изпращане."
+
+msgid "Please select a valid BIN file."
+msgstr "Моля, изберете валиден BIN файл."
+
+msgid "Please select a valid header directory."
+msgstr "Моля, изберете валидна заглавна директория."
+
+msgid "Please select two valid folders."
+msgstr "Моля, изберете две валидни папки."
+
+msgid "Please wait ..."
+msgstr "моля изчакайте..."
+
+msgid "Pointer members are not supported."
+msgstr "Указателните членове не се поддържат."
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "Предварително зададени алгоритми (18 вида): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+
+msgid "Preview"
+msgstr "Преглед"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "Преглед: %lu файловете ще се променят; %lu нетекстови или големи файлове са пропуснати."
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "Частен ключ (Base64 DER / PEM):"
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "Личен ключ (PKCS#1 PEM; пазете го защитен)"
+
+msgid "Protocol analysis"
+msgstr "Анализ на протокола"
+
+msgid "Protocol parser"
+msgstr "Анализатор на протоколи"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "Публичен ключ (Base64 DER / PEM):"
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "Публичен ключ (PKCS#1 PEM)"
+
+msgid "Q (about 25%)"
+msgstr "Q (около 25%)"
+
+msgid "QR Code content (UTF-8)"
+msgstr "Съдържание на QR код (UTF-8)"
+
+msgid "QR Code content cannot be empty."
+msgstr "Съдържанието на QR кода не може да бъде празно."
+
+msgid "QR Code content is too long: "
+msgstr "Съдържанието на QR кода е твърде дълго:"
+
+msgid "QR Code encoder"
+msgstr "Кодер за QR код"
+
+msgid "QR Code encoding"
+msgstr "Кодиране на QR код"
+
+msgid "QR Code image copied."
+msgstr "Изображението на QR кода е копирано."
+
+msgid "RC4 (legacy)"
+msgstr "RC4 (наследство)"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6, ChaCha20, Salsa20, Камелия, SEED и RSA; поддържа GCM, CBC, CTR, ECB,"
+
+msgid "RSA key pair"
+msgstr "RSA двойка ключове"
+
+msgid "Raw variable block"
+msgstr "Суров променлив блок"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "Прочетете C struct/typedef struct дефиниция и #define дължина на масива и анализирайте шестнадесетичен поток от данни или BIN файл;"
+
+msgid "Ready"
+msgstr "Готови"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "Получаване на съвпадение (трябва да е точно съвпадение):"
+
+msgid "Receive data does not match"
+msgstr "Данните за получаване не съвпадат"
+
+msgid "Receive topic:"
+msgstr "Получаване на тема:"
+
+msgid "Received message not matched"
+msgstr "Полученото съобщение не съответства"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "Получено: %lu Съвпадение: %lu Несъответствие: %lu Отговорено: %lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "Получено: 0 Съответстващи: 0 Несъответстващи: 0 Отговорени: 0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "Разпознава C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "Препоръчителна стойност по подразбиране: AES-256-GCM."
+
+msgid "Rename"
+msgstr "Преименуване"
+
+msgid "Rename interrupted"
+msgstr "Преименуването е прекъснато"
+
+msgid "Replace"
+msgstr "Сменете"
+
+msgid "Replace file content"
+msgstr "Замяна на съдържанието на файла"
+
+msgid "Replace filenames"
+msgstr "Замяна на имена на файлове"
+
+msgid "Replace folder names"
+msgstr "Замяна на имената на папки"
+
+msgid "Replacement expression:"
+msgstr "Заместващ израз:"
+
+msgid "Replacer error"
+msgstr "Грешка на заместителя"
+
+msgid "Reply frame"
+msgstr "Рамка за отговор"
+
+msgid "Request data cannot be empty."
+msgstr "Данните за заявката не могат да бъдат празни."
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "Изисква %u байта / %u шестнадесетични знаци"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "Изисква потвърждение преди изпълнение и показва броя на файловете за синхронизиране и копиране."
+
+msgid "Respond to the topic:"
+msgstr "Отговорете по темата:"
+
+msgid "Response delay (ms):"
+msgstr "Забавяне на реакцията (ms):"
+
+msgid "Response does not match:"
+msgstr "Отговорът не съвпада:"
+
+msgid "Response sending failed"
+msgstr "Неуспешно изпращане на отговор"
+
+msgid "Response/verification"
+msgstr "Отговор/проверка"
+
+msgid "Result copied."
+msgstr "Резултатът е копиран."
+
+msgid "Results cleared."
+msgstr "Резултатите са изчистени."
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "Основна структура %s: %lu байта; анализира %lu записи; оставащи %lu байта в края."
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "Изпълнете серийни, TCP, UDP, WebSocket или MQTT тестове за заявка и отговор"
+
+msgid "Save PNG"
+msgstr "Запазете PNG"
+
+msgid "Save QR Code"
+msgstr "Запазете QR кода"
+
+msgid "Save barcode"
+msgstr "Запазете баркода"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "Сканирайте цифровите числа в началото на имената на файловете в директорията и автоматично добавете водещи нули според максималната ширина на номера; поддръжка за включване на поддиректории;"
+
+msgid "Search tools..."
+msgstr "Инструменти за търсене..."
+
+msgid "Seconds"
+msgstr "Секунди"
+
+msgid "Select BIN file"
+msgstr "Изберете BIN файл"
+
+msgid "Select a file to calculate CRC"
+msgstr "Изберете файл за изчисляване на CRC"
+
+msgid "Select a file to hash"
+msgstr "Изберете файл за хеширане"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "Изберете един файл или директория и групово заменете имена на файлове и текстово съдържание с разширени регулярни изрази; поддържа плъзгане и пускане;"
+
+msgid "Select a valid directory."
+msgstr "Изберете валидна директория."
+
+msgid "Select a valid file or directory."
+msgstr "Изберете валиден файл или директория."
+
+msgid "Select a valid file."
+msgstr "Изберете валиден файл."
+
+msgid "Select a valid input file."
+msgstr "Изберете валиден входен файл."
+
+msgid "Select algorithms, then calculate."
+msgstr "Изберете алгоритми и след това изчислете."
+
+msgid "Select an existing file."
+msgstr "Изберете съществуващ файл."
+
+msgid "Select an output file."
+msgstr "Изберете изходен файл."
+
+msgid "Select at least one CRC algorithm."
+msgstr "Изберете поне един CRC алгоритъм."
+
+msgid "Select at least one hash algorithm."
+msgstr "Изберете поне един хеш алгоритъм."
+
+msgid "Select at least one replacement method."
+msgstr "Изберете поне един метод за замяна."
+
+msgid "Select directory"
+msgstr "Изберете директория"
+
+msgid "Select directory for filename zero-padding"
+msgstr "Изберете директория за нулево допълване на името на файла"
+
+msgid "Select directory..."
+msgstr "Изберете директория..."
+
+msgid "Select file"
+msgstr "Изберете файл"
+
+msgid "Select file..."
+msgstr "Изберете файл..."
+
+msgid "Select folders to sync"
+msgstr "Изберете папки за синхронизиране"
+
+msgid "Select header file directory"
+msgstr "Изберете директория на заглавния файл"
+
+msgid "Select input file"
+msgstr "Изберете входен файл"
+
+msgid "Select output file"
+msgstr "Изберете изходен файл"
+
+msgid "Select source code directory"
+msgstr "Изберете директория с изходния код"
+
+msgid "Select source code file"
+msgstr "Изберете файл с изходен код"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "Избра първия валиден файл от изпуснатите файлове."
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "Изпращане след съпоставяне (може да се остави празно, получава се само статистика):"
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "Изпращане на рамка: %lu Законно получаване: %lu Незаконно получаване: %lu Изчакване: %lu Успешна задача: %lu/%lu Процент на успех: %.2f%%"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "Изпращане на рамка: 0 Законно получаване: 0 Незаконно получаване: 0 Изчакване: 0 Успешна задача: 0/0 Процент на успех: 0,00%"
+
+msgid "Sending interval (ms):"
+msgstr "Интервал на изпращане (ms):"
+
+msgid "Serial port reception failed."
+msgstr "Неуспешно приемане на сериен порт."
+
+msgid "Serial port transmission failed."
+msgstr "Неуспешно предаване през серийния порт."
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "Сериен порт: предварително зададена скорост на предаване 1200~921600 и може да въведе ръчно 1~4000000; 5/6/7/8 бита данни;"
+
+msgid "Set all to 1"
+msgstr "Задайте всички на 1"
+
+msgid "Settings (&S)"
+msgstr "Настройки (&S)"
+
+msgid "Shift left <<"
+msgstr "Shift наляво <<"
+
+msgid "Shift right >>"
+msgstr "Shift надясно >>"
+
+msgid "Show original text"
+msgstr "Показване на оригиналния текст"
+
+msgid "Source line count"
+msgstr "Брой редове на източника"
+
+msgid "Start counting"
+msgstr "Започнете да броите"
+
+msgid "Start the server"
+msgstr "Стартирайте сървъра"
+
+msgid "Stop bit:"
+msgstr "Стоп бит:"
+
+msgid "Stop on failure"
+msgstr "Спрете при неуспех"
+
+msgid "Stream cipher"
+msgstr "Поточен шифър"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "Подравняването на структурата трябва да бъде 1, 2, 4 или 8."
+
+msgid "Success, RX:"
+msgstr "Успех, RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "Поддържа AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "Поддържа опаковане на 1/2/4/8 байта, little endian/big endian, множество последователни записи и подкани за оставащи байтове."
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "Поддържа IPv4, IPv6 (напр. ::1) и име на хост"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "Поддържа основни типове, масиви с фиксирана дължина и дефинирани вложени структури."
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "Поддържа двоични файлове, показване на напредъка и операции за анулиране; резултатите от не-UTF-8 декодиране могат да бъдат запазени като файлове."
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "Поддържа получаване на текущо време, копиране на времеви печат и UTC текст и проверка на диапазона на стойностите и формата на датата."
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "Поддържа вложени структури, основни цели числа, float, double, bool, знаци и масиви с фиксирана дължина;"
+
+msgid "Swap input and output"
+msgstr "Разменете входа и изхода"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "Синхронизирането е завършено, %lu файловете са копирани общо."
+
+msgid "Synchronization interruption"
+msgstr "Прекъсване на синхронизацията"
+
+msgid "TCP client"
+msgstr "TCP клиент"
+
+msgid "TCP connection failed or timed out."
+msgstr "TCP връзката е неуспешна или времето за изчакване."
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "TCP приемането е неуспешно или връзката е прекъсната."
+
+msgid "TCP send failed."
+msgstr "TCP изпращането е неуспешно."
+
+msgid "Tag:"
+msgstr "Етикет:"
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "Целева ширина: %lu цифри; %lu файловете ще бъдат преименувани."
+
+msgid "Testing has been stopped."
+msgstr "Тестването е спряно."
+
+msgid "Testing is complete."
+msgstr "Тестването приключи."
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "Кодирането на текста се открива според GB18030-2022, UTF-8 и локалната кодова страница. Максималният размер на един файл е 256 MiB."
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "Текстът е хеширан с UTF-8 кодиране"
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "Текстът се обработва с UTF-8 кодиране"
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "BIN файлът не може да бъде прочетен или файлът надвишава 256 MiB."
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "Темата MQTT PUBLISH е невалидна."
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "MQTT SUBACK е невалиден или абонаментът е бил отказан."
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "Съобщението MQTT SUBSCRIBE е невалидно."
+
+msgid "The MQTT publish topic is invalid."
+msgstr "Темата за публикуване на MQTT е невалидна."
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "Темата за абонамент за MQTT е невалидна."
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "Датата или часът UTC е извън валидния диапазон."
+
+msgid "The UTC time contains an invalid number."
+msgstr "UTC времето съдържа невалидно число."
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "Форматът на UTC часа трябва да бъде ГГГГ-ММ-ДД ЧЧ:ММ:СС[.ммм]."
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "Партньорът WebSocket затвори връзката."
+
+msgid "The barcode content cannot be empty."
+msgstr "Съдържанието на баркода не може да бъде празно."
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "Скоростта на предаване трябва да бъде цяло число между 1 и 4000000."
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "Декодираният резултат не е UTF-8 текст. Изход във файл за запазване на двоичните данни."
+
+msgid "The dropped file or directory is invalid."
+msgstr "Изпуснатият файл или директория е невалиден."
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "Файлът надвишава 16 MiB. Пишете във файл, за да избегнете прекомерното използване на паметта на текстовото поле."
+
+msgid "The header file directory is invalid."
+msgstr "Директорията на заглавния файл е невалидна."
+
+msgid "The input and output files cannot be the same."
+msgstr "Входните и изходните файлове не могат да бъдат еднакви."
+
+msgid "The language setting could not be saved."
+msgstr "Езиковата настройка не можа да бъде запазена."
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "Последният член трябва да бъде масив за динамичен опашен масив."
+
+msgid "The match expression cannot be empty."
+msgstr "Изразът за съвпадение не може да бъде празен."
+
+msgid "The parsing results have been cleared."
+msgstr "Резултатите от анализа са изчистени."
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "Предпоследният член трябва да бъде 8-32 битов цял скаларен масив за динамичен опашен масив."
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "Кешът за получаване е надвишил ограничението и е изчистен."
+
+msgid "The received data cannot be empty."
+msgstr "Получените данни не могат да бъдат празни."
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "Получените кадри не могат да бъдат еднакви или да се префиксират един към друг, в противен случай TCP/серийният порт не може да определи границата на рамката."
+
+msgid "The regular expression is invalid."
+msgstr "Регулярният израз е невалиден."
+
+msgid "The replacement produced an invalid filename."
+msgstr "Замяната създаде невалидно име на файл."
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "Получената заявка не е валидна MQTT 3.1.1 CONNECT."
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "Получената заявка не беше валидно ръкостискане на WebSocket RFC 6455."
+
+msgid "The root structure is invalid."
+msgstr "Основната структура е невалидна."
+
+msgid "The serial port or host cannot be empty."
+msgstr "Серийният порт или хостът не могат да бъдат празни."
+
+msgid "The server has ended."
+msgstr "Сървърът приключи."
+
+msgid "The server has stopped."
+msgstr "Сървърът е спрял."
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "Сървърът отхвърли надстройката на WebSocket или отговорът за ръкостискане беше невалиден."
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "Двете папки не могат да бъдат еднакви, нито могат да бъдат поддиректории една на друга."
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "Форматът на стойността е невалиден или е извън обхвата на 64-битово цяло число без знак."
+
+msgid "Timeout (ms):"
+msgstr "Време за изчакване (ms):"
+
+msgid "Timestamp"
+msgstr "Времево клеймо"
+
+msgid "Timestamp converter"
+msgstr "Преобразувател на времеви клейма"
+
+msgid "To be synchronized: %lu files"
+msgstr "За синхронизиране: %lu файлове"
+
+msgid "Tools"
+msgstr "Инструменти"
+
+msgid "Total lines"
+msgstr "Общо редове"
+
+msgid "Try again:"
+msgstr "Опитайте отново:"
+
+msgid "UDP reception failed."
+msgstr "Неуспешно приемане на UDP."
+
+msgid "UDP send failed."
+msgstr "UDP изпращането е неуспешно."
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "Въвеждането на UTC може да използва разделител за интервал или T и незадължително завършващо Z."
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "UTC време (ГГГГ-ММ-ДД ЧЧ:ММ:СС[.ммм])"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "UTC време, преобразувано в времево клеймо на Unix."
+
+msgid "UTF-8 text"
+msgstr "UTF-8 текст"
+
+msgid "Unable to bind UDP port."
+msgstr "Не може да се обвърже UDP порт."
+
+msgid "Unable to calculate relative path:"
+msgstr "Не може да се изчисли относителен път:"
+
+msgid "Unable to create communication channel."
+msgstr "Не може да се създаде комуникационен канал."
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "Не може да се създаде съпоставяне на файлове (грешка %lu)"
+
+msgid "Unable to get file size (%s)"
+msgstr "Не може да се получи размерът на файла (%s)"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "Не може да се получи размерът на файла (грешка %lu)"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "Не може да се инициализира подсистемата на мрежовия сокет; мрежовите инструменти са недостъпни."
+
+msgid "Unable to listen on MQTT port."
+msgstr "Не може да се слуша на MQTT порт."
+
+msgid "Unable to listen on TCP port."
+msgstr "Не може да се слуша на TCP порт."
+
+msgid "Unable to listen on WebSocket port."
+msgstr "Не може да се слуша на WebSocket порт."
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "Не може да се отвори UDP локален порт (семейство адреси или порт не са налични)."
+
+msgid "Unable to open file: %s (%s)"
+msgstr "Не може да се отвори файл: %s (%s)"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "Не може да се отвори файл: %s (грешка %lu)"
+
+msgid "Unable to open serial port:"
+msgstr "Не може да се отвори сериен порт:"
+
+msgid "Unable to read directory:"
+msgstr "Не може да се прочете директория:"
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "Заглавният файл не може да се прочете или файлът надвишава 16 MiB:"
+
+msgid "Unable to read serial port configuration."
+msgstr "Не може да се прочете конфигурацията на серийния порт."
+
+msgid "Unable to reread file during replacement: "
+msgstr "Не може да се препрочете файл по време на подмяна:"
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "Не може да се разреши IPv4/IPv6 адрес:"
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "Не може да се разреши IPv4/IPv6 слушащ адрес:"
+
+msgid "Unable to resolve type:"
+msgstr "Не може да се разреши тип:"
+
+msgid "Unable to set serial port parameters."
+msgstr "Не може да се зададат параметри на серийния порт."
+
+msgid "Unable to start server thread."
+msgstr "Не може да се стартира нишката на сървъра."
+
+msgid "Unable to start test thread."
+msgstr "Не може да се стартира тестова нишка."
+
+msgid "Unix / UTC conversion"
+msgstr "Unix / UTC конвертиране"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Unix секундите са извън конвертируемия диапазон."
+
+msgid "Unix timestamp"
+msgstr "Времево клеймо на Unix"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "Времето на Unix не може да бъде празно."
+
+msgid "Unix timestamp converted to UTC."
+msgstr "Часовото клеймо на Unix, преобразувано в UTC."
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "Времето на Unix не е валидно 64-битово цяло число."
+
+msgid "Unknown or undefined member type."
+msgstr "Неизвестен или недефиниран тип член."
+
+msgid "Use private key"
+msgstr "Използвайте личен ключ"
+
+msgid "Use public key"
+msgstr "Използвайте публичен ключ"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "Използвайте регулярни изрази, за да замените имена на файлове и текст в партиди"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "Използва се за привеждане на реда в речника в съответствие с естествения ред на номериране и за проверка за конфликти преди преименуване."
+
+msgid "Value copied to the clipboard."
+msgstr "Стойността е копирана в клипборда."
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "Диапазон на стойността: 0 до 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "Проверете съдържанието на отговора (само изчакайте конфигурираната дължина, когато няма отметка)"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "Версия %d; %d × %d модули; изображение %d × %d."
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "Преглеждайте и редактирайте всеки бит от 64-битово цяло число без знак"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "Предупреждение: Crypto++ наименува своята XXTEA реализация BTEA и я маркира като незадълбочено тествана; входът трябва да бъде поне 8 байта и кратен на 4."
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "Предупреждение: ECB разкрива модели на данни и не се препоръчва за реални данни."
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "Предупреждение: Предпочитайте OAEP; PKCS#1 v1.5 се предоставя само за съвместимост."
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "Предупреждение: Този алгоритъм е несигурен и се предоставя само за наследена съвместимост."
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "Предупреждение: Този алгоритъм е предназначен за наследени системи или протоколи; предпочитайте AES-GCM за нови данни."
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "HTTP заглавката на WebSocket е твърде голяма или непълна."
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "WebSocket TCP връзката е неуспешна или времето за изчакване е изтекло."
+
+msgid "WebSocket client"
+msgstr "WebSocket клиент"
+
+msgid "WebSocket connection disconnected."
+msgstr "WebSocket връзката е прекъсната."
+
+msgid "WebSocket handshake connection broken."
+msgstr "Връзката за ръкостискане на WebSocket е прекъсната."
+
+msgid "WebSocket handshake timed out."
+msgstr "Времето за изчакване на ръкостискането на WebSocket изтече."
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "WebSocket съобщението надвишава ограничението от 16 MiB."
+
+msgid "WebSocket path mismatch."
+msgstr "Несъответствие на пътя на WebSocket."
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "Път на заявка за WebSocket, като /ws; в момента поддържа ws://, но не поддържа TLS/wss://"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "Изпращането на WebSocket е неуспешно или връзката е прекъсната."
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "Когато проверката на отговора е активирана, очакваният отговор не може да бъде празен."
+
+msgid "Width"
+msgstr "ширина"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "Ширината се изчислява отделно за всяка папка; %lu файла ще бъдат преименувани."
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows поддържа 1/1,5/2 стоп бита, всички контролни суми и комбинации за контрол на потока; специфичните комбинации от Linux/macOS са ограничени от системния драйвер."
+
+msgid "Write to file:"
+msgstr "Пишете във файл:"
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA / BTEA (експериментално)"
+
+msgid "You can drop a file onto this page."
+msgstr "Можете да пуснете файл на тази страница."
+
+msgid "Zero-pad filenames"
+msgstr "Имена на файлове с нулева подложка"
+
+msgid "Zero-padded filename"
+msgstr "Подплатено с нула име на файл"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "Нулевото допълване би създало дублирано име на файл:"
+
+msgid "[stop]"
+msgstr "[стоп]"
+
+msgid "ask"
+msgstr "попитайте"
+
+msgid "ask:"
+msgstr "питам:"
+
+msgid "big endian"
+msgstr "голям край"
+
+msgid "communication client"
+msgstr "комуникационен клиент"
+
+msgid "communication server"
+msgstr "комуникационен сървър"
+
+msgid "delay"
+msgstr "забавяне"
+
+msgid "direction"
+msgstr "посока"
+
+msgid "even parity"
+msgstr "равен паритет"
+
+msgid "expect '"
+msgstr "очаквам"
+
+msgid "folder 1"
+msgstr "папка 1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\nСъздаден: %s %s wxWidgets %s %s"
+
+msgid "include is missing the closing quote:"
+msgstr "include липсва затварящият цитат:"
+
+msgid "little endian"
+msgstr "малък endian"
+
+msgid "mapping"
+msgstr "картографиране"
+
+msgid "mark"
+msgstr "марка"
+
+msgid "member"
+msgstr "член"
+
+msgid "name"
+msgstr "име"
+
+msgid "name:"
+msgstr "име:"
+
+msgid "none"
+msgstr "няма"
+
+msgid "odd parity"
+msgstr "нечетен паритет"
+
+msgid "offset"
+msgstr "офсет"
+
+msgid "parse"
+msgstr "анализирам"
+
+msgid "parsed value"
+msgstr "анализирана стойност"
+
+msgid "path:"
+msgstr "път:"
+
+msgid "port:"
+msgstr "порт:"
+
+msgid "receive timeout"
+msgstr "получи таймаут"
+
+msgid "release:"
+msgstr "освобождаване:"
+
+msgid "reset"
+msgstr "нулиране"
+
+msgid "result"
+msgstr "резултат"
+
+msgid "send"
+msgstr "изпрати"
+
+msgid "send/receive pair"
+msgstr "изпращане/получаване на двойка"
+
+msgid "serial number"
+msgstr "сериен номер"
+
+msgid "size"
+msgstr "размер"
+
+msgid "source"
+msgstr "източник"
+
+msgid "space"
+msgstr "пространство"
+
+msgid "start"
+msgstr "започнете"
+
+msgid "stop"
+msgstr "спрете"
+
+msgid "subscription:"
+msgstr "абонамент:"
+
+msgid "synchronous"
+msgstr "синхронен"
+
+msgid "take over"
+msgstr "поемам"
+
+msgid "test frame"
+msgstr "тестова рамка"
+
+msgid "test stopped"
+msgstr "тестът спря"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "префиксът 0x е разрешен и диапазонът на Latin-1 е 00–FF."
+
+msgid "type"
+msgstr "тип"
+
+msgid "union is not supported."
+msgstr "обединението не се поддържа."

@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "%lu 文字。画像 %d × %d。"
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "%lu ファイルが完了しました。名前の変更に失敗しました:\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "%lu ファイルがコピーされます。同じ名前の新しいファイルは古いファイルを上書きします。続く？"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "%lu ファイル: 合計 %lu、コード %lu、コメント %lu、空白 %lu; %luをスキップしました"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "%lu ヘッダー ファイル エントリがロードされました。 include は解析中に再帰的に展開されます。"
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s が完了しました: %u -> %u バイト"
+
+msgid "/ No verification"
+msgstr "/ 検証なし"
+
+msgid "/check"
+msgstr "/チェック"
+
+msgid "1 byte (compact)"
+msgstr "1バイト（コンパクト）"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1.5 ストップ ビットは、5 つのデータ ビットと組み合わせてのみ使用できます。"
+
+msgid "2 bytes"
+msgstr "2バイト"
+
+msgid "3DES (legacy)"
+msgstr "3DES (レガシー)"
+
+msgid "4 bytes"
+msgstr "4バイト"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "5 つのデータ ビットを 2 つのストップ ビットと組み合わせることはできません。"
+
+msgid "64-bit unsigned integer"
+msgstr "64ビット符号なし整数"
+
+msgid "8 bytes"
+msgstr "8バイト"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "カスタム パラメーターが、Width で指定されたビット幅を超えています。"
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "重複したターゲット ファイル名が存在します。動作が停止しました。"
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "2 つのフォルダーを選択すると、同期プレビューが自動的に生成されます。"
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "長さ 0 の配列は、最後の構造体メンバーとしてのみサポートされます。"
+
+msgid "AAD (UTF-8):"
+msgstr "AAD (UTF-8):"
+
+msgid "ASCII converter"
+msgstr "アスキーコンバータ"
+
+msgid "ASCII string"
+msgstr "ASCII文字列"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "ASCII テキストには、0x00 から 0x7F までの文字のみを含めることができます。"
+
+msgid "ASCII text cannot be empty."
+msgstr "ASCII テキストを空にすることはできません。"
+
+msgid "About (&A)"
+msgstr "(&A)について"
+
+msgid "About iTool"
+msgstr "iToolについて"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "%lu ファイルを変更しようとしています。これを自動的に元に戻すことはできません。続く？"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "%lu ファイルの名前を変更しようとしています。続く？"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "自然な並べ替えのために番号付きファイル名に先頭のゼロを追加します"
+
+msgid "Add new receive/send pair"
+msgstr "新しい受信/送信ペアを追加"
+
+msgid "Add new send/receive pair"
+msgstr "新しい送受信ペアの追加"
+
+msgid "Added receive/send mapping"
+msgstr "受信/送信マッピングを追加しました"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "最初に 80 を追加し、次に 00 を埋め込みます。"
+
+msgid "Algorithm and parameters"
+msgstr "アルゴリズムとパラメータ"
+
+msgid "Algorithm:"
+msgstr "アルゴリズム:"
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "アルゴリズム（22種類）：MD5、 SHA1; SHA2-224/256/384/512; SHA3​​-224/256/384/512;ケチャック-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256;ブレイク2b-256/512; SM3。複数のアルゴリズムを一度に計算できます。"
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "非 typedef 構造体の右中括弧の後にエイリアスを指定することはできません。"
+
+msgid "Alignment:"
+msgstr "配置:"
+
+msgid "All files (*.*)|*.*"
+msgstr "すべてのファイル (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "匿名構造体は typedef 名を提供する必要があります。"
+
+msgid "Any non-empty"
+msgstr "空でないもの"
+
+msgid "Array length missing."
+msgstr "配列の長さがありません。"
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "配列の長さは、正の整数または定義された数値マクロである必要があります。"
+
+msgid "Array length must be greater than zero."
+msgstr "配列の長さはゼロより大きくなければなりません。"
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "チェックサムを自動的に計算し、ズームを調整して画像をコピーするか、PNG として保存します。"
+
+msgid "BIN file"
+msgstr "BINファイル"
+
+msgid "Barcode encoder"
+msgstr "バーコードエンコーダ"
+
+msgid "Barcode encoding"
+msgstr "バーコードエンコーディング"
+
+msgid "Barcode height:"
+msgstr "バーコードの高さ:"
+
+msgid "Barcode image copied."
+msgstr "バーコード画像をコピーしました。"
+
+msgid "Base64"
+msgstr "Base64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Base64 エンコードとデコード。入力と出力は独立して UTF-8 テキストまたはファイルを選択できます。"
+
+msgid "Base64 error"
+msgstr "Base64エラー"
+
+msgid "Baud rate:"
+msgstr "ボーレート:"
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "64 ビット Unix タイムスタンプと UTC 日時間の双方向変換。タイムスタンプ単位は秒とミリ秒をサポートします。"
+
+msgid "Binary"
+msgstr "バイナリ"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "バイナリ ファイル (*.bin)|*.bin|すべてのファイル (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "ビットフィールドメンバーはサポートされていません。"
+
+msgid "Bits set: %d / 64"
+msgstr "ビットセット: %d / 64"
+
+msgid "Bitset64"
+msgstr "ビットセット64"
+
+msgid "Blank"
+msgstr "空白"
+
+msgid "Both folders have been synchronized."
+msgstr "両方のフォルダーが同期されました。"
+
+msgid "C structure definition"
+msgstr "C 構造体の定義"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB オプションの PKCS、ゼロ、ISO/IEC 7816-4、またはパディングなし。安全なランダム キー、IV/Nonce、および RSA キー ペアの生成をサポートします。"
+
+msgid "CRC calculation error"
+msgstr "CRC計算エラー"
+
+msgid "CRC calculator"
+msgstr "CRC計算機"
+
+msgid "Calculate"
+msgstr "計算する"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "テキスト、16 進データ、またはファイルのハッシュを計算します。"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "テキスト、バイト、またはファイルの標準およびカスタム CRC 値を計算します。"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "バックグラウンドでファイルの CRC を計算しています ..."
+
+msgid "Calculation completed."
+msgstr "計算が完了しました。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Canceled."
+msgstr "キャンセルされました。"
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "文字 %lu、「%s」は、Latin-1 範囲 (00 ～ FF) の外にあります。"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Clear all"
+msgstr "すべてクリア"
+
+msgid "Clear log"
+msgstr "ログをクリアする"
+
+msgid "Clear results"
+msgstr "明確な結果"
+
+msgid "Cleared."
+msgstr "クリアしました。"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Code"
+msgstr "コード"
+
+msgid "Code 128-B content"
+msgstr "コード 128-B の内容"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "コード 128-B の内容は 200 文字を超えることはできません。"
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "コード 128-B はチェックサムを自動的に生成します。"
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "コード 128-B は、ASCII 32 ～ 126 文字のみをサポートします。"
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "コードとコメントは同じ行で数えることができます (たとえば、末尾のコメント)。"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "一般的なボーレートは、1 ～ 4000000 の範囲で選択するか、手動で入力できます。"
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "HTML/XML、CSS、Vue、CMake などの一般的に使用されるファイルとそのコメント スタイル。 1 つのファイルの最大サイズは 512 MiB です。"
+
+msgid "Communication client"
+msgstr "通信クライアント"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "通信クライアント: Windows、Linux、macOS はすべてシリアル ポートをサポートし、TCP、UDP、WebSocket、および MQTT 3.1.1 をサポートします。リクエスト/レスポンス データはオプションで 16 進数または ASCII にすることができます。"
+
+msgid "Communication server"
+msgstr "通信サーバー"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "通信サーバー: Windows、Linux、macOS はすべてシリアル ポートを監視でき、TCP、UDP、WebSocket、および MQTT 3.1.1 をサポートします。受信フレームは 16 進数または ASCII です。"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "2 つのディレクトリを比較し、新しいファイルまたは一方的なファイルを同期します"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "2 つのフォルダーとそのサブディレクトリを比較します。変更時間に基づいて同期されたプレビューを生成します。新しいファイルと片面ファイルを両方向にコピーします。"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "完成した %lu ファイル、コピーに失敗しました:\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "完了: %llu バイト、%lu アルゴリズム。"
+
+msgid "Completed: %lu files modified."
+msgstr "完了: %lu ファイルが変更されました。"
+
+msgid "Completed: %lu files renamed."
+msgstr "完了: %lu ファイルの名前が変更されました。"
+
+msgid "Confirm rename"
+msgstr "名前変更の確認"
+
+msgid "Confirm replacement"
+msgstr "交換の確認"
+
+msgid "Confirm synchronization"
+msgstr "同期の確認"
+
+msgid "Content matches"
+msgstr "コンテンツの一致"
+
+msgid "Conversion completed."
+msgstr "変換が完了しました。"
+
+msgid "Convert"
+msgstr "変換する"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "64 ビット Unix タイムスタンプと UTC 日付/時刻の間の変換"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "16 進文字列と ASCII 間の変換"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "ファイルまたは UTF-8 テキストと Base64 間の変換"
+
+msgid "Convert to Base64"
+msgstr "Base64に変換する"
+
+msgid "Convert to UTC ↓"
+msgstr "UTCに変換↓"
+
+msgid "Convert to Unix ↑"
+msgstr "Unix に変換 ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "変換済みバイト数: %llu"
+
+msgid "Copied to the clipboard."
+msgstr "クリップボードにコピーされました。"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Copy image"
+msgstr "画像をコピーする"
+
+msgid "Copy result"
+msgstr "コピー結果"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "単一のファイルまたはディレクトリをカウントし、拡張子を再帰してカスタマイズするかどうかを選択できます。合計行数、コード数、コメント数、空白行数をそれぞれカウントします。"
+
+msgid "Count results cleared."
+msgstr "カウント結果がクリアされました。"
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "ファイルごとに合計、コード、コメント、空白行をカウント"
+
+msgid "Crypto++ conversion failed: "
+msgstr "Crypto++ 変換に失敗しました:"
+
+msgid "Current UTC time loaded."
+msgstr "現在の UTC 時間が読み込まれます。"
+
+msgid "Current time"
+msgstr "現在時刻"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "カスタム Init、Poly、および XorOut は 16 進数である必要があります。"
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "カスタム幅は 8、16、24、32、または 64 のみをサポートします。"
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "カスタムアルゴリズム:Width、Init、Poly、XorOut、RefIn、RefOut を設定でき、複数のアルゴリズム計算を同時に選択できます。"
+
+msgid "DES (legacy)"
+msgstr "DES (レガシー)"
+
+msgid "Data bits:"
+msgstr "データビット:"
+
+msgid "Decimal"
+msgstr "10進数"
+
+msgid "Decode from Base64"
+msgstr "Base64からデコードする"
+
+msgid "Decrypt"
+msgstr "復号化"
+
+msgid "Decryption"
+msgstr "復号化"
+
+msgid "Delay before sending (ms):"
+msgstr "送信前の遅延 (ミリ秒):"
+
+msgid "Delete selected receive/send mapping"
+msgstr "選択した受信/送信マッピングを削除します"
+
+msgid "Delete selected send/receive pair"
+msgstr "選択した送受信ペアを削除します"
+
+msgid "Determine width from the largest number"
+msgstr "最大の数値から幅を決定します"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Directory sync"
+msgstr "ディレクトリ同期"
+
+msgid "Directory:"
+msgstr "ディレクトリ:"
+
+msgid "Dropped directory accepted."
+msgstr "ドロップされたディレクトリが受け入れられました。"
+
+msgid "Dropped file accepted."
+msgstr "ドロップされたファイルは受け入れられました。"
+
+msgid "Dynamic tail array length is too large."
+msgstr "動的末尾配列の長さが大きすぎます。"
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "動的末尾配列には少なくとも 2 つの構造体メンバーが必要です。"
+
+msgid "ECB (legacy)"
+msgstr "ECB (レガシー)"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "各 16 進数値とビット ステータスが一緒に更新され、結果のコピーがサポートされます。"
+
+msgid "Edit receive/send pairs"
+msgstr "受信/送信ペアの編集"
+
+msgid "Edit selected receive/send mapping"
+msgstr "選択した受信/送信マッピングを編集します"
+
+msgid "Edit selected send/receive pair"
+msgstr "選択した送受信ペアを編集します"
+
+msgid "Edit send/receive pairs"
+msgstr "送信/受信ペアの編集"
+
+msgid "Enable this mapping"
+msgstr "このマッピングを有効にする"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "ASCII テキストを Code 128-B バーコードとしてエンコードする"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "UTF-8 テキストを QR コード画像としてエンコードする"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "UTF-8 テキストを QR コードにエンコードします。 QR コードのバージョンを自動的に選択します。サポートL(約7%)、M(約15%)、"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "ASCII 32 ～ 126 の範囲で最大 200 文字のテキストを Code 128-B にエンコードします。"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "エンコーディング検出: GB18030-2022 -> UTF-8 -> ローカル コード ページ。ファイルあたり最大 256 MiB。"
+
+msgid "Encountered failure and stopped as configured."
+msgstr "障害が発生したため、構成どおりに停止しました。"
+
+msgid "Encrypt"
+msgstr "暗号化する"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "Crypto++ アルゴリズムを使用してデータを暗号化および復号化する"
+
+msgid "Encryption"
+msgstr "暗号化"
+
+msgid "Encryption / Decryption"
+msgstr "暗号化/復号化"
+
+msgid "Encryption/decryption error"
+msgstr "暗号化/復号化エラー"
+
+msgid "Endianness:"
+msgstr "エンディアンネス:"
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "16 進データを入力します。例: 31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "64 ビットの符号なし整数を 16 進数、10 進数、または 2 進数で入力します。表示してクリックしてビット 0 ～ 63 を編集します。"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "ASCII 文字列を入力します。例: 123"
+
+msgid "Enter data"
+msgstr "データを入力してください"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "16 進数のバイトを入力します。例: 31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "変換するテキストを入力します。"
+
+msgid "Error correction:"
+msgstr "エラー修正:"
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "複数のテストセットを設定された順序で実行し、タイムアウト、ループ、結果の統計、ミリ秒のタイムスタンプログをサポートします。"
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "終了 (&X) Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "予期される応答 (空でないデータを受信したときに完了を示すには空白のままにします):"
+
+msgid "Extensions:"
+msgstr "拡張機能:"
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "ファイル CRC ワーカー スレッドの作成に失敗しました。"
+
+msgid "Failed to initialize CRC."
+msgstr "CRCの初期化に失敗しました。"
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "ファイルのマップに失敗しました (オフセット %llu、%s)"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "ファイルのマップに失敗しました (オフセット %llu、エラー %lu)"
+
+msgid "Failed to parse Hex data."
+msgstr "16 進数データの解析に失敗しました。"
+
+msgid "Failed to read BIN file."
+msgstr "BINファイルの読み込みに失敗しました。"
+
+msgid "Failed to read header file:"
+msgstr "ヘッダー ファイルの読み取りに失敗しました:"
+
+msgid "Failed to rename: "
+msgstr "名前の変更に失敗しました:"
+
+msgid "Failed to save PNG."
+msgstr "PNGの保存に失敗しました。"
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "ファイル CRC ワーカー スレッドの開始に失敗しました。"
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "CRC32/POSIX 長の更新に失敗しました。"
+
+msgid "Failed to write file: "
+msgstr "ファイルの書き込みに失敗しました:"
+
+msgid "Features\n\n"
+msgstr "特長"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "File (&F)"
+msgstr "ファイル(&F)"
+
+msgid "File hash calculation completed."
+msgstr "ファイルのハッシュ計算が完了しました。"
+
+msgid "File or directory:"
+msgstr "ファイルまたはディレクトリ:"
+
+msgid "Filename zero-padding"
+msgstr "ファイル名のゼロパディング"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "同じ名前のファイルはサイズが異なりますが、変更時間が同じであるため、方向を安全に判断できません。"
+
+msgid "Find and replace"
+msgstr "検索して置換する"
+
+msgid "Flow control:"
+msgstr "フロー制御:"
+
+msgid "Folder 1:"
+msgstr "フォルダー1:"
+
+msgid "Folder 2"
+msgstr "フォルダー2"
+
+msgid "Folder 2:"
+msgstr "フォルダー 2:"
+
+msgid "Folder sync"
+msgstr "フォルダーの同期"
+
+msgid "Follow system"
+msgstr "フォローシステム"
+
+msgid "For example: 123"
+msgstr "例: 123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "例: 31 32 33 または 0x31、0x32、0x33"
+
+msgid "Format:"
+msgstr "形式:"
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "4 つの誤り訂正レベル: Q (約 25%)、H (約 30%)。ズームを調整したり、画像をコピーしたり、PNG として保存したりできます。"
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "小数秒には最大 3 桁が含まれます。"
+
+msgid "From file:"
+msgstr "ファイルから:"
+
+msgid "From text box:"
+msgstr "テキストボックスから:"
+
+msgid "GCM (recommended)"
+msgstr "GCM (推奨)"
+
+msgid "Generate"
+msgstr "生成する"
+
+msgid "Generate key pair"
+msgstr "キーペアの生成"
+
+msgid "Generate random"
+msgstr "ランダムを生成"
+
+msgid "H (about 30%)"
+msgstr "H(約30%)"
+
+msgid "Hash calculation"
+msgstr "ハッシュ計算"
+
+msgid "Hash checker"
+msgstr "ハッシュチェッカー"
+
+msgid "Hash error"
+msgstr "ハッシュエラー"
+
+msgid "Header file directory:"
+msgstr "ヘッダーファイルのディレクトリ:"
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "ヘッダー ファイルが有効な UTF-8 またはローカル エンコーディングではありません:"
+
+msgid "Help (&H)"
+msgstr "ヘルプ (&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "16 進バイトは、スペース、カンマ、セミコロン、または改行で区切ることができます (例: 31 32 33)。"
+
+msgid "Hex data contains invalid characters."
+msgstr "16 進データに無効な文字が含まれています。"
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "16 進数データには偶数の 16 進数が含まれている必要があります。"
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "16 進データには偶数の数値が含まれている必要があります。"
+
+msgid "Hex input cannot be empty."
+msgstr "16 進入力を空にすることはできません。"
+
+msgid "Hex input contains an invalid character."
+msgstr "16 進入力に無効な文字が含まれています。"
+
+msgid "Hex input contains invalid characters."
+msgstr "16 進入力に無効な文字が含まれています。"
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "16 進入力には偶数の数値が含まれている必要があります。"
+
+msgid "Hex string"
+msgstr "16 進文字列"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "16 進数: 31 32 33 または 313233"
+
+msgid "Hexadecimal"
+msgstr "16進数"
+
+msgid "Host:"
+msgstr "ホスト:"
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "IPv4 フルインターフェイス: 0.0.0.0; IPv6 フルインターフェイス:::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV / ナンス (16 進数):"
+
+msgid "Include header file not found:"
+msgstr "インクルードヘッダーファイルが見つかりません:"
+
+msgid "Include subdirectories"
+msgstr "サブディレクトリを含める"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "標準の 4 モジュールの白いクワイエット ゾーンが含まれています。"
+
+msgid "Incremental CRC calculation failed."
+msgstr "インクリメンタル CRC 計算に失敗しました。"
+
+msgid "Input"
+msgstr "入力"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "入力と出力がクリアされました。主要なパラメータは保持されます。"
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "入力: 16 進数バイト、UTF-8 テキスト、ファイル (大きなファイルはチャンク メモリ マッピングを使用します)。"
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "入力: 16 進数バイト、UTF-8 テキスト、ファイル (ドラッグ アンド ドロップおよびチャンク メモリ マッピングをサポート)。"
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "データが不十分です: 動的構造ヘッダーには %lu バイトが必要です。"
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "データが不十分です: 構造には %lu バイトが必要です。"
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "インターフェイスとログ記録のミリ秒タイムスタンプ。シリアル ポートのプリセット ボー レートは最大 921600 で、特定のボー レートを手動で入力することもできます。"
+
+msgid "Invalid Hex character: '%c'."
+msgstr "無効な 16 進文字: '%c'。"
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "無効な WebSocket フラグメント シーケンス。"
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "WebSocket フレーム形式またはマスク方向が無効です。"
+
+msgid "Invalid WebSocket opcode."
+msgstr "無効な WebSocket オペコードです。"
+
+msgid "Invalid input"
+msgstr "無効な入力"
+
+msgid "Invalid millisecond format."
+msgstr "ミリ秒形式が無効です。"
+
+msgid "Invert all"
+msgstr "すべてを反転"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "項目 %lu、「%s」は、2 桁の 16 進バイトではありません。"
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "項目 %lu、「%s」は、有効な Latin-1 バイト (範囲 00 ～ FF) ではありません。"
+
+msgid "Key (Hex):"
+msgstr "キー (16 進数):"
+
+msgid "Key length:"
+msgstr "キーの長さ:"
+
+msgid "L (about 7%)"
+msgstr "L(約7%)"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Line %lu:"
+msgstr "%lu 行:"
+
+msgid "Line %lu: Block comment not ended."
+msgstr "%lu 行: ブロック コメントが終了していません。"
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "%lu 行: サポートされていない文字「%c」。"
+
+msgid "Line counter"
+msgstr "ラインカウンター"
+
+msgid "Listening address:"
+msgstr "リスニングアドレス:"
+
+msgid "Load directory"
+msgstr "ロードディレクトリ"
+
+msgid "Local port:"
+msgstr "ローカルポート:"
+
+msgid "M (about 15%)"
+msgstr "M(約15%)"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "MQTT ブローカー接続が失敗したか、タイムアウトしました。"
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "MQTT ブローカーが接続を拒否したか、無効な CONNACK。"
+
+msgid "MQTT Payload not matched"
+msgstr "MQTT ペイロードが一致しません"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "MQTT 残りの長さが無効です。"
+
+msgid "MQTT client"
+msgstr "MQTTクライアント"
+
+msgid "MQTT client disconnected."
+msgstr "MQTT クライアントが切断されました。"
+
+msgid "MQTT connection disconnected."
+msgstr "MQTT 接続が切断されました。"
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "MQTT メッセージが 16 MiB 制限を超えています。"
+
+msgid "MQTT publish topic mismatch:"
+msgstr "MQTT パブリッシュ トピックの不一致:"
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "MQTT パブリッシング トピックとサブスクリプション トピックを空にすることはできません。"
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "MQTT 受信トピックと応答トピックを空にすることはできません。"
+
+msgid "MQTT response publishing failed"
+msgstr "MQTT 応答の公開に失敗しました"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "MQTT 送信に失敗したか、接続が切断されました。"
+
+msgid "Manual width:"
+msgstr "手動幅:"
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "複数の設定に従って完全なフレームを順序どおりに照合し、対応する応答を送信し、重複フレームとプレフィックスのあいまいさをチェックします。"
+
+msgid "Match expression:"
+msgstr "一致式:"
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "メッセージを照合し、シリアル、TCP、UDP、WebSocket、または MQTT 経由で応答します"
+
+msgid "Matched and posted response"
+msgstr "一致して投稿された応答"
+
+msgid "Matched and responded"
+msgstr "一致して応答しました"
+
+msgid "Member type enum is not supported."
+msgstr "メンバー型の列挙型はサポートされていません。"
+
+msgid "Member's statement is not concluded."
+msgstr "メンバーの声明は結論が出ていない。"
+
+msgid "Milliseconds"
+msgstr "ミリ秒"
+
+msgid "Mode:"
+msgstr "モード:"
+
+msgid "Module width:"
+msgstr "モジュール幅:"
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "下に移動: 送信/受信ペアの実行順序を調整します。"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "上に移動: 送信/受信ペアの実行順序を調整します。"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Name cannot be empty."
+msgstr "名前を空にすることはできません。"
+
+msgid "New filename"
+msgstr "新しいファイル名"
+
+msgid "No files need zero-padding."
+msgstr "ゼロパディングが必要なファイルはありません。"
+
+msgid "No matches found."
+msgstr "一致するものが見つかりませんでした。"
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "パディングなし。入力長はブロック サイズの倍数である必要があります。"
+
+msgid "No structure definition found."
+msgstr "構造定義が見つかりません。"
+
+msgid "No valid file was found in the dropped content."
+msgstr "ドロップされたコンテンツ内に有効なファイルが見つかりませんでした。"
+
+msgid "Not matched"
+msgstr "一致しません"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "注: CBC は完全性認証を提供しません。新しいアプリケーションには GCM を優先します。"
+
+msgid "Number of tasks sent:"
+msgstr "送信されたタスクの数:"
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP および PKCS#1 v1.5。入力と出力は、UTF-8、Hex、Base64、またはファイルとして個別に選択できます。"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "/ws などのこの WebSocket パスのみを受け入れます。現在、ws:// をサポートしていますが、TLS/wss:// はサポートしていません"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "数字で始まるファイル名のみが処理されます。残りのテキストと拡張子は保持されます。"
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "構造体定義のみがサポートされます (enum/union/ordinary 宣言はサポートされません)。"
+
+msgid "Operation failed."
+msgstr "操作が失敗しました。"
+
+msgid "Original Hex"
+msgstr "オリジナルヘックス"
+
+msgid "Original filename"
+msgstr "元のファイル名"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "順不同の受信/送信マッピング"
+
+msgid "Output"
+msgstr "出力"
+
+msgid "Output to text box:"
+msgstr "テキストボックスに出力:"
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5 (レガシー)"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5 / PKCS#7 (推奨)"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7 (推奨)"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "PNG 画像 (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "PNGが保存されました。"
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "パディングは自動的に追加され、復号化中に削除されます。"
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "パディングは自動的に追加されます。データが整列している場合でも、余分なブロックが追加されます。"
+
+msgid "Padding:"
+msgstr "パディング:"
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "00 でパッドします。復号化すると末尾の 00 バイトが削除され、元の末尾の 0 バイトが失われる可能性があります。"
+
+msgid "Parity check:"
+msgstr "パリティチェック:"
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "C 構造定義を使用して Hex ストリームまたは BIN ファイルを解析する"
+
+msgid "Paste"
+msgstr "ペースト"
+
+msgid "Paste an RSA private key"
+msgstr "RSA 秘密キーを貼り付けます"
+
+msgid "Paste an RSA public key"
+msgstr "RSA公開キーを貼り付けます"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "最後から 2 番目のフィールドは末尾の配列の長さを指定します"
+
+msgid "Pixels per module:"
+msgstr "モジュールあたりのピクセル:"
+
+msgid "Please add at least one send/receive pair."
+msgstr "少なくとも 1 つの送受信ペアを追加してください。"
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "少なくとも 1 つの有効な受信/送信マッピングを構成してください。"
+
+msgid "Please select a valid BIN file."
+msgstr "有効な BIN ファイルを選択してください。"
+
+msgid "Please select a valid header directory."
+msgstr "有効なヘッダー ディレクトリを選択してください。"
+
+msgid "Please select two valid folders."
+msgstr "有効なフォルダを 2 つ選択してください。"
+
+msgid "Please wait ..."
+msgstr "お待ちください..."
+
+msgid "Pointer members are not supported."
+msgstr "ポインター メンバーはサポートされていません。"
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "プリセットアルゴリズム（18種類）：CRC8/SMBUS、 CRC16/MODBUS、CCITT_FALSE、XMODEM、KERMIT、USB; CRC24/LTEA、LTEB、BLE; CRC32、CRC32C、CRC32/MPEG2、POSIX、AUTOSAR、BZIP2; CRC64/ECMA、XZ、WE。"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "プレビュー: %lu ファイルが変更されます。 %lu 非テキスト ファイルまたはサイズ超過のファイルはスキップされました。"
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "秘密キー (Base64 DER / PEM):"
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "秘密キー (PKCS#1 PEM; 安全に保管してください)"
+
+msgid "Protocol analysis"
+msgstr "プロトコル解析"
+
+msgid "Protocol parser"
+msgstr "プロトコルパーサー"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "公開キー (Base64 DER / PEM):"
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "公開鍵 (PKCS#1 PEM)"
+
+msgid "Q (about 25%)"
+msgstr "Q(約25%)"
+
+msgid "QR Code content (UTF-8)"
+msgstr "QRコード内容（UTF-8）"
+
+msgid "QR Code content cannot be empty."
+msgstr "QR コードのコンテンツを空にすることはできません。"
+
+msgid "QR Code content is too long: "
+msgstr "QR コードのコンテンツが長すぎます:"
+
+msgid "QR Code encoder"
+msgstr "QRコードエンコーダ"
+
+msgid "QR Code encoding"
+msgstr "QRコードのエンコード"
+
+msgid "QR Code image copied."
+msgstr "QRコード画像をコピーしました。"
+
+msgid "RC4 (legacy)"
+msgstr "RC4 (レガシー)"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6、ChaCha20、Salsa20、Camellia、SEED、RSA; GCM、CBC、CTR、ECB、"
+
+msgid "RSA key pair"
+msgstr "RSA鍵ペア"
+
+msgid "Raw variable block"
+msgstr "生の変数ブロック"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "C struct/typedef 構造体定義と #define 配列長を読み取り、16 進データ ストリームまたは BIN ファイルを解析します。"
+
+msgid "Ready"
+msgstr "準備完了"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "一致を受け取ります (完全に一致する必要があります):"
+
+msgid "Receive data does not match"
+msgstr "受信データが一致しません"
+
+msgid "Receive topic:"
+msgstr "トピックを受信:"
+
+msgid "Received message not matched"
+msgstr "受信したメッセージが一致しません"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "受信: %lu 一致: %lu 不一致: %lu 応答: %lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "受信: 0 一致: 0 不一致: 0 応答: 0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "C/C++、Java、C#、JavaScript/TypeScript、Python、Go、Rust、PHP、Ruby、Shell、SQL、"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "推奨されるデフォルト: AES-256-GCM。"
+
+msgid "Rename"
+msgstr "名前の変更"
+
+msgid "Rename interrupted"
+msgstr "名前の変更が中断されました"
+
+msgid "Replace"
+msgstr "交換する"
+
+msgid "Replace file content"
+msgstr "ファイルの内容を置き換える"
+
+msgid "Replace filenames"
+msgstr "ファイル名を置換する"
+
+msgid "Replace folder names"
+msgstr "フォルダー名を置換"
+
+msgid "Replacement expression:"
+msgstr "置換式:"
+
+msgid "Replacer error"
+msgstr "置換エラー"
+
+msgid "Reply frame"
+msgstr "返信フレーム"
+
+msgid "Request data cannot be empty."
+msgstr "リクエストデータを空にすることはできません。"
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "%u バイト / %u 16 進文字が必要です"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "実行前に確認が必要で、同期およびコピーされるファイルの数が表示されます。"
+
+msgid "Respond to the topic:"
+msgstr "トピックに応答します。"
+
+msgid "Response delay (ms):"
+msgstr "応答遅延 (ミリ秒):"
+
+msgid "Response does not match:"
+msgstr "応答が一致しません:"
+
+msgid "Response sending failed"
+msgstr "応答の送信に失敗しました"
+
+msgid "Response/verification"
+msgstr "対応・確認"
+
+msgid "Result copied."
+msgstr "結果がコピーされました。"
+
+msgid "Results cleared."
+msgstr "結果はクリアされました。"
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "ルート構造 %s: %lu バイト。 %lu レコードを解析します。最後に残っている %lu バイト。"
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "シリアル、TCP、UDP、WebSocket、または MQTT のリクエストとレスポンスのテストを実行します。"
+
+msgid "Save PNG"
+msgstr "PNG を保存"
+
+msgid "Save QR Code"
+msgstr "QRコードを保存する"
+
+msgid "Save barcode"
+msgstr "バーコードの保存"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "ディレクトリ内のファイル名の先頭にある数値をスキャンし、最大数値幅に従って先頭のゼロを自動的に追加します。サブディレクトリを含めるサポート。"
+
+msgid "Search tools..."
+msgstr "検索ツール..."
+
+msgid "Seconds"
+msgstr "秒"
+
+msgid "Select BIN file"
+msgstr "BINファイルを選択"
+
+msgid "Select a file to calculate CRC"
+msgstr "CRC を計算するファイルを選択してください"
+
+msgid "Select a file to hash"
+msgstr "ハッシュするファイルを選択してください"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "単一のファイルまたはディレクトリを選択し、ファイル名とテキストの内容を高度な正規表現でバッチ置換します。ドラッグアンドドロップをサポートします。"
+
+msgid "Select a valid directory."
+msgstr "有効なディレクトリを選択してください。"
+
+msgid "Select a valid file or directory."
+msgstr "有効なファイルまたはディレクトリを選択してください。"
+
+msgid "Select a valid file."
+msgstr "有効なファイルを選択してください。"
+
+msgid "Select a valid input file."
+msgstr "有効な入力ファイルを選択してください。"
+
+msgid "Select algorithms, then calculate."
+msgstr "アルゴリズムを選択して計算します。"
+
+msgid "Select an existing file."
+msgstr "既存のファイルを選択します。"
+
+msgid "Select an output file."
+msgstr "出力ファイルを選択します。"
+
+msgid "Select at least one CRC algorithm."
+msgstr "少なくとも 1 つの CRC アルゴリズムを選択します。"
+
+msgid "Select at least one hash algorithm."
+msgstr "少なくとも 1 つのハッシュ アルゴリズムを選択します。"
+
+msgid "Select at least one replacement method."
+msgstr "少なくとも 1 つの置換方法を選択します。"
+
+msgid "Select directory"
+msgstr "ディレクトリの選択"
+
+msgid "Select directory for filename zero-padding"
+msgstr "ファイル名をゼロパディングするディレクトリを選択してください"
+
+msgid "Select directory..."
+msgstr "ディレクトリを選択..."
+
+msgid "Select file"
+msgstr "ファイルを選択"
+
+msgid "Select file..."
+msgstr "ファイルを選択..."
+
+msgid "Select folders to sync"
+msgstr "同期するフォルダーを選択してください"
+
+msgid "Select header file directory"
+msgstr "ヘッダーファイルのディレクトリを選択"
+
+msgid "Select input file"
+msgstr "入力ファイルの選択"
+
+msgid "Select output file"
+msgstr "出力ファイルの選択"
+
+msgid "Select source code directory"
+msgstr "ソースコードディレクトリを選択してください"
+
+msgid "Select source code file"
+msgstr "ソースコードファイルを選択"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "ドロップされたファイルから最初の有効なファイルを選択しました。"
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "一致後に送信 (空白のままにすることができ、統計情報のみを受信します):"
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "送信フレーム: %lu 正当な受信: %lu 不正な受信: %lu タイムアウト: %lu 成功したタスク: %lu/%lu 成功率: %.2f%%"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "送信フレーム：0 正当受信：0 不正受信：0 タイムアウト：0 タスク成功：0/0 成功率：0.00%"
+
+msgid "Sending interval (ms):"
+msgstr "送信間隔 (ミリ秒):"
+
+msgid "Serial port reception failed."
+msgstr "シリアルポートの受信に失敗しました。"
+
+msgid "Serial port transmission failed."
+msgstr "シリアルポート送信に失敗しました。"
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "シリアルポート: ボーレートは 1200 ～ 921600 に設定されており、1 ～ 4000000 を手動で入力できます。 5/6/7/8 データビット。"
+
+msgid "Set all to 1"
+msgstr "すべてを 1 に設定します"
+
+msgid "Settings (&S)"
+msgstr "設定(&S)"
+
+msgid "Shift left <<"
+msgstr "左にシフト <<"
+
+msgid "Shift right >>"
+msgstr "右にシフト >>"
+
+msgid "Show original text"
+msgstr "元のテキストを表示"
+
+msgid "Source line count"
+msgstr "ソース行数"
+
+msgid "Start counting"
+msgstr "カウントを開始する"
+
+msgid "Start the server"
+msgstr "サーバーを起動します"
+
+msgid "Stop bit:"
+msgstr "ストップビット:"
+
+msgid "Stop on failure"
+msgstr "失敗したら停止"
+
+msgid "Stream cipher"
+msgstr "ストリーム暗号"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "構造体のアライメントは 1、2、4、または 8 である必要があります。"
+
+msgid "Success, RX:"
+msgstr "成功しました、RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "AES、SM4、DES/3DES、Blowfish、Twofish、CAST5、IDEA、Serpent、TEA/XTEA/XXTEA、をサポート"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "1/2/4/8 バイト パッキング、リトル エンディアン/ビッグ エンディアン、複数の連続レコード、および末尾残りバイト プロンプトをサポートします。"
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "IPv4、IPv6 (例::1) およびホスト名をサポート"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "基本型、固定長配列、定義された入れ子構造をサポートします。"
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "バイナリファイル、進行状況表示、キャンセル操作をサポートします。 UTF-8 以外のデコード結果はファイルとして保存できます。"
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "現在時刻の取得、タイムスタンプと UTC テキストのコピー、値の範囲と日付形式の確認をサポートします。"
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "ネストされた構造、基本的な整数、float、double、bool、文字、固定長配列をサポートします。"
+
+msgid "Swap input and output"
+msgstr "入力と出力を入れ替える"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "同期が完了し、合計 %lu ファイルがコピーされました。"
+
+msgid "Synchronization interruption"
+msgstr "同期中断"
+
+msgid "TCP client"
+msgstr "TCPクライアント"
+
+msgid "TCP connection failed or timed out."
+msgstr "TCP 接続が失敗したか、タイムアウトになりました。"
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "TCP の受信に失敗したか、接続が切断されました。"
+
+msgid "TCP send failed."
+msgstr "TCP送信に失敗しました。"
+
+msgid "Tag:"
+msgstr "タグ:"
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "ターゲット幅: %lu 桁。 %lu ファイルの名前が変更されます。"
+
+msgid "Testing has been stopped."
+msgstr "テストは中止されました。"
+
+msgid "Testing is complete."
+msgstr "テストが完了しました。"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "テキスト エンコーディングは、GB18030-2022、UTF-8、およびローカル コード ページに従って検出されます。単一ファイルの最大サイズは 256 MiB です。"
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "テキストは UTF-8 エンコーディングを使用してハッシュされます"
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "テキストは UTF-8 エンコードを使用して処理されます"
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "BIN ファイルを読み取れないか、ファイルが 256 MiB を超えています。"
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "MQTT PUBLISH トピックは無効です。"
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "MQTT SUBACK が無効であるか、サブスクリプションが拒否されました。"
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "MQTT SUBSCRIBE メッセージは無効です。"
+
+msgid "The MQTT publish topic is invalid."
+msgstr "MQTT パブリッシュ トピックが無効です。"
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "MQTT サブスクリプション トピックが無効です。"
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "UTC 日付または時刻が有効な範囲外です。"
+
+msgid "The UTC time contains an invalid number."
+msgstr "UTC 時間に無効な数値が含まれています。"
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "UTC 時間形式は YYYY-MM-DD HH:MM:SS[.mmm] である必要があります。"
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "WebSocket ピアが接続を閉じました。"
+
+msgid "The barcode content cannot be empty."
+msgstr "バーコードの内容を空にすることはできません。"
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "ボーレートは 1 ～ 4000000 の整数である必要があります。"
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "デコード結果は UTF-8 テキストではありません。バイナリ データを保存するためにファイルに出力します。"
+
+msgid "The dropped file or directory is invalid."
+msgstr "ドロップされたファイルまたはディレクトリは無効です。"
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "ファイルが 16 MiB を超えています。テキスト ボックスのメモリの過度の使用を避けるために、ファイルに書き込みます。"
+
+msgid "The header file directory is invalid."
+msgstr "ヘッダファイルのディレクトリが無効です。"
+
+msgid "The input and output files cannot be the same."
+msgstr "入力ファイルと出力ファイルを同じにすることはできません。"
+
+msgid "The language setting could not be saved."
+msgstr "言語設定を保存できませんでした。"
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "最後のメンバーは、動的末尾配列の配列である必要があります。"
+
+msgid "The match expression cannot be empty."
+msgstr "一致式を空にすることはできません。"
+
+msgid "The parsing results have been cleared."
+msgstr "解析結果はクリアされました。"
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "動的末尾配列の場合、最後から 2 番目のメンバーは 8 ～ 32 ビットの整数スカラーである必要があります。"
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "受信キャッシュが制限を超えたためクリアされました。"
+
+msgid "The received data cannot be empty."
+msgstr "受信したデータを空にすることはできません。"
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "受信したフレームを同じにすることも、互いにプレフィックスを付けることもできません。そうでない場合、TCP/シリアル ポートはフレーム境界を決定できません。"
+
+msgid "The regular expression is invalid."
+msgstr "正規表現が無効です。"
+
+msgid "The replacement produced an invalid filename."
+msgstr "置換により無効なファイル名が生成されました。"
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "受信したリクエストは有効な MQTT 3.1.1 CONNECT ではありませんでした。"
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "受信したリクエストは有効な WebSocket RFC 6455 ハンドシェイクではありませんでした。"
+
+msgid "The root structure is invalid."
+msgstr "ルート構造が無効です。"
+
+msgid "The serial port or host cannot be empty."
+msgstr "シリアル ポートまたはホストを空にすることはできません。"
+
+msgid "The server has ended."
+msgstr "サーバーが終了しました。"
+
+msgid "The server has stopped."
+msgstr "サーバーが停止しました。"
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "サーバーが WebSocket のアップグレードを拒否したか、ハンドシェイク応答が無効でした。"
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "2 つのフォルダーを同じにすることはできません。また、互いのサブディレクトリにすることもできません。"
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "値の形式が無効であるか、64 ビット符号なし整数の範囲外です。"
+
+msgid "Timeout (ms):"
+msgstr "タイムアウト (ミリ秒):"
+
+msgid "Timestamp"
+msgstr "タイムスタンプ"
+
+msgid "Timestamp converter"
+msgstr "タイムスタンプコンバータ"
+
+msgid "To be synchronized: %lu files"
+msgstr "同期対象: %lu ファイル"
+
+msgid "Tools"
+msgstr "ツール"
+
+msgid "Total lines"
+msgstr "総行数"
+
+msgid "Try again:"
+msgstr "もう一度試してください:"
+
+msgid "UDP reception failed."
+msgstr "UDP受信に失敗しました。"
+
+msgid "UDP send failed."
+msgstr "UDP送信に失敗しました。"
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "UTC 入力では、スペースまたは T 区切り文字と、オプションで末尾の Z を使用できます。"
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "UTC 時間 (YYYY-MM-DD HH:MM:SS[.mmm])"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "Unix タイムスタンプに変換された UTC 時間。"
+
+msgid "UTF-8 text"
+msgstr "UTF-8テキスト"
+
+msgid "Unable to bind UDP port."
+msgstr "UDP ポートをバインドできません。"
+
+msgid "Unable to calculate relative path:"
+msgstr "相対パスを計算できません:"
+
+msgid "Unable to create communication channel."
+msgstr "通信チャネルを作成できません。"
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "ファイル マッピングを作成できません (エラー %lu)"
+
+msgid "Unable to get file size (%s)"
+msgstr "ファイル サイズを取得できません (%s)"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "ファイル サイズを取得できません (エラー %lu)"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "ネットワークソケットサブシステムを初期化できません。ネットワークツールは使用できません。"
+
+msgid "Unable to listen on MQTT port."
+msgstr "MQTT ポートでリッスンできません。"
+
+msgid "Unable to listen on TCP port."
+msgstr "TCP ポートをリッスンできません。"
+
+msgid "Unable to listen on WebSocket port."
+msgstr "WebSocket ポートでリッスンできません。"
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "UDP ローカル ポートを開けません (アドレス ファミリまたはポートが利用できません)。"
+
+msgid "Unable to open file: %s (%s)"
+msgstr "ファイルを開けません: %s (%s)"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "ファイルを開けません: %s (エラー %lu)"
+
+msgid "Unable to open serial port:"
+msgstr "シリアルポートを開けません:"
+
+msgid "Unable to read directory:"
+msgstr "ディレクトリを読み取れません:"
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "ヘッダー ファイルを読み取れないか、ファイルが 16 MiB を超えています:"
+
+msgid "Unable to read serial port configuration."
+msgstr "シリアルポート構成を読み取ることができません。"
+
+msgid "Unable to reread file during replacement: "
+msgstr "置換中にファイルを再読み込みできません:"
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "IPv4/IPv6 アドレスを解決できません:"
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "IPv4/IPv6 リスニング アドレスを解決できません:"
+
+msgid "Unable to resolve type:"
+msgstr "タイプを解決できません:"
+
+msgid "Unable to set serial port parameters."
+msgstr "シリアルポートパラメータを設定できません。"
+
+msgid "Unable to start server thread."
+msgstr "サーバースレッドを開始できません。"
+
+msgid "Unable to start test thread."
+msgstr "テスト スレッドを開始できません。"
+
+msgid "Unix / UTC conversion"
+msgstr "Unix/UTC変換"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Unix 秒は変換可能な範囲外です。"
+
+msgid "Unix timestamp"
+msgstr "Unix タイムスタンプ"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "Unix タイムスタンプを空にすることはできません。"
+
+msgid "Unix timestamp converted to UTC."
+msgstr "UTC に変換された Unix タイムスタンプ。"
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "Unix タイムスタンプは有効な 64 ビット整数ではありません。"
+
+msgid "Unknown or undefined member type."
+msgstr "不明または未定義のメンバータイプ。"
+
+msgid "Use private key"
+msgstr "秘密キーを使用する"
+
+msgid "Use public key"
+msgstr "公開鍵を使用する"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "正規表現を使用してファイル名とテキストをバッチで置換する"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "辞書の順序を自然な番号付けの順序と一致させ、名前を変更する前に競合をチェックするために使用されます。"
+
+msgid "Value copied to the clipboard."
+msgstr "クリップボードにコピーされた値。"
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "値の範囲: 0 ～ 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "応答内容を確認します（チェックを外した場合は、設定された長さだけ待機します）"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "バージョン %d; %d × %d モジュール;画像 %d × %d。"
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "64 ビット符号なし整数の各ビットを表示および編集する"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "警告: Crypto++ は、XXTEA 実装を BTEA と名付け、完全にテストされていないものとしてマークします。入力は少なくとも 8 バイトで 4 の倍数である必要があります。"
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "警告: ECB はデータ パターンを公開するため、実際のデータには推奨されません。"
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "警告: OAEP を推奨します。 PKCS#1 v1.5 は互換性のためのみに提供されています。"
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "警告: このアルゴリズムは安全ではなく、従来の互換性のためにのみ提供されています。"
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "警告: このアルゴリズムはレガシー システムまたはプロトコルを対象としています。新しいデータには AES-GCM を優先します。"
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "WebSocket HTTP ヘッダーが大きすぎるか不完全です。"
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "WebSocket TCP 接続が失敗したか、タイムアウトしました。"
+
+msgid "WebSocket client"
+msgstr "WebSocketクライアント"
+
+msgid "WebSocket connection disconnected."
+msgstr "WebSocket 接続が切断されました。"
+
+msgid "WebSocket handshake connection broken."
+msgstr "WebSocket ハンドシェイク接続が切断されました。"
+
+msgid "WebSocket handshake timed out."
+msgstr "WebSocket ハンドシェイクがタイムアウトしました。"
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "WebSocket メッセージが 16 MiB 制限を超えています。"
+
+msgid "WebSocket path mismatch."
+msgstr "WebSocket パスが一致しません。"
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "WebSocket リクエスト パス (/ws など)。現在 ws:// をサポートしていますが、TLS/wss:// はサポートしていません"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "WebSocket の送信に失敗したか、接続が切断されました。"
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "応答の検証が有効になっている場合、予期される応答を空にすることはできません。"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "フォルダーごとに桁数を個別に計算します。%lu 個のファイル名を変更します。"
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows は 1/1.5/2 ストップ ビット、すべてのチェックサム、およびフロー制御の組み合わせをサポートします。 Linux/macOS の特定の組み合わせは、システム ドライバーによって制限されます。"
+
+msgid "Write to file:"
+msgstr "ファイルに書き込む:"
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA / BTEA (実験的)"
+
+msgid "You can drop a file onto this page."
+msgstr "このページにファイルをドロップできます。"
+
+msgid "Zero-pad filenames"
+msgstr "ゼロパッドのファイル名"
+
+msgid "Zero-padded filename"
+msgstr "ゼロ埋めされたファイル名"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "ゼロパディングすると、重複したファイル名が作成されます。"
+
+msgid "[stop]"
+msgstr "[停止]"
+
+msgid "ask"
+msgstr "尋ねる"
+
+msgid "ask:"
+msgstr "尋ねてください："
+
+msgid "big endian"
+msgstr "ビッグエンディアン"
+
+msgid "communication client"
+msgstr "通信クライアント"
+
+msgid "communication server"
+msgstr "通信サーバー"
+
+msgid "delay"
+msgstr "遅延"
+
+msgid "direction"
+msgstr "方向"
+
+msgid "even parity"
+msgstr "偶数パリティ"
+
+msgid "expect '"
+msgstr "期待してください」"
+
+msgid "folder 1"
+msgstr "フォルダ1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\n構築済み: %s %s wxWidgets %s %s"
+
+msgid "include is missing the closing quote:"
+msgstr "include には終了引用符がありません:"
+
+msgid "little endian"
+msgstr "リトルエンディアン"
+
+msgid "mapping"
+msgstr "マッピング"
+
+msgid "mark"
+msgstr "マーク"
+
+msgid "member"
+msgstr "メンバー"
+
+msgid "name"
+msgstr "名前"
+
+msgid "name:"
+msgstr "名前:"
+
+msgid "none"
+msgstr "なし"
+
+msgid "odd parity"
+msgstr "奇数パリティ"
+
+msgid "offset"
+msgstr "オフセット"
+
+msgid "parse"
+msgstr "解析する"
+
+msgid "parsed value"
+msgstr "解析された値"
+
+msgid "path:"
+msgstr "パス:"
+
+msgid "port:"
+msgstr "ポート:"
+
+msgid "receive timeout"
+msgstr "受信タイムアウト"
+
+msgid "release:"
+msgstr "リリース:"
+
+msgid "reset"
+msgstr "リセット"
+
+msgid "result"
+msgstr "結果"
+
+msgid "send"
+msgstr "送信する"
+
+msgid "send/receive pair"
+msgstr "送信/受信ペア"
+
+msgid "serial number"
+msgstr "シリアル番号"
+
+msgid "size"
+msgstr "サイズ"
+
+msgid "source"
+msgstr "ソース"
+
+msgid "space"
+msgstr "スペース"
+
+msgid "start"
+msgstr "始める"
+
+msgid "stop"
+msgstr "停止"
+
+msgid "subscription:"
+msgstr "サブスクリプション:"
+
+msgid "synchronous"
+msgstr "同期"
+
+msgid "take over"
+msgstr "引き継ぐ"
+
+msgid "test frame"
+msgstr "テストフレーム"
+
+msgid "test stopped"
+msgstr "テストが停止されました"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "0x プレフィックスが許可され、Latin-1 範囲は 00 ～ FF です。"
+
+msgid "type"
+msgstr "タイプ"
+
+msgid "union is not supported."
+msgstr "結合はサポートされていません。"

@@ -1,0 +1,10 @@
+/build/
+/.cache/
+*.user
+*.log
+__pycache__/
+*.py[cod]
+
+# Dependency source archives are supplied locally and are never committed.
+/src/third_party/distfiles/*
+!/src/third_party/distfiles/.gitkeep

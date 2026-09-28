@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=iTool
+Comment=Multi-purpose developer utility toolbox
+Exec=iTool
+Icon=itool
+Terminal=false
+Categories=Utility;Development;

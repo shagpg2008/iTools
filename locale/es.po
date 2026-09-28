@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "caracteres %lu; imagen %d × %d."
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "Archivos %lu completados; no se pudo cambiar el nombre:\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "Se copiarán los archivos %lu; Los archivos más nuevos con el mismo nombre sobrescribirán los archivos más antiguos. ¿Continuar?"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "Archivos %lu: total %lu, código %lu, comentarios %lu, en blanco %lu; omitido %lu"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "Se han cargado las entradas del archivo de encabezado %lu; include se expandirá de forma recursiva durante el análisis."
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s completado: %u -> %u bytes"
+
+msgid "/ No verification"
+msgstr "/ Sin verificación"
+
+msgid "/check"
+msgstr "/controlar"
+
+msgid "1 byte (compact)"
+msgstr "1 byte (compacto)"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1,5 bits de parada solo se pueden utilizar en combinación con 5 bits de datos."
+
+msgid "2 bytes"
+msgstr "2 bytes"
+
+msgid "3DES (legacy)"
+msgstr "3DES (heredado)"
+
+msgid "4 bytes"
+msgstr "4 bytes"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "No se pueden combinar 5 bits de datos con 2 bits de parada."
+
+msgid "64-bit unsigned integer"
+msgstr "Entero sin signo de 64 bits"
+
+msgid "8 bytes"
+msgstr "8 bytes"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "Un parámetro personalizado excede el ancho de bits especificado por Ancho."
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "Existe un nombre de archivo de destino duplicado; operación detenida."
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "Se generará automáticamente una vista previa de sincronización después de seleccionar dos carpetas."
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "Una matriz de longitud cero solo se admite como último miembro de la estructura."
+
+msgid "AAD (UTF-8):"
+msgstr "AAD (UTF-8):"
+
+msgid "ASCII converter"
+msgstr "Convertidor ASCII"
+
+msgid "ASCII string"
+msgstr "cadena ASCII"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "El texto ASCII sólo puede contener caracteres del 0x00 al 0x7F."
+
+msgid "ASCII text cannot be empty."
+msgstr "El texto ASCII no puede estar vacío."
+
+msgid "About (&A)"
+msgstr "Acerca de (&A)"
+
+msgid "About iTool"
+msgstr "Acerca de iTool"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "A punto de modificar archivos %lu. Esto no se puede deshacer automáticamente. ¿Continuar?"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "A punto de cambiar el nombre de los archivos %lu. ¿Continuar?"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "Agregue ceros a la izquierda a los nombres de archivos numerados para una clasificación natural"
+
+msgid "Add new receive/send pair"
+msgstr "Agregar nuevo par de recepción/envío"
+
+msgid "Add new send/receive pair"
+msgstr "Agregar nuevo par de envío/recepción"
+
+msgid "Added receive/send mapping"
+msgstr "Se agregó mapeo de recepción/envío"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "Primero agrega 80, luego completa con 00."
+
+msgid "Algorithm and parameters"
+msgstr "Algoritmo y parámetros"
+
+msgid "Algorithm:"
+msgstr "Algoritmo:"
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "Algoritmos (22 tipos): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Se pueden calcular varios algoritmos a la vez."
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "No se pueden proporcionar alias después de la llave de cierre de una estructura que no sea typedef."
+
+msgid "Alignment:"
+msgstr "Alineación:"
+
+msgid "All files (*.*)|*.*"
+msgstr "Todos los archivos (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "Las estructuras anónimas deben proporcionar un nombre typedef."
+
+msgid "Any non-empty"
+msgstr "Cualquier no vacío"
+
+msgid "Array length missing."
+msgstr "Falta la longitud de la matriz."
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "La longitud de la matriz debe ser un número entero positivo o una macro numérica definida."
+
+msgid "Array length must be greater than zero."
+msgstr "La longitud de la matriz debe ser mayor que cero."
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "Calcule automáticamente la suma de comprobación, ajuste el zoom y copie la imagen o guárdela como PNG."
+
+msgid "BIN file"
+msgstr "archivo BIN"
+
+msgid "Barcode encoder"
+msgstr "Codificador de código de barras"
+
+msgid "Barcode encoding"
+msgstr "Codificación de código de barras"
+
+msgid "Barcode height:"
+msgstr "Altura del código de barras:"
+
+msgid "Barcode image copied."
+msgstr "Imagen de código de barras copiada."
+
+msgid "Base64"
+msgstr "Base64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Codificación y decodificación Base64; la entrada y la salida pueden seleccionar de forma independiente texto o archivos UTF-8;"
+
+msgid "Base64 error"
+msgstr "error base64"
+
+msgid "Baud rate:"
+msgstr "Velocidad de transmisión:"
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "Conversión bidireccional entre la marca de tiempo Unix de 64 bits y la fecha y hora UTC; la unidad de marca de tiempo admite segundos y milisegundos;"
+
+msgid "Binary"
+msgstr "Binario"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "Archivos binarios (*.bin)|*.bin|Todos los archivos (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "No se admiten miembros de campo de bits."
+
+msgid "Bits set: %d / 64"
+msgstr "Juego de puntas: %d / 64"
+
+msgid "Bitset64"
+msgstr "Bitset64"
+
+msgid "Blank"
+msgstr "Blanco"
+
+msgid "Both folders have been synchronized."
+msgstr "Ambas carpetas se han sincronizado."
+
+msgid "C structure definition"
+msgstr "Definición de estructura C"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB opcional PKCS, Zero, ISO/IEC 7816-4 o sin relleno; admite generación segura de pares de claves aleatorias, IV/Nonce y RSA."
+
+msgid "CRC calculation error"
+msgstr "Error de cálculo del CRC"
+
+msgid "CRC calculator"
+msgstr "calculadora CRC"
+
+msgid "Calculate"
+msgstr "Calcular"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "Calcular hashes para texto, datos hexadecimales o archivos"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "Calcule valores CRC estándar y personalizados para texto, bytes o archivos"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "Calculando el archivo CRC en segundo plano..."
+
+msgid "Calculation completed."
+msgstr "Cálculo completado."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Canceled."
+msgstr "Cancelado."
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "El carácter %lu, “%s”, está fuera del rango Latin-1 (00–FF)."
+
+msgid "Clear"
+msgstr "Claro"
+
+msgid "Clear all"
+msgstr "Borrar todo"
+
+msgid "Clear log"
+msgstr "Borrar registro"
+
+msgid "Clear results"
+msgstr "Resultados claros"
+
+msgid "Cleared."
+msgstr "Despejado."
+
+msgid "Close"
+msgstr "Cerca"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Code 128-B content"
+msgstr "Contenido del código 128-B"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "El contenido del código 128-B no puede exceder los 200 caracteres."
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "El código 128-B genera la suma de verificación automáticamente."
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "El código 128-B sólo admite caracteres ASCII de 32 a 126."
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "El código y los comentarios se pueden contar en la misma línea (por ejemplo, comentarios finales)."
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "Las velocidades de baudios comunes se pueden seleccionar o ingresar manualmente de 1 a 4000000."
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "Archivos de uso común como HTML/XML, CSS, Vue, CMake y sus estilos de comentarios; el tamaño máximo de un solo archivo es 512 MiB."
+
+msgid "Communication client"
+msgstr "Cliente de comunicación"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "Cliente de comunicación: Windows, Linux y macOS admiten puertos serie y admiten TCP, UDP, WebSocket y MQTT 3.1.1; los datos de solicitud/respuesta pueden ser opcionalmente hexadecimales o ASCII;"
+
+msgid "Communication server"
+msgstr "Servidor de comunicaciones"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "Servidor de comunicación: Windows, Linux y macOS pueden monitorear el puerto serie y admitir TCP, UDP, WebSocket y MQTT 3.1.1; las tramas receptoras pueden ser hexadecimales o ASCII;"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "Compare dos directorios y sincronice archivos más nuevos o unilaterales"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "Compare dos carpetas y sus subdirectorios; generar vistas previas sincronizadas basadas en el tiempo de modificación; copie archivos más nuevos y archivos de una sola cara en ambas direcciones;"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "Archivos %lu completados, la copia falló:\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "Completado: bytes %llu, algoritmos %lu."
+
+msgid "Completed: %lu files modified."
+msgstr "Completado: Archivos %lu modificados."
+
+msgid "Completed: %lu files renamed."
+msgstr "Completado: Archivos %lu renombrados."
+
+msgid "Confirm rename"
+msgstr "Confirmar cambio de nombre"
+
+msgid "Confirm replacement"
+msgstr "Confirmar reemplazo"
+
+msgid "Confirm synchronization"
+msgstr "Confirmar sincronización"
+
+msgid "Content matches"
+msgstr "Coincidencias de contenido"
+
+msgid "Conversion completed."
+msgstr "Conversión completada."
+
+msgid "Convert"
+msgstr "Convertir"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "Convierta entre marcas de tiempo Unix de 64 bits y fecha/hora UTC"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "Convertir entre cadenas hexadecimales y ASCII"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "Convierta archivos o texto UTF-8 hacia y desde Base64"
+
+msgid "Convert to Base64"
+msgstr "Convertir a Base64"
+
+msgid "Convert to UTC ↓"
+msgstr "Convertir a UTC ↓"
+
+msgid "Convert to Unix ↑"
+msgstr "Convertir a Unix ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "Bytes convertidos: %llu"
+
+msgid "Copied to the clipboard."
+msgstr "Copiado al portapapeles."
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Copy image"
+msgstr "Copiar imagen"
+
+msgid "Copy result"
+msgstr "Copiar resultado"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "Cuente un solo archivo o directorio, puede elegir si desea recurrir y personalizar la extensión; contar el total de líneas, código, comentarios y líneas en blanco respectivamente;"
+
+msgid "Count results cleared."
+msgstr "Se borraron los resultados del recuento."
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "Cuente el total, el código, los comentarios y las líneas en blanco por archivo"
+
+msgid "Crypto++ conversion failed: "
+msgstr "La conversión a Crypto++ falló:"
+
+msgid "Current UTC time loaded."
+msgstr "Hora UTC actual cargada."
+
+msgid "Current time"
+msgstr "Hora actual"
+
+msgid "Custom"
+msgstr "Costumbre"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "Custom Init, Poly y XorOut deben ser números hexadecimales."
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "El ancho personalizado solo admite 8, 16, 24, 32 o 64."
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "Algoritmo personalizado: se pueden configurar Ancho, Init, Poly, XorOut, RefIn, RefOut y se pueden seleccionar varios cálculos de algoritmo al mismo tiempo."
+
+msgid "DES (legacy)"
+msgstr "DES (heredado)"
+
+msgid "Data bits:"
+msgstr "Bits de datos:"
+
+msgid "Decimal"
+msgstr "Decimal"
+
+msgid "Decode from Base64"
+msgstr "Decodificar desde Base64"
+
+msgid "Decrypt"
+msgstr "Descifrar"
+
+msgid "Decryption"
+msgstr "Descifrado"
+
+msgid "Delay before sending (ms):"
+msgstr "Retraso antes del envío (ms):"
+
+msgid "Delete selected receive/send mapping"
+msgstr "Eliminar asignación de recepción/envío seleccionada"
+
+msgid "Delete selected send/receive pair"
+msgstr "Eliminar el par de envío/recepción seleccionado"
+
+msgid "Determine width from the largest number"
+msgstr "Determinar el ancho a partir del número más grande."
+
+msgid "Direction"
+msgstr "Dirección"
+
+msgid "Directory sync"
+msgstr "Sincronización de directorio"
+
+msgid "Directory:"
+msgstr "Directorio:"
+
+msgid "Dropped directory accepted."
+msgstr "Se acepta el directorio descartado."
+
+msgid "Dropped file accepted."
+msgstr "Se aceptó el archivo descartado."
+
+msgid "Dynamic tail array length is too large."
+msgstr "La longitud del conjunto de cola dinámica es demasiado grande."
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "La matriz de cola dinámica requiere al menos dos miembros de la estructura."
+
+msgid "ECB (legacy)"
+msgstr "BCE (heredado)"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "Cada valor hexadecimal y estado de bit se actualizan juntos, lo que permite copiar los resultados."
+
+msgid "Edit receive/send pairs"
+msgstr "Editar pares de recepción/envío"
+
+msgid "Edit selected receive/send mapping"
+msgstr "Editar asignación de recepción/envío seleccionada"
+
+msgid "Edit selected send/receive pair"
+msgstr "Editar el par de envío/recepción seleccionado"
+
+msgid "Edit send/receive pairs"
+msgstr "Editar pares de envío/recepción"
+
+msgid "Enable this mapping"
+msgstr "Habilitar este mapeo"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "Codifique texto ASCII como código de barras Código 128-B"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "Codifique texto UTF-8 como una imagen de código QR"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "Codifique texto UTF-8 en código QR; seleccione automáticamente la versión del código QR; soporte L (alrededor del 7%), M (alrededor del 15%),"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "Codifique texto en el rango de ASCII 32 a 126 y hasta 200 caracteres en el Código 128-B;"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "Detección de codificación: GB18030-2022 -> UTF-8 -> página de códigos local; máximo 256 MiB por archivo."
+
+msgid "Encountered failure and stopped as configured."
+msgstr "Se produjo un error y se detuvo según lo configurado."
+
+msgid "Encrypt"
+msgstr "cifrar"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "Cifrar y descifrar datos utilizando algoritmos Crypto++"
+
+msgid "Encryption"
+msgstr "Cifrado"
+
+msgid "Encryption / Decryption"
+msgstr "Cifrado/Descifrado"
+
+msgid "Encryption/decryption error"
+msgstr "Error de cifrado/descifrado"
+
+msgid "Endianness:"
+msgstr "Endianidad:"
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "Ingrese datos hexadecimales, por ejemplo: 31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "Ingrese un entero sin signo de 64 bits en hexadecimal, decimal o binario; muestre y haga clic para editar los bits 0~63;"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "Ingrese una cadena ASCII, por ejemplo: 123"
+
+msgid "Enter data"
+msgstr "Introducir datos"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "Introduzca bytes hexadecimales, por ejemplo: 31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "Ingrese el texto para convertir."
+
+msgid "Error correction:"
+msgstr "Corrección de errores:"
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "Ejecute múltiples conjuntos de pruebas en el orden configurado, admitiendo tiempos de espera, bucles, estadísticas de resultados y registros de marcas de tiempo de milisegundos."
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "Salir (&X) Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "Respuesta esperada (deje en blanco para indicar que se completó al recibir cualquier dato que no esté vacío):"
+
+msgid "Extensions:"
+msgstr "Extensiones:"
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "No se pudo crear el subproceso de trabajo CRC del archivo."
+
+msgid "Failed to initialize CRC."
+msgstr "No se pudo inicializar CRC."
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "No se pudo asignar el archivo (desplazamiento %llu, %s)"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "No se pudo asignar el archivo (desplazamiento %llu, error %lu)"
+
+msgid "Failed to parse Hex data."
+msgstr "No se pudieron analizar los datos hexadecimales."
+
+msgid "Failed to read BIN file."
+msgstr "No se pudo leer el archivo BIN."
+
+msgid "Failed to read header file:"
+msgstr "No se pudo leer el archivo de encabezado:"
+
+msgid "Failed to rename: "
+msgstr "No se pudo cambiar el nombre:"
+
+msgid "Failed to save PNG."
+msgstr "No se pudo guardar PNG."
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "No se pudo iniciar el subproceso de trabajo CRC del archivo."
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "No se pudo actualizar la longitud de CRC32/POSIX."
+
+msgid "Failed to write file: "
+msgstr "No se pudo escribir el archivo:"
+
+msgid "Features\n\n"
+msgstr "Características"
+
+msgid "File"
+msgstr "Archivo"
+
+msgid "File (&F)"
+msgstr "Archivo (&F)"
+
+msgid "File hash calculation completed."
+msgstr "Se completó el cálculo del hash del archivo."
+
+msgid "File or directory:"
+msgstr "Archivo o directorio:"
+
+msgid "Filename zero-padding"
+msgstr "Relleno de ceros en el nombre del archivo"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "Los archivos con el mismo nombre tienen diferentes tamaños pero el mismo tiempo de modificación, por lo que no se puede determinar con seguridad la dirección:"
+
+msgid "Find and replace"
+msgstr "Buscar y reemplazar"
+
+msgid "Flow control:"
+msgstr "Control de flujo:"
+
+msgid "Folder 1:"
+msgstr "Carpeta 1:"
+
+msgid "Folder 2"
+msgstr "Carpeta 2"
+
+msgid "Folder 2:"
+msgstr "Carpeta 2:"
+
+msgid "Folder sync"
+msgstr "Sincronización de carpetas"
+
+msgid "Follow system"
+msgstr "Seguir sistema"
+
+msgid "For example: 123"
+msgstr "Por ejemplo: 123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "Por ejemplo: 31 32 33 o 0x31, 0x32, 0x33"
+
+msgid "Format:"
+msgstr "Formato:"
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "Cuatro niveles de corrección de errores: Q (aprox. 25%), H (aprox. 30%); ajuste el zoom, copie la imagen o guárdela como PNG."
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "Los segundos fraccionarios contienen hasta tres dígitos."
+
+msgid "From file:"
+msgstr "Del archivo:"
+
+msgid "From text box:"
+msgstr "Desde el cuadro de texto:"
+
+msgid "GCM (recommended)"
+msgstr "GCM (recomendado)"
+
+msgid "Generate"
+msgstr "generar"
+
+msgid "Generate key pair"
+msgstr "Generar par de claves"
+
+msgid "Generate random"
+msgstr "Generar aleatorio"
+
+msgid "H (about 30%)"
+msgstr "H (alrededor del 30%)"
+
+msgid "Hash calculation"
+msgstr "Cálculo hash"
+
+msgid "Hash checker"
+msgstr "Comprobador de hash"
+
+msgid "Hash error"
+msgstr "error de hash"
+
+msgid "Header file directory:"
+msgstr "Directorio de archivos de encabezado:"
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "El archivo de encabezado no tiene una codificación local o UTF-8 válida:"
+
+msgid "Help (&H)"
+msgstr "Ayuda (&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "Los bytes hexadecimales pueden estar separados por espacios, comas, punto y coma o saltos de línea, por ejemplo 31 32 33;"
+
+msgid "Hex data contains invalid characters."
+msgstr "Los datos hexadecimales contienen caracteres no válidos."
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "Los datos hexadecimales deben contener un número par de dígitos hexadecimales."
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "Los datos hexadecimales deben contener un número par de números."
+
+msgid "Hex input cannot be empty."
+msgstr "La entrada hexadecimal no puede estar vacía."
+
+msgid "Hex input contains an invalid character."
+msgstr "La entrada hexadecimal contiene un carácter no válido."
+
+msgid "Hex input contains invalid characters."
+msgstr "La entrada hexadecimal contiene caracteres no válidos."
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "La entrada hexadecimal debe contener un número par de números."
+
+msgid "Hex string"
+msgstr "cadena hexagonal"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "Hexadecimal: 31 32 33 o 313233"
+
+msgid "Hexadecimal"
+msgstr "hexadecimal"
+
+msgid "Host:"
+msgstr "Anfitrión:"
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "Interfaz completa IPv4: 0.0.0.0; Interfaz completa IPv6:::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV / Nonce (Hexadecimal):"
+
+msgid "Include header file not found:"
+msgstr "Incluir archivo de encabezado no encontrado:"
+
+msgid "Include subdirectories"
+msgstr "Incluir subdirectorios"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "Incluye de serie la zona silenciosa blanca de cuatro módulos."
+
+msgid "Incremental CRC calculation failed."
+msgstr "Error en el cálculo incremental de CRC."
+
+msgid "Input"
+msgstr "Entrada"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "Entrada y salida borradas; Se mantienen los parámetros clave."
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "Entrada: bytes hexadecimales, texto UTF-8, archivos (los archivos grandes utilizan mapeo de memoria fragmentada)."
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "Entrada: bytes hexadecimales, texto UTF-8, archivos (admite arrastrar y soltar y mapeo de memoria fragmentada)."
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "Datos insuficientes: el encabezado de la estructura dinámica requiere bytes %lu."
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "Datos insuficientes: la estructura requiere bytes %lu."
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "Interfaz y marca de tiempo de milisegundos de grabación de registros. La velocidad en baudios preestablecida del puerto serie es de hasta 921600 y también se puede ingresar manualmente una velocidad en baudios específica."
+
+msgid "Invalid Hex character: '%c'."
+msgstr "Carácter hexadecimal no válido: '%c'."
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "Secuencia de fragmentos de WebSocket no válida."
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "Formato de marco de WebSocket o dirección de máscara no válidos."
+
+msgid "Invalid WebSocket opcode."
+msgstr "Código de operación de WebSocket no válido."
+
+msgid "Invalid input"
+msgstr "Entrada no válida"
+
+msgid "Invalid millisecond format."
+msgstr "Formato de milisegundos no válido."
+
+msgid "Invert all"
+msgstr "invertir todo"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "El elemento %lu, “%s”, no es un byte hexadecimal de dos dígitos."
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "El elemento %lu, “%s”, no es un byte Latin-1 válido (rango 00–FF)."
+
+msgid "Key (Hex):"
+msgstr "Clave (hexadecimal):"
+
+msgid "Key length:"
+msgstr "Longitud de la clave:"
+
+msgid "L (about 7%)"
+msgstr "L (alrededor del 7%)"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Line %lu:"
+msgstr "Línea %lu:"
+
+msgid "Line %lu: Block comment not ended."
+msgstr "Línea %lu: Comentario del bloque no finalizado."
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "Línea %lu: carácter no admitido '%c'."
+
+msgid "Line counter"
+msgstr "Contador de líneas"
+
+msgid "Listening address:"
+msgstr "Dirección de escucha:"
+
+msgid "Load directory"
+msgstr "Cargar directorio"
+
+msgid "Local port:"
+msgstr "Puerto local:"
+
+msgid "M (about 15%)"
+msgstr "M (alrededor del 15%)"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "La conexión del agente MQTT falló o se agotó el tiempo de espera."
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "El agente MQTT rechazó la conexión o CONNACK no es válido."
+
+msgid "MQTT Payload not matched"
+msgstr "La carga útil MQTT no coincide"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "La longitud restante de MQTT no es válida."
+
+msgid "MQTT client"
+msgstr "Cliente MQTT"
+
+msgid "MQTT client disconnected."
+msgstr "Cliente MQTT desconectado."
+
+msgid "MQTT connection disconnected."
+msgstr "Conexión MQTT desconectada."
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "El mensaje MQTT supera el límite de 16 MiB."
+
+msgid "MQTT publish topic mismatch:"
+msgstr "El tema de publicación MQTT no coincide:"
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "Los temas de publicación de MQTT y los temas de suscripción no pueden estar vacíos."
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "El tema de recepción y el tema de respuesta de MQTT no pueden estar vacíos."
+
+msgid "MQTT response publishing failed"
+msgstr "La publicación de la respuesta MQTT falló"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "El envío de MQTT falló o la conexión se desconectó."
+
+msgid "Manual width:"
+msgstr "Ancho manual:"
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "Haga coincidir cuadros completos desordenados de acuerdo con múltiples configuraciones y envíe las respuestas correspondientes, verificando cuadros duplicados y ambigüedades de prefijos;"
+
+msgid "Match expression:"
+msgstr "Expresión de coincidencia:"
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "Haga coincidir mensajes y responda a través de serie, TCP, UDP, WebSocket o MQTT"
+
+msgid "Matched and posted response"
+msgstr "Respuesta coincidente y publicada"
+
+msgid "Matched and responded"
+msgstr "Emparejado y respondido"
+
+msgid "Member type enum is not supported."
+msgstr "La enumeración de tipos de miembros no es compatible."
+
+msgid "Member's statement is not concluded."
+msgstr "La declaración del diputado no ha concluido."
+
+msgid "Milliseconds"
+msgstr "Milisegundos"
+
+msgid "Mode:"
+msgstr "Modo:"
+
+msgid "Module width:"
+msgstr "Ancho del módulo:"
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "Mover hacia abajo: ajusta el orden de ejecución de los pares de envío/recepción"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "Subir: ajustar el orden de ejecución de los pares de envío/recepción"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Name cannot be empty."
+msgstr "El nombre no puede estar vacío."
+
+msgid "New filename"
+msgstr "Nuevo nombre de archivo"
+
+msgid "No files need zero-padding."
+msgstr "Ningún archivo necesita relleno con ceros."
+
+msgid "No matches found."
+msgstr "No se encontraron coincidencias."
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "Sin relleno; La longitud de entrada debe ser un múltiplo del tamaño del bloque."
+
+msgid "No structure definition found."
+msgstr "No se encontró ninguna definición de estructura."
+
+msgid "No valid file was found in the dropped content."
+msgstr "No se encontró ningún archivo válido en el contenido eliminado."
+
+msgid "Not matched"
+msgstr "No coincidente"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "Nota: CBC no proporciona autenticación de integridad; Prefiera GCM para nuevas aplicaciones."
+
+msgid "Number of tasks sent:"
+msgstr "Número de tareas enviadas:"
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP y PKCS#1 v1.5; la entrada y la salida se pueden seleccionar de forma independiente como UTF-8, Hex, Base64 o archivo;"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "Acepte únicamente esta ruta de WebSocket, como /ws; actualmente admite ws://, no TLS/wss://"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "Sólo se procesan los nombres de archivos que comienzan con dígitos; El texto restante y las extensiones se conservan."
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "Solo se admiten definiciones de estructuras (no se admiten declaraciones enum/union/ordinary)."
+
+msgid "Operation failed."
+msgstr "La operación falló."
+
+msgid "Original Hex"
+msgstr "Hexágono original"
+
+msgid "Original filename"
+msgstr "Nombre de archivo original"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "Mapeo de recepción/transmisión fuera de orden"
+
+msgid "Output"
+msgstr "Salida"
+
+msgid "Output to text box:"
+msgstr "Salida al cuadro de texto:"
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5 (heredado)"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5/PKCS#7 (recomendado)"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7 (recomendado)"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "Imagen PNG (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "PNG guardado."
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "El relleno se agrega automáticamente y se elimina durante el descifrado."
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "El relleno se agrega automáticamente; Se agrega un bloque adicional incluso cuando los datos están alineados."
+
+msgid "Padding:"
+msgstr "Relleno:"
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "Almohadillas con 00; El descifrado elimina los 00 bytes finales y puede perder los cero bytes finales originales."
+
+msgid "Parity check:"
+msgstr "Control de paridad:"
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "Analizar secuencias hexadecimales o archivos BIN utilizando definiciones de estructura C"
+
+msgid "Paste"
+msgstr "Pegar"
+
+msgid "Paste an RSA private key"
+msgstr "Pegue una clave privada RSA"
+
+msgid "Paste an RSA public key"
+msgstr "Pegue una clave pública RSA"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "El penúltimo campo especifica la longitud de la matriz de cola"
+
+msgid "Pixels per module:"
+msgstr "Píxeles por módulo:"
+
+msgid "Please add at least one send/receive pair."
+msgstr "Agregue al menos un par de envío/recepción."
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "Configure al menos una asignación de recepción/envío habilitada."
+
+msgid "Please select a valid BIN file."
+msgstr "Seleccione un archivo BIN válido."
+
+msgid "Please select a valid header directory."
+msgstr "Seleccione un directorio de encabezado válido."
+
+msgid "Please select two valid folders."
+msgstr "Seleccione dos carpetas válidas."
+
+msgid "Please wait ..."
+msgstr "Por favor espera..."
+
+msgid "Pointer members are not supported."
+msgstr "No se admiten miembros punteros."
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "Algoritmos preestablecidos (18 tipos): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, NOSOTROS."
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "Vista previa: los archivos %lu cambiarán; %lu Se omitieron archivos que no son de texto o de gran tamaño."
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "Clave privada (Base64 DER/PEM):"
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "Clave privada (PKCS#1 PEM; manténgala segura)"
+
+msgid "Protocol analysis"
+msgstr "Análisis de protocolo"
+
+msgid "Protocol parser"
+msgstr "Analizador de protocolos"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "Clave pública (Base64 DER/PEM):"
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "Clave pública (PKCS#1 PEM)"
+
+msgid "Q (about 25%)"
+msgstr "Q (alrededor del 25%)"
+
+msgid "QR Code content (UTF-8)"
+msgstr "Contenido del código QR (UTF-8)"
+
+msgid "QR Code content cannot be empty."
+msgstr "El contenido del código QR no puede estar vacío."
+
+msgid "QR Code content is too long: "
+msgstr "El contenido del código QR es demasiado largo:"
+
+msgid "QR Code encoder"
+msgstr "Codificador de código QR"
+
+msgid "QR Code encoding"
+msgstr "Codificación de código QR"
+
+msgid "QR Code image copied."
+msgstr "Imagen del código QR copiada."
+
+msgid "RC4 (legacy)"
+msgstr "RC4 (heredado)"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6, ChaCha20, Salsa20, Camelia, SEED y RSA; apoya GCM, CBC, CTR, BCE,"
+
+msgid "RSA key pair"
+msgstr "par de claves RSA"
+
+msgid "Raw variable block"
+msgstr "Bloque de variables sin formato"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "Lea la definición de estructura C/typedef y #defina la longitud de la matriz, y analice el flujo de datos hexadecimal o el archivo BIN;"
+
+msgid "Ready"
+msgstr "Listo"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "Recibir una coincidencia (debe ser una coincidencia exacta):"
+
+msgid "Receive data does not match"
+msgstr "Los datos recibidos no coinciden"
+
+msgid "Receive topic:"
+msgstr "Recibir tema:"
+
+msgid "Received message not matched"
+msgstr "Mensaje recibido no coincide"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "Recibido: %lu Coincidente: %lu No coincidente: %lu Respondido: %lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "Recibido: 0 Coincidido: 0 No coincidente: 0 Respondido: 0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "Reconoce C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "Valor predeterminado recomendado: AES-256-GCM."
+
+msgid "Rename"
+msgstr "Cambiar nombre"
+
+msgid "Rename interrupted"
+msgstr "Cambiar nombre interrumpido"
+
+msgid "Replace"
+msgstr "Reemplazar"
+
+msgid "Replace file content"
+msgstr "Reemplazar el contenido del archivo"
+
+msgid "Replace filenames"
+msgstr "Reemplazar nombres de archivos"
+
+msgid "Replace folder names"
+msgstr "Reemplazar nombres de carpetas"
+
+msgid "Replacement expression:"
+msgstr "Expresión de reemplazo:"
+
+msgid "Replacer error"
+msgstr "Error de reemplazo"
+
+msgid "Reply frame"
+msgstr "Marco de respuesta"
+
+msgid "Request data cannot be empty."
+msgstr "Los datos de la solicitud no pueden estar vacíos."
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "Requiere bytes %u/caracteres hexadecimales %u"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "Requiere confirmación antes de la ejecución y muestra la cantidad de archivos que se sincronizarán y copiarán."
+
+msgid "Respond to the topic:"
+msgstr "Responde al tema:"
+
+msgid "Response delay (ms):"
+msgstr "Retraso de respuesta (ms):"
+
+msgid "Response does not match:"
+msgstr "La respuesta no coincide:"
+
+msgid "Response sending failed"
+msgstr "Error al enviar la respuesta"
+
+msgid "Response/verification"
+msgstr "Respuesta/verificación"
+
+msgid "Result copied."
+msgstr "Resultado copiado."
+
+msgid "Results cleared."
+msgstr "Resultados borrados."
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "Estructura raíz %s: %lu bytes; analizar registros %lu; bytes restantes de %lu al final."
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "Ejecute pruebas de solicitud y respuesta en serie, TCP, UDP, WebSocket o MQTT"
+
+msgid "Save PNG"
+msgstr "Guardar PNG"
+
+msgid "Save QR Code"
+msgstr "Guardar código QR"
+
+msgid "Save barcode"
+msgstr "guardar código de barras"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "Escanee los números numéricos al principio de los nombres de los archivos en el directorio y agregue automáticamente ceros a la izquierda de acuerdo con el ancho máximo del número; soporte para incluir subdirectorios;"
+
+msgid "Search tools..."
+msgstr "Herramientas de búsqueda..."
+
+msgid "Seconds"
+msgstr "Segundos"
+
+msgid "Select BIN file"
+msgstr "Seleccione el archivo BIN"
+
+msgid "Select a file to calculate CRC"
+msgstr "Seleccione un archivo para calcular CRC"
+
+msgid "Select a file to hash"
+msgstr "Seleccione un archivo para aplicar hash"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "Seleccione un único archivo o directorio y reemplace por lotes los nombres de los archivos y el contenido del texto con expresiones regulares avanzadas; admite arrastrar y soltar;"
+
+msgid "Select a valid directory."
+msgstr "Seleccione un directorio válido."
+
+msgid "Select a valid file or directory."
+msgstr "Seleccione un archivo o directorio válido."
+
+msgid "Select a valid file."
+msgstr "Seleccione un archivo válido."
+
+msgid "Select a valid input file."
+msgstr "Seleccione un archivo de entrada válido."
+
+msgid "Select algorithms, then calculate."
+msgstr "Seleccione algoritmos y luego calcule."
+
+msgid "Select an existing file."
+msgstr "Seleccione un archivo existente."
+
+msgid "Select an output file."
+msgstr "Seleccione un archivo de salida."
+
+msgid "Select at least one CRC algorithm."
+msgstr "Seleccione al menos un algoritmo CRC."
+
+msgid "Select at least one hash algorithm."
+msgstr "Seleccione al menos un algoritmo hash."
+
+msgid "Select at least one replacement method."
+msgstr "Seleccione al menos un método de reemplazo."
+
+msgid "Select directory"
+msgstr "Seleccionar directorio"
+
+msgid "Select directory for filename zero-padding"
+msgstr "Seleccione el directorio para el nombre de archivo con relleno de ceros"
+
+msgid "Select directory..."
+msgstr "Seleccionar directorio..."
+
+msgid "Select file"
+msgstr "Seleccionar archivo"
+
+msgid "Select file..."
+msgstr "Seleccionar archivo..."
+
+msgid "Select folders to sync"
+msgstr "Seleccionar carpetas para sincronizar"
+
+msgid "Select header file directory"
+msgstr "Seleccione el directorio del archivo de encabezado"
+
+msgid "Select input file"
+msgstr "Seleccionar archivo de entrada"
+
+msgid "Select output file"
+msgstr "Seleccionar archivo de salida"
+
+msgid "Select source code directory"
+msgstr "Seleccionar directorio de código fuente"
+
+msgid "Select source code file"
+msgstr "Seleccionar archivo de código fuente"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "Seleccionó el primer archivo válido de los archivos descartados."
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "Enviar después de la coincidencia (se puede dejar en blanco, solo recibir estadísticas):"
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "Trama de envío: %lu Recepción legal: %lu Recepción ilegal: %lu Tiempo de espera: %lu Tarea exitosa: %lu/%lu Tasa de éxito: %.2f%%"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "Envío de trama: 0 Recepción legal: 0 Recepción ilegal: 0 Tiempo de espera: 0 Tarea exitosa: 0/0 Tasa de éxito: 0,00%"
+
+msgid "Sending interval (ms):"
+msgstr "Intervalo de envío (ms):"
+
+msgid "Serial port reception failed."
+msgstr "La recepción del puerto serie falló."
+
+msgid "Serial port transmission failed."
+msgstr "La transmisión del puerto serie falló."
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "Puerto serie: velocidad de baudios preestablecida 1200~921600, y puede ingresar manualmente 1~4000000; 5/6/7/8 bits de datos;"
+
+msgid "Set all to 1"
+msgstr "Establecer todo en 1"
+
+msgid "Settings (&S)"
+msgstr "Configuración (&S)"
+
+msgid "Shift left <<"
+msgstr "Desplazamiento a la izquierda <<"
+
+msgid "Shift right >>"
+msgstr "Desplazarse a la derecha >>"
+
+msgid "Show original text"
+msgstr "Mostrar texto original"
+
+msgid "Source line count"
+msgstr "Recuento de líneas de origen"
+
+msgid "Start counting"
+msgstr "Empezar a contar"
+
+msgid "Start the server"
+msgstr "Iniciar el servidor"
+
+msgid "Stop bit:"
+msgstr "Bit de parada:"
+
+msgid "Stop on failure"
+msgstr "Detenerse ante el fracaso"
+
+msgid "Stream cipher"
+msgstr "cifrado de flujo"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "La alineación de la estructura debe ser 1, 2, 4 u 8."
+
+msgid "Success, RX:"
+msgstr "Éxito, RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "Soporte AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "Admite empaquetado de 1/2/4/8 bytes, little endian/big endian, múltiples registros consecutivos y avisos de bytes restantes al final."
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "Admite IPv4, IPv6 (p. ej. ::1) y nombre de host"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "Admite tipos básicos, matrices de longitud fija y estructuras anidadas definidas."
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "Admite archivos binarios, visualización de progreso y operaciones de cancelación; Los resultados de decodificación que no sean UTF-8 se pueden guardar como archivos."
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "Admite obtener la hora actual, copiar la marca de tiempo y el texto UTC, y verificar el rango de valores y el formato de fecha."
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "Admite estructuras anidadas, números enteros básicos, flotantes, dobles, booleanos, caracteres y matrices de longitud fija;"
+
+msgid "Swap input and output"
+msgstr "Intercambiar entrada y salida"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "Sincronización completada, archivos %lu copiados en total."
+
+msgid "Synchronization interruption"
+msgstr "Interrupción de la sincronización"
+
+msgid "TCP client"
+msgstr "Cliente TCP"
+
+msgid "TCP connection failed or timed out."
+msgstr "La conexión TCP falló o se agotó el tiempo de espera."
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "La recepción TCP falló o la conexión se interrumpió."
+
+msgid "TCP send failed."
+msgstr "Error en el envío TCP."
+
+msgid "Tag:"
+msgstr "Etiqueta:"
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "Ancho objetivo: dígitos %lu; Se cambiará el nombre de los archivos %lu."
+
+msgid "Testing has been stopped."
+msgstr "Se han detenido las pruebas."
+
+msgid "Testing is complete."
+msgstr "La prueba está completa."
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "La codificación de texto se detecta según GB18030-2022, UTF-8 y la página de códigos local. El tamaño máximo de un solo archivo es 256 MiB."
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "El texto se codifica mediante hash utilizando codificación UTF-8."
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "El texto se procesa utilizando codificación UTF-8."
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "El archivo BIN no se puede leer o el archivo supera los 256 MiB."
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "El tema MQTT PUBLISH no es válido."
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "El MQTT SUBACK no es válido o la suscripción fue rechazada."
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "El mensaje MQTT SUBSCRIBE no es válido."
+
+msgid "The MQTT publish topic is invalid."
+msgstr "El tema de publicación MQTT no es válido."
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "El tema de suscripción MQTT no es válido."
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "La fecha u hora UTC está fuera del rango válido."
+
+msgid "The UTC time contains an invalid number."
+msgstr "La hora UTC contiene un número no válido."
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "El formato de hora UTC debe ser AAAA-MM-DD HH:MM:SS[.mmm]."
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "El par de WebSocket ha cerrado la conexión."
+
+msgid "The barcode content cannot be empty."
+msgstr "El contenido del código de barras no puede estar vacío."
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "La velocidad en baudios debe ser un número entero entre 1 y 4000000."
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "El resultado decodificado no es texto UTF-8. Salida a un archivo para preservar los datos binarios."
+
+msgid "The dropped file or directory is invalid."
+msgstr "El archivo o directorio eliminado no es válido."
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "El archivo supera los 16 MiB. Escriba en un archivo para evitar el uso excesivo de memoria del cuadro de texto."
+
+msgid "The header file directory is invalid."
+msgstr "El directorio del archivo de encabezado no es válido."
+
+msgid "The input and output files cannot be the same."
+msgstr "Los archivos de entrada y salida no pueden ser iguales."
+
+msgid "The language setting could not be saved."
+msgstr "No se pudo guardar la configuración de idioma."
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "El último miembro debe ser una matriz para una matriz de cola dinámica."
+
+msgid "The match expression cannot be empty."
+msgstr "La expresión de coincidencia no puede estar vacía."
+
+msgid "The parsing results have been cleared."
+msgstr "Los resultados del análisis se han borrado."
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "El penúltimo miembro debe ser un escalar entero de 8 a 32 bits para una matriz de cola dinámica."
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "La caché de recepción superó el límite y se borró."
+
+msgid "The received data cannot be empty."
+msgstr "Los datos recibidos no pueden estar vacíos."
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "Las tramas recibidas no pueden ser iguales ni tener prefijos entre sí; de lo contrario, el puerto serie/TCP no puede determinar el límite de la trama."
+
+msgid "The regular expression is invalid."
+msgstr "La expresión regular no es válida."
+
+msgid "The replacement produced an invalid filename."
+msgstr "El reemplazo produjo un nombre de archivo no válido."
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "La solicitud recibida no era un CONNECT MQTT 3.1.1 válido."
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "La solicitud recibida no era un protocolo de enlace WebSocket RFC 6455 válido."
+
+msgid "The root structure is invalid."
+msgstr "La estructura raíz no es válida."
+
+msgid "The serial port or host cannot be empty."
+msgstr "El puerto serie o el host no pueden estar vacíos."
+
+msgid "The server has ended."
+msgstr "El servidor ha finalizado."
+
+msgid "The server has stopped."
+msgstr "El servidor se ha detenido."
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "El servidor rechazó la actualización de WebSocket o la respuesta del protocolo de enlace no fue válida."
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "Las dos carpetas no pueden ser iguales ni pueden ser subdirectorios entre sí."
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "El formato del valor no es válido o está fuera del rango de un entero sin signo de 64 bits."
+
+msgid "Timeout (ms):"
+msgstr "Tiempo de espera (ms):"
+
+msgid "Timestamp"
+msgstr "Marca de tiempo"
+
+msgid "Timestamp converter"
+msgstr "Convertidor de marca de tiempo"
+
+msgid "To be synchronized: %lu files"
+msgstr "Para sincronizar: archivos %lu"
+
+msgid "Tools"
+msgstr "Herramientas"
+
+msgid "Total lines"
+msgstr "Líneas totales"
+
+msgid "Try again:"
+msgstr "Inténtalo de nuevo:"
+
+msgid "UDP reception failed."
+msgstr "La recepción UDP falló."
+
+msgid "UDP send failed."
+msgstr "Error en el envío UDP."
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "La entrada UTC puede utilizar un espacio o un separador T y una Z final opcional."
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "Hora UTC (AAAA-MM-DD HH:MM:SS[.mmm])"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "Hora UTC convertida a una marca de tiempo Unix."
+
+msgid "UTF-8 text"
+msgstr "Texto UTF-8"
+
+msgid "Unable to bind UDP port."
+msgstr "No se puede vincular el puerto UDP."
+
+msgid "Unable to calculate relative path:"
+msgstr "No se puede calcular la ruta relativa:"
+
+msgid "Unable to create communication channel."
+msgstr "No se puede crear un canal de comunicación."
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "No se puede crear la asignación de archivos (error %lu)"
+
+msgid "Unable to get file size (%s)"
+msgstr "No se puede obtener el tamaño del archivo (%s)"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "No se puede obtener el tamaño del archivo (error %lu)"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "No se puede inicializar el subsistema de socket de red; Las herramientas de red no están disponibles."
+
+msgid "Unable to listen on MQTT port."
+msgstr "No se puede escuchar en el puerto MQTT."
+
+msgid "Unable to listen on TCP port."
+msgstr "No se puede escuchar en el puerto TCP."
+
+msgid "Unable to listen on WebSocket port."
+msgstr "No se puede escuchar en el puerto WebSocket."
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "No se puede abrir el puerto local UDP (familia de direcciones o puerto no disponible)."
+
+msgid "Unable to open file: %s (%s)"
+msgstr "No se puede abrir el archivo: %s (%s)"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "No se puede abrir el archivo: %s (error %lu)"
+
+msgid "Unable to open serial port:"
+msgstr "No se puede abrir el puerto serie:"
+
+msgid "Unable to read directory:"
+msgstr "No se puede leer el directorio:"
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "No se puede leer el archivo de encabezado o el archivo supera los 16 MiB:"
+
+msgid "Unable to read serial port configuration."
+msgstr "No se puede leer la configuración del puerto serie."
+
+msgid "Unable to reread file during replacement: "
+msgstr "No se puede volver a leer el archivo durante el reemplazo:"
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "No se puede resolver la dirección IPv4/IPv6:"
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "No se puede resolver la dirección de escucha IPv4/IPv6:"
+
+msgid "Unable to resolve type:"
+msgstr "No se puede resolver el tipo:"
+
+msgid "Unable to set serial port parameters."
+msgstr "No se pueden configurar los parámetros del puerto serie."
+
+msgid "Unable to start server thread."
+msgstr "No se puede iniciar el hilo del servidor."
+
+msgid "Unable to start test thread."
+msgstr "No se puede iniciar el hilo de prueba."
+
+msgid "Unix / UTC conversion"
+msgstr "Conversión Unix/UTC"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Los segundos Unix están fuera del rango convertible."
+
+msgid "Unix timestamp"
+msgstr "marca de tiempo Unix"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "La marca de tiempo de Unix no puede estar vacía."
+
+msgid "Unix timestamp converted to UTC."
+msgstr "Marca de tiempo Unix convertida a UTC."
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "La marca de tiempo de Unix no es un entero válido de 64 bits."
+
+msgid "Unknown or undefined member type."
+msgstr "Tipo de miembro desconocido o indefinido."
+
+msgid "Use private key"
+msgstr "Usar clave privada"
+
+msgid "Use public key"
+msgstr "Usar clave pública"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "Utilice expresiones regulares para reemplazar nombres de archivos y texto en lotes"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "Se utiliza para hacer que el orden del diccionario sea coherente con el orden de numeración natural y para comprobar si hay conflictos antes de cambiar el nombre."
+
+msgid "Value copied to the clipboard."
+msgstr "Valor copiado al portapapeles."
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "Rango de valores: 0 a 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "Verificar el contenido de la respuesta (solo espere la duración configurada cuando no esté marcado)"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "Versión %d; Módulos %d × %d; imagen %d × %d."
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "Ver y editar cada bit de un entero sin signo de 64 bits"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "Advertencia: Crypto++ denomina BTEA a su implementación XXTEA y la marca como no probada exhaustivamente; La entrada debe tener al menos 8 bytes y ser múltiplo de 4."
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "Advertencia: el BCE expone patrones de datos y no se recomienda para datos reales."
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "Advertencia: Prefiera OAEP; PKCS#1 v1.5 se proporciona únicamente por motivos de compatibilidad."
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "Advertencia: este algoritmo no es seguro y se proporciona únicamente para compatibilidad heredada."
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "Advertencia: este algoritmo está destinado a sistemas o protocolos heredados; prefiera AES-GCM para nuevos datos."
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "El encabezado HTTP de WebSocket es demasiado grande o está incompleto."
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "La conexión WebSocket TCP falló o se agotó el tiempo de espera."
+
+msgid "WebSocket client"
+msgstr "Cliente WebSocket"
+
+msgid "WebSocket connection disconnected."
+msgstr "Conexión WebSocket desconectada."
+
+msgid "WebSocket handshake connection broken."
+msgstr "Conexión de protocolo de enlace de WebSocket rota."
+
+msgid "WebSocket handshake timed out."
+msgstr "Se agotó el tiempo de espera del protocolo de enlace de WebSocket."
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "El mensaje de WebSocket supera el límite de 16 MiB."
+
+msgid "WebSocket path mismatch."
+msgstr "La ruta de WebSocket no coincide."
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "Ruta de solicitud de WebSocket, como /ws; actualmente admite ws://, pero no admite TLS/wss://"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "El envío de WebSocket falló o la conexión se desconectó."
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "Cuando la validación de respuesta está habilitada, la respuesta esperada no puede estar vacía."
+
+msgid "Width"
+msgstr "Ancho"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "El ancho se calcula por separado para cada carpeta; se renombrarán %lu archivos."
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows admite 1/1,5/2 bits de parada, todas las sumas de comprobación y combinaciones de control de flujo; Las combinaciones específicas de Linux/macOS están limitadas por el controlador del sistema."
+
+msgid "Write to file:"
+msgstr "Escribir al archivo:"
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA/BTEA (experimental)"
+
+msgid "You can drop a file onto this page."
+msgstr "Puede colocar un archivo en esta página."
+
+msgid "Zero-pad filenames"
+msgstr "Nombres de archivos con ceros"
+
+msgid "Zero-padded filename"
+msgstr "Nombre de archivo relleno con ceros"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "El relleno con ceros crearía un nombre de archivo duplicado:"
+
+msgid "[stop]"
+msgstr "[parar]"
+
+msgid "ask"
+msgstr "preguntar"
+
+msgid "ask:"
+msgstr "pregunta:"
+
+msgid "big endian"
+msgstr "gran endian"
+
+msgid "communication client"
+msgstr "cliente de comunicación"
+
+msgid "communication server"
+msgstr "servidor de comunicaciones"
+
+msgid "delay"
+msgstr "retraso"
+
+msgid "direction"
+msgstr "dirección"
+
+msgid "even parity"
+msgstr "incluso paridad"
+
+msgid "expect '"
+msgstr "esperar '"
+
+msgid "folder 1"
+msgstr "carpeta 1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\nConstruido: %s %s wxWidgets %s %s"
+
+msgid "include is missing the closing quote:"
+msgstr "A include le falta la cita de cierre:"
+
+msgid "little endian"
+msgstr "pequeño endian"
+
+msgid "mapping"
+msgstr "mapeo"
+
+msgid "mark"
+msgstr "marca"
+
+msgid "member"
+msgstr "miembro"
+
+msgid "name"
+msgstr "nombre"
+
+msgid "name:"
+msgstr "nombre:"
+
+msgid "none"
+msgstr "ninguno"
+
+msgid "odd parity"
+msgstr "paridad impar"
+
+msgid "offset"
+msgstr "compensar"
+
+msgid "parse"
+msgstr "analizar"
+
+msgid "parsed value"
+msgstr "valor analizado"
+
+msgid "path:"
+msgstr "camino:"
+
+msgid "port:"
+msgstr "puerto:"
+
+msgid "receive timeout"
+msgstr "recibir tiempo de espera"
+
+msgid "release:"
+msgstr "lanzamiento:"
+
+msgid "reset"
+msgstr "restablecer"
+
+msgid "result"
+msgstr "resultado"
+
+msgid "send"
+msgstr "enviar"
+
+msgid "send/receive pair"
+msgstr "enviar/recibir par"
+
+msgid "serial number"
+msgstr "número de serie"
+
+msgid "size"
+msgstr "tamaño"
+
+msgid "source"
+msgstr "fuente"
+
+msgid "space"
+msgstr "espacio"
+
+msgid "start"
+msgstr "empezar"
+
+msgid "stop"
+msgstr "detenerse"
+
+msgid "subscription:"
+msgstr "suscripción:"
+
+msgid "synchronous"
+msgstr "sincrónico"
+
+msgid "take over"
+msgstr "hacerse cargo"
+
+msgid "test frame"
+msgstr "marco de prueba"
+
+msgid "test stopped"
+msgstr "prueba detenida"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "se permite el prefijo 0x y el rango Latin-1 es 00–FF."
+
+msgid "type"
+msgstr "tipo"
+
+msgid "union is not supported."
+msgstr "El sindicato no es compatible."

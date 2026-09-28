@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "%lu karakterler; resim %d × %d."
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "%lu dosyaları tamamlandı; yeniden adlandırılamadı:\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "%lu dosyaları kopyalanacak; aynı adı taşıyan daha yeni dosyalar eski dosyaların üzerine yazılacaktır. Devam etmek?"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "%lu dosyaları: toplam %lu, kod %lu, yorumlar %lu, boş %lu; %lu atlandı"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "%lu başlık dosyası girişleri yüklendi; include ayrıştırma sırasında yinelemeli olarak genişletilecektir."
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s tamamlandı: %u -> %u bayt"
+
+msgid "/ No verification"
+msgstr "/ Doğrulama yok"
+
+msgid "/check"
+msgstr "/kontrol et"
+
+msgid "1 byte (compact)"
+msgstr "1 bayt (kompakt)"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1,5 durdurma biti yalnızca 5 veri bitiyle kombinasyon halinde kullanılabilir."
+
+msgid "2 bytes"
+msgstr "2 bayt"
+
+msgid "3DES (legacy)"
+msgstr "3DES (eski)"
+
+msgid "4 bytes"
+msgstr "4 bayt"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "5 veri biti 2 durdurma bitiyle birleştirilemez."
+
+msgid "64-bit unsigned integer"
+msgstr "64 bit işaretsiz tamsayı"
+
+msgid "8 bytes"
+msgstr "8 bayt"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "Özel bir parametre, Genişlik tarafından belirtilen bit genişliğini aşıyor."
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "Yinelenen bir hedef dosya adı mevcut; operasyon durduruldu."
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "İki klasör seçildikten sonra otomatik olarak bir senkronizasyon önizlemesi oluşturulacaktır."
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "Sıfır uzunluklu bir dizi yalnızca son yapı üyesi olarak desteklenir."
+
+msgid "AAD (UTF-8):"
+msgstr "AAD (UTF-8):"
+
+msgid "ASCII converter"
+msgstr "ASCII dönüştürücü"
+
+msgid "ASCII string"
+msgstr "ASCII dizesi"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "ASCII metni yalnızca 0x00 ile 0x7F arasındaki karakterleri içerebilir."
+
+msgid "ASCII text cannot be empty."
+msgstr "ASCII metni boş olamaz."
+
+msgid "About (&A)"
+msgstr "Hakkında (&A)"
+
+msgid "About iTool"
+msgstr "iTool hakkında"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "%lu dosyalarını değiştirmek üzere. Bu otomatik olarak geri alınamaz. Devam etmek?"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "%lu dosyalarını yeniden adlandırmak üzere. Devam etmek?"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "Doğal sıralama için numaralı dosya adlarının başına sıfır ekleyin"
+
+msgid "Add new receive/send pair"
+msgstr "Yeni alma/gönderme çifti ekle"
+
+msgid "Add new send/receive pair"
+msgstr "Yeni gönderme/alma çifti ekle"
+
+msgid "Added receive/send mapping"
+msgstr "Alma/gönderme eşlemesi eklendi"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "Önce 80 ekler, sonra 00 ekler."
+
+msgid "Algorithm and parameters"
+msgstr "Algoritma ve parametreler"
+
+msgid "Algorithm:"
+msgstr "Algoritma:"
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "Algoritmalar (22 tür): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Aynı anda birden fazla algoritma hesaplanabilir."
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "Typedef olmayan bir yapının kapanış küme parantezinden sonra takma adlar sağlanamaz."
+
+msgid "Alignment:"
+msgstr "Hizalama:"
+
+msgid "All files (*.*)|*.*"
+msgstr "Tüm dosyalar (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "Anonim yapıların bir typedef adı sağlaması gerekir."
+
+msgid "Any non-empty"
+msgstr "Boş olmayan herhangi"
+
+msgid "Array length missing."
+msgstr "Dizi uzunluğu eksik."
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "Dizi uzunluğu pozitif bir tam sayı veya tanımlı bir sayısal makro olmalıdır."
+
+msgid "Array length must be greater than zero."
+msgstr "Dizi uzunluğu sıfırdan büyük olmalıdır."
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "Sağlama toplamını otomatik olarak hesaplayın, yakınlaştırmayı ayarlayın ve görüntüyü kopyalayın veya PNG olarak kaydedin."
+
+msgid "BIN file"
+msgstr "BIN dosyası"
+
+msgid "Barcode encoder"
+msgstr "Barkod kodlayıcı"
+
+msgid "Barcode encoding"
+msgstr "Barkod kodlama"
+
+msgid "Barcode height:"
+msgstr "Barkod yüksekliği:"
+
+msgid "Barcode image copied."
+msgstr "Barkod görüntüsü kopyalandı."
+
+msgid "Base64"
+msgstr "Base64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Base64 kodlama ve kod çözme; giriş ve çıkış bağımsız olarak UTF-8 metin veya dosyalarını seçebilir;"
+
+msgid "Base64 error"
+msgstr "Base64 hatası"
+
+msgid "Baud rate:"
+msgstr "Baud hızı:"
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "64 bit Unix zaman damgası ile UTC tarih ve saati arasında çift yönlü dönüşüm; zaman damgası birimi saniyeleri ve milisaniyeleri destekler;"
+
+msgid "Binary"
+msgstr "İkili"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "İkili dosyalar (*.bin)|*.bin|Tüm dosyalar (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "Bit alanı üyeleri desteklenmez."
+
+msgid "Bits set: %d / 64"
+msgstr "Bit seti: %d / 64"
+
+msgid "Bitset64"
+msgstr "Bitset64"
+
+msgid "Blank"
+msgstr "Boş"
+
+msgid "Both folders have been synchronized."
+msgstr "Her iki klasör de senkronize edildi."
+
+msgid "C structure definition"
+msgstr "C yapısı tanımı"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB isteğe bağlı PKCS, Sıfır, ISO/IEC 7816-4 veya dolgusuz; güvenli rastgele anahtar, IV/Nonce ve RSA anahtar çifti oluşturmayı destekler."
+
+msgid "CRC calculation error"
+msgstr "CRC hesaplama hatası"
+
+msgid "CRC calculator"
+msgstr "CRC hesaplayıcı"
+
+msgid "Calculate"
+msgstr "Hesapla"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "Metin, onaltılık veriler veya dosyalar için karmaları hesaplayın"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "Metin, bayt veya dosyalar için standart ve özel CRC değerlerini hesaplayın"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "Arka planda CRC dosyası hesaplanıyor..."
+
+msgid "Calculation completed."
+msgstr "Hesaplama tamamlandı."
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Canceled."
+msgstr "İptal edildi."
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "%lu, “%s” karakteri Latin-1 aralığının (00–FF) dışında."
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "Clear all"
+msgstr "Tümünü temizle"
+
+msgid "Clear log"
+msgstr "Günlüğü temizle"
+
+msgid "Clear results"
+msgstr "Sonuçları temizle"
+
+msgid "Cleared."
+msgstr "Temizlendi."
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "Code 128-B content"
+msgstr "Kod 128-B içeriği"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "Code 128-B içeriği 200 karakteri geçemez."
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "Kod 128-B sağlama toplamını otomatik olarak oluşturur."
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "Kod 128-B yalnızca ASCII 32~126 karakterleri destekler."
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "Kod ve yorumlar aynı satırda sayılabilir (örneğin, sondaki yorumlar)."
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "Ortak baud hızları seçilebilir veya 1 ila 4000000 arasında manuel olarak girilebilir."
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "HTML/XML, CSS, Vue, CMake gibi sık kullanılan dosyalar ve bunların yorum stilleri; tek bir dosyanın maksimum boyutu 512 MiB'dir."
+
+msgid "Communication client"
+msgstr "İletişim istemcisi"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "İletişim istemcisi: Windows, Linux ve macOS'un tümü seri bağlantı noktalarını destekler ve TCP, UDP, WebSocket ve MQTT 3.1.1'i destekler; istek/yanıt verileri isteğe bağlı olarak Hex veya ASCII olabilir;"
+
+msgid "Communication server"
+msgstr "İletişim sunucusu"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "İletişim sunucusu: Windows, Linux ve macOS'un tümü seri bağlantı noktasını izleyebilir ve TCP, UDP, WebSocket ve MQTT 3.1.1'i destekleyebilir; alıcı çerçeveler Hex veya ASCII olabilir;"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "İki dizini karşılaştırın ve daha yeni veya tek taraflı dosyaları senkronize edin"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "İki klasörü ve alt dizinlerini karşılaştırın; değişiklik zamanına göre senkronize önizlemeler oluşturun; daha yeni dosyaları ve tek taraflı dosyaları her iki yönde de kopyalayın;"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "%lu dosyaları tamamlandı, kopyalama başarısız oldu:\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "Tamamlandı: %llu baytlar, %lu algoritmaları."
+
+msgid "Completed: %lu files modified."
+msgstr "Tamamlandı: %lu dosyaları değiştirildi."
+
+msgid "Completed: %lu files renamed."
+msgstr "Tamamlandı: %lu dosyaları yeniden adlandırıldı."
+
+msgid "Confirm rename"
+msgstr "Yeniden adlandırmayı onayla"
+
+msgid "Confirm replacement"
+msgstr "Değiştirmeyi onaylayın"
+
+msgid "Confirm synchronization"
+msgstr "Senkronizasyonu onayla"
+
+msgid "Content matches"
+msgstr "İçerik eşleşmeleri"
+
+msgid "Conversion completed."
+msgstr "Dönüşüm tamamlandı."
+
+msgid "Convert"
+msgstr "Dönüştür"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "64 bit Unix zaman damgaları ile UTC tarih/saati arasında dönüştürme"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "Onaltılı dizeler ve ASCII arasında dönüştürme"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "Dosyaları veya UTF-8 metnini Base64'e ve Base64'ten dönüştürün"
+
+msgid "Convert to Base64"
+msgstr "Base64'e Dönüştür"
+
+msgid "Convert to UTC ↓"
+msgstr "UTC'ye dönüştür ↓"
+
+msgid "Convert to Unix ↑"
+msgstr "Unix'e Dönüştür ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "Dönüştürülen bayt sayısı: %llu"
+
+msgid "Copied to the clipboard."
+msgstr "Panoya kopyalandı."
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "Copy image"
+msgstr "Resmi kopyala"
+
+msgid "Copy result"
+msgstr "Sonucu kopyala"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "Tek bir dosya veya dizini sayın; uzantıyı yineleyip özelleştirmeyeceğinizi seçebilirsiniz; sırasıyla toplam satırları, kodu, yorumları ve boş satırları sayın;"
+
+msgid "Count results cleared."
+msgstr "Sayım sonuçları temizlendi."
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "Toplamı, kodu, yorumu ve boş satırları dosyaya göre sayın"
+
+msgid "Crypto++ conversion failed: "
+msgstr "Crypto++ dönüşümü başarısız oldu:"
+
+msgid "Current UTC time loaded."
+msgstr "Geçerli UTC saati yüklendi."
+
+msgid "Current time"
+msgstr "Geçerli saat"
+
+msgid "Custom"
+msgstr "Özel"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "Özel Init, Poly ve XorOut onaltılık sayılar olmalıdır."
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "Özel Genişlik yalnızca 8, 16, 24, 32 veya 64'ü destekler."
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "Özel algoritma: Width, Init, Poly, XorOut, RefIn, RefOut ayarlanabilir ve aynı anda birden fazla algoritma hesaplaması seçilebilir."
+
+msgid "DES (legacy)"
+msgstr "DES (eski)"
+
+msgid "Data bits:"
+msgstr "Veri bitleri:"
+
+msgid "Decimal"
+msgstr "Ondalık"
+
+msgid "Decode from Base64"
+msgstr "Base64'ten kod çözme"
+
+msgid "Decrypt"
+msgstr "Şifreyi çöz"
+
+msgid "Decryption"
+msgstr "Şifre çözme"
+
+msgid "Delay before sending (ms):"
+msgstr "Göndermeden önceki gecikme (ms):"
+
+msgid "Delete selected receive/send mapping"
+msgstr "Seçilen alma/gönderme eşlemesini sil"
+
+msgid "Delete selected send/receive pair"
+msgstr "Seçili gönderme/alma çiftini sil"
+
+msgid "Determine width from the largest number"
+msgstr "Genişliği en büyük sayıdan belirleyin"
+
+msgid "Direction"
+msgstr "Yön"
+
+msgid "Directory sync"
+msgstr "Dizin senkronizasyonu"
+
+msgid "Directory:"
+msgstr "Dizin:"
+
+msgid "Dropped directory accepted."
+msgstr "Bırakılan dizin kabul edildi."
+
+msgid "Dropped file accepted."
+msgstr "Bırakılan dosya kabul edildi."
+
+msgid "Dynamic tail array length is too large."
+msgstr "Dinamik kuyruk dizisi uzunluğu çok büyük."
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "Dinamik kuyruk dizisi en az iki yapı üyesi gerektirir."
+
+msgid "ECB (legacy)"
+msgstr "ECB (eski)"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "Her onaltılık değer ve bit durumu birlikte güncellenerek sonuçların kopyalanması desteklenir."
+
+msgid "Edit receive/send pairs"
+msgstr "Alma/gönderme çiftlerini düzenle"
+
+msgid "Edit selected receive/send mapping"
+msgstr "Seçili alma/gönderme eşlemesini düzenle"
+
+msgid "Edit selected send/receive pair"
+msgstr "Seçili gönderme/alma çiftini düzenle"
+
+msgid "Edit send/receive pairs"
+msgstr "Gönderme/alma çiftlerini düzenleyin"
+
+msgid "Enable this mapping"
+msgstr "Bu eşlemeyi etkinleştir"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "ASCII metnini Code 128-B barkodu olarak kodlayın"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "UTF-8 metnini QR Code görüntüsü olarak kodlayın"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "UTF-8 metnini QR Koduna kodlayın; QR kodu sürümünü otomatik olarak seçin; L (yaklaşık %7), M (yaklaşık %15) desteği"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "ASCII 32 ila 126 aralığındaki ve 200 karaktere kadar metni Kod 128-B'ye kodlayın;"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "Kodlama tespiti: GB18030-2022 -> UTF-8 -> yerel kod sayfası; dosya başına maksimum 256 MiB."
+
+msgid "Encountered failure and stopped as configured."
+msgstr "Hatayla karşılaşıldı ve yapılandırıldığı gibi durduruldu."
+
+msgid "Encrypt"
+msgstr "Şifrele"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "Crypto++ algoritmalarını kullanarak verileri şifreleyin ve şifresini çözün"
+
+msgid "Encryption"
+msgstr "Şifreleme"
+
+msgid "Encryption / Decryption"
+msgstr "Şifreleme / Şifre Çözme"
+
+msgid "Encryption/decryption error"
+msgstr "Şifreleme/şifre çözme hatası"
+
+msgid "Endianness:"
+msgstr "Endianlık:"
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "Hex verilerini girin, örneğin: 31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "Onaltılı, ondalık veya ikili olarak 64 bitlik işaretsiz bir tamsayı girin; 0~63 bitlerini görüntüleyin ve düzenlemek için tıklayın;"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "Bir ASCII dizesi girin, örneğin: 123"
+
+msgid "Enter data"
+msgstr "Verileri girin"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "Onaltılık baytları girin, örneğin: 31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "Dönüştürülecek metni girin."
+
+msgid "Error correction:"
+msgstr "Hata düzeltme:"
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "Zaman aşımlarını, döngüleri, sonuç istatistiklerini ve milisaniyelik zaman damgası günlüklerini destekleyen birden çok test kümesini yapılandırılmış sırayla yürütün."
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "Çıkış (&X) Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "Beklenen yanıt (boş olmayan herhangi bir veri alındığında tamamlandığını belirtmek için boş bırakın):"
+
+msgid "Extensions:"
+msgstr "Uzantılar:"
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "CRC çalışan iş parçacığı dosyası oluşturulamadı."
+
+msgid "Failed to initialize CRC."
+msgstr "CRC başlatılamadı."
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "Dosya eşlenemedi (uzaklaştırma %llu, %s)"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "Dosya eşlenemedi (%llu ofseti, %lu hatası)"
+
+msgid "Failed to parse Hex data."
+msgstr "Hex verileri ayrıştırılamadı."
+
+msgid "Failed to read BIN file."
+msgstr "BIN dosyası okunamadı."
+
+msgid "Failed to read header file:"
+msgstr "Başlık dosyası okunamadı:"
+
+msgid "Failed to rename: "
+msgstr "Yeniden adlandırılamadı:"
+
+msgid "Failed to save PNG."
+msgstr "PNG kaydedilemedi."
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "Dosya CRC çalışan iş parçacığı başlatılamadı."
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "CRC32/POSIX uzunluğu güncellenemedi."
+
+msgid "Failed to write file: "
+msgstr "Dosya yazılamadı:"
+
+msgid "Features\n\n"
+msgstr "Özellikler"
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "File (&F)"
+msgstr "Dosya (&F)"
+
+msgid "File hash calculation completed."
+msgstr "Dosya karma hesaplaması tamamlandı."
+
+msgid "File or directory:"
+msgstr "Dosya veya dizin:"
+
+msgid "Filename zero-padding"
+msgstr "Dosya adı sıfır dolgulu"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "Aynı ada sahip dosyalar farklı boyutlara sahiptir ancak değiştirilme süreleri aynıdır, bu nedenle yön güvenli bir şekilde belirlenemez:"
+
+msgid "Find and replace"
+msgstr "Bul ve değiştir"
+
+msgid "Flow control:"
+msgstr "Akış kontrolü:"
+
+msgid "Folder 1:"
+msgstr "Klasör 1:"
+
+msgid "Folder 2"
+msgstr "Klasör 2"
+
+msgid "Folder 2:"
+msgstr "Klasör 2:"
+
+msgid "Folder sync"
+msgstr "Klasör senkronizasyonu"
+
+msgid "Follow system"
+msgstr "Sistemi takip et"
+
+msgid "For example: 123"
+msgstr "Örneğin: 123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "Örneğin: 31 32 33 veya 0x31, 0x32, 0x33"
+
+msgid "Format:"
+msgstr "Biçim:"
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "Dört hata düzeltme seviyesi: Q (yaklaşık %25), H (yaklaşık %30); Yakınlaştırmayı ayarlayın, görüntüyü kopyalayın veya PNG olarak kaydedin."
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "Kesirli saniyeler en fazla üç basamak içerir."
+
+msgid "From file:"
+msgstr "Dosyadan:"
+
+msgid "From text box:"
+msgstr "Metin kutusundan:"
+
+msgid "GCM (recommended)"
+msgstr "GCM (önerilir)"
+
+msgid "Generate"
+msgstr "Oluştur"
+
+msgid "Generate key pair"
+msgstr "Anahtar çifti oluştur"
+
+msgid "Generate random"
+msgstr "Rastgele oluştur"
+
+msgid "H (about 30%)"
+msgstr "H (yaklaşık %30)"
+
+msgid "Hash calculation"
+msgstr "Karma hesaplama"
+
+msgid "Hash checker"
+msgstr "Hash denetleyicisi"
+
+msgid "Hash error"
+msgstr "Hash hatası"
+
+msgid "Header file directory:"
+msgstr "Başlık dosyası dizini:"
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "Başlık dosyası geçerli bir UTF-8 veya yerel kodlama değil:"
+
+msgid "Help (&H)"
+msgstr "Yardım (&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "Onaltılı baytlar boşluklarla, virgüllerle, noktalı virgüllerle veya satır sonlarıyla ayrılabilir, örneğin 31 32 33;"
+
+msgid "Hex data contains invalid characters."
+msgstr "Hex verileri geçersiz karakterler içeriyor."
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "Hex verileri çift sayıda onaltılık basamak içermelidir."
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "Hex verileri çift sayıda sayı içermelidir."
+
+msgid "Hex input cannot be empty."
+msgstr "Hex girişi boş olamaz."
+
+msgid "Hex input contains an invalid character."
+msgstr "Hex girişi geçersiz bir karakter içeriyor."
+
+msgid "Hex input contains invalid characters."
+msgstr "Hex girişi geçersiz karakterler içeriyor."
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "Hex girişi çift sayıda sayı içermelidir."
+
+msgid "Hex string"
+msgstr "Altıgen dize"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "Altıgen: 31 32 33 veya 313233"
+
+msgid "Hexadecimal"
+msgstr "Onaltılık"
+
+msgid "Host:"
+msgstr "Ev sahibi:"
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "IPv4 tam arayüzü: 0.0.0.0; IPv6 tam arayüzü:::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV / Nonce (Hex):"
+
+msgid "Include header file not found:"
+msgstr "Bulunamayan başlık dosyasını ekleyin:"
+
+msgid "Include subdirectories"
+msgstr "Alt dizinleri dahil et"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "Standart dört modüllü beyaz sessiz bölgeyi içerir."
+
+msgid "Incremental CRC calculation failed."
+msgstr "Artımlı CRC hesaplaması başarısız oldu."
+
+msgid "Input"
+msgstr "Giriş"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "Giriş ve çıkış temizlendi; önemli parametreler korundu."
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "Giriş: Onaltılık baytlar, UTF-8 metni, dosyalar (büyük dosyalar yığınlanmış bellek eşlemesini kullanır)."
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "Giriş: Onaltılı baytlar, UTF-8 metni, dosyalar (sürükle ve bırak ve parçalanmış bellek eşlemeyi destekler)."
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "Yetersiz veri: Dinamik yapı başlığı %lu bayt gerektiriyor."
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "Yetersiz veri: Yapı %lu bayt gerektiriyor."
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "Arayüz ve günlük kaydı milisaniyelik zaman damgası. Seri portun önceden ayarlanmış baud hızı 921600'e kadardır ve belirli bir baud hızı manuel olarak da girilebilir."
+
+msgid "Invalid Hex character: '%c'."
+msgstr "Geçersiz Hex karakteri: '%c'."
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "Geçersiz WebSocket parça dizisi."
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "Geçersiz WebSocket çerçeve biçimi veya maske yönü."
+
+msgid "Invalid WebSocket opcode."
+msgstr "Geçersiz WebSocket işlem kodu."
+
+msgid "Invalid input"
+msgstr "Geçersiz giriş"
+
+msgid "Invalid millisecond format."
+msgstr "Geçersiz milisaniye biçimi."
+
+msgid "Invert all"
+msgstr "Tümünü ters çevir"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "%lu, “%s” öğesi iki basamaklı onaltılık bir bayt değildir."
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "%lu, “%s” öğesi geçerli bir Latin-1 baytı değil (00–FF aralığı)."
+
+msgid "Key (Hex):"
+msgstr "Anahtar (Hex):"
+
+msgid "Key length:"
+msgstr "Anahtar uzunluğu:"
+
+msgid "L (about 7%)"
+msgstr "L (yaklaşık %7)"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Line %lu:"
+msgstr "%lu satırı:"
+
+msgid "Line %lu: Block comment not ended."
+msgstr "%lu satırı: Blok yorumu sonlandırılmadı."
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "%lu satırı: Desteklenmeyen '%c' karakteri."
+
+msgid "Line counter"
+msgstr "Hat sayacı"
+
+msgid "Listening address:"
+msgstr "Dinleme adresi:"
+
+msgid "Load directory"
+msgstr "Dizini yükle"
+
+msgid "Local port:"
+msgstr "Yerel liman:"
+
+msgid "M (about 15%)"
+msgstr "M (yaklaşık %15)"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "MQTT Broker bağlantısı başarısız oldu veya zaman aşımına uğradı."
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "MQTT Broker bağlantıyı reddetti veya geçersiz CONNACK."
+
+msgid "MQTT Payload not matched"
+msgstr "MQTT Yükü eşleşmiyor"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "MQTT Kalan Uzunluk geçersiz."
+
+msgid "MQTT client"
+msgstr "MQTT istemcisi"
+
+msgid "MQTT client disconnected."
+msgstr "MQTT istemcisinin bağlantısı kesildi."
+
+msgid "MQTT connection disconnected."
+msgstr "MQTT bağlantısı kesildi."
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "MQTT mesajı 16 MiB sınırını aşıyor."
+
+msgid "MQTT publish topic mismatch:"
+msgstr "MQTT yayınlama konusu uyumsuzluğu:"
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "MQTT yayınlama konuları ve abonelik konuları boş olamaz."
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "MQTT alma konusu ve yanıt konusu boş olamaz."
+
+msgid "MQTT response publishing failed"
+msgstr "MQTT yanıtı yayınlanamadı"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "MQTT gönderimi başarısız oldu veya bağlantı kesildi."
+
+msgid "Manual width:"
+msgstr "Manuel genişlik:"
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "Çoklu konfigürasyonlara göre sıra dışı çerçevelerin tamamını eşleştirin ve yinelenen çerçeveleri ve önek belirsizliklerini kontrol ederek karşılık gelen yanıtları gönderin;"
+
+msgid "Match expression:"
+msgstr "Eşleşme ifadesi:"
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "Mesajları eşleştirin ve seri, TCP, UDP, WebSocket veya MQTT üzerinden yanıt verin"
+
+msgid "Matched and posted response"
+msgstr "Eşleşen ve yayınlanan yanıt"
+
+msgid "Matched and responded"
+msgstr "Eşleşti ve yanıt verdi"
+
+msgid "Member type enum is not supported."
+msgstr "Üye türü numaralandırması desteklenmiyor."
+
+msgid "Member's statement is not concluded."
+msgstr "Üyenin beyanı sonuçlanmadı."
+
+msgid "Milliseconds"
+msgstr "Milisaniye"
+
+msgid "Mode:"
+msgstr "Mod:"
+
+msgid "Module width:"
+msgstr "Modül genişliği:"
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "Aşağı git: Gönderme/alma çiftlerinin yürütme sırasını ayarlayın"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "Yukarı git: Gönderme/alma çiftlerinin yürütme sırasını ayarlayın"
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "Name cannot be empty."
+msgstr "Ad boş olamaz."
+
+msgid "New filename"
+msgstr "Yeni dosya adı"
+
+msgid "No files need zero-padding."
+msgstr "Hiçbir dosyanın sıfır dolguya ihtiyacı yoktur."
+
+msgid "No matches found."
+msgstr "Eşleşme bulunamadı."
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "Dolgu yok; giriş uzunluğu blok boyutunun katı olmalıdır."
+
+msgid "No structure definition found."
+msgstr "Yapı tanımı bulunamadı."
+
+msgid "No valid file was found in the dropped content."
+msgstr "Bırakılan içerikte geçerli bir dosya bulunamadı."
+
+msgid "Not matched"
+msgstr "Eşleşmedi"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "Not: CBC bütünlük kimlik doğrulaması sağlamaz; yeni uygulamalar için GCM'yi tercih edin."
+
+msgid "Number of tasks sent:"
+msgstr "Gönderilen görev sayısı:"
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP ve PKCS#1 v1.5; giriş ve çıkış bağımsız olarak UTF-8, Hex, Base64 veya dosya olarak seçilebilir;"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "Yalnızca /ws gibi bu WebSocket yolunu kabul edin; şu anda TLS/wss://'yi değil ws://'yi destekliyor"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "Yalnızca rakamlarla başlayan dosya adları işlenir; kalan metin ve uzantılar korunur."
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "Yalnızca yapı tanımları desteklenir (enum/union/olağan bildirimler desteklenmez)."
+
+msgid "Operation failed."
+msgstr "İşlem başarısız oldu."
+
+msgid "Original Hex"
+msgstr "Orijinal Altıgen"
+
+msgid "Original filename"
+msgstr "Orijinal dosya adı"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "Sıra dışı alma/iletim eşlemesi"
+
+msgid "Output"
+msgstr "Çıkış"
+
+msgid "Output to text box:"
+msgstr "Metin kutusuna çıktı:"
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5 (eski)"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5 / PKCS#7 (önerilir)"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7 (önerilen)"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "PNG resmi (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "PNG kaydedildi."
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "Doldurma otomatik olarak eklenir ve şifre çözme sırasında kaldırılır."
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "Dolgu otomatik olarak eklenir; veriler hizalandığında bile fazladan bir blok eklenir."
+
+msgid "Padding:"
+msgstr "Dolgu:"
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "00'lı pedler; şifre çözme, sondaki 00 baytı kaldırır ve orijinal sondaki sıfır baytı kaybedebilir."
+
+msgid "Parity check:"
+msgstr "Parite kontrolü:"
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "C yapısı tanımlarını kullanarak Hex akışlarını veya BIN dosyalarını ayrıştırma"
+
+msgid "Paste"
+msgstr "Yapıştır"
+
+msgid "Paste an RSA private key"
+msgstr "Bir RSA özel anahtarı yapıştırın"
+
+msgid "Paste an RSA public key"
+msgstr "Bir RSA ortak anahtarını yapıştırın"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "Sondan bir önceki alan kuyruk dizisi uzunluğunu belirtir"
+
+msgid "Pixels per module:"
+msgstr "Modül başına piksel sayısı:"
+
+msgid "Please add at least one send/receive pair."
+msgstr "Lütfen en az bir gönderme/alma çifti ekleyin."
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "Lütfen en az bir etkin alma/gönderme eşlemesini yapılandırın."
+
+msgid "Please select a valid BIN file."
+msgstr "Lütfen geçerli bir BIN dosyası seçin."
+
+msgid "Please select a valid header directory."
+msgstr "Lütfen geçerli bir başlık dizini seçin."
+
+msgid "Please select two valid folders."
+msgstr "Lütfen iki geçerli klasör seçin."
+
+msgid "Please wait ..."
+msgstr "Lütfen bekleyin..."
+
+msgid "Pointer members are not supported."
+msgstr "İşaretçi üyeleri desteklenmez."
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "Önceden ayarlanmış algoritmalar (18 tip): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, BİZ."
+
+msgid "Preview"
+msgstr "Önizleme"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "Önizleme: %lu dosyaları değişecek; %lu metin olmayan veya büyük boyutlu dosyalar atlandı."
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "Özel anahtar (Base64 DER / PEM):"
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "Özel anahtar (PKCS#1 PEM; güvende tutun)"
+
+msgid "Protocol analysis"
+msgstr "Protokol analizi"
+
+msgid "Protocol parser"
+msgstr "Protokol ayrıştırıcı"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "Ortak anahtar (Base64 DER / PEM):"
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "Ortak anahtar (PKCS#1 PEM)"
+
+msgid "Q (about 25%)"
+msgstr "S (yaklaşık %25)"
+
+msgid "QR Code content (UTF-8)"
+msgstr "QR Kod içeriği (UTF-8)"
+
+msgid "QR Code content cannot be empty."
+msgstr "QR Kod içeriği boş olamaz."
+
+msgid "QR Code content is too long: "
+msgstr "QR Kod içeriği çok uzun:"
+
+msgid "QR Code encoder"
+msgstr "QR Kod kodlayıcı"
+
+msgid "QR Code encoding"
+msgstr "QR Kod kodlaması"
+
+msgid "QR Code image copied."
+msgstr "QR Code resmi kopyalandı."
+
+msgid "RC4 (legacy)"
+msgstr "RC4 (eski)"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6, ChaCha20, Salsa20, Kamelya, SEED ve RSA; GCM, CBC, CTR, ECB'yi destekler,"
+
+msgid "RSA key pair"
+msgstr "RSA anahtar çifti"
+
+msgid "Raw variable block"
+msgstr "Ham değişken bloğu"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "C struct/typedef yapı tanımını ve #define dizi uzunluğunu okuyun ve Hex veri akışını veya BIN dosyasını ayrıştırın;"
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "Bir eşleşme alın (tam eşleşme olmalıdır):"
+
+msgid "Receive data does not match"
+msgstr "Alınan veriler eşleşmiyor"
+
+msgid "Receive topic:"
+msgstr "Konuyu al:"
+
+msgid "Received message not matched"
+msgstr "Alınan mesaj eşleşmiyor"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "Alınan: %lu Eşleşen: %lu Eşleşmeyen: %lu Yanıtlanan: %lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "Alınan: 0 Eşleşen: 0 Eşleşmeyen: 0 Yanıtlanan: 0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "Önerilen varsayılan: AES-256-GCM."
+
+msgid "Rename"
+msgstr "Yeniden adlandır"
+
+msgid "Rename interrupted"
+msgstr "Yeniden adlandırma kesintiye uğradı"
+
+msgid "Replace"
+msgstr "Değiştir"
+
+msgid "Replace file content"
+msgstr "Dosya içeriğini değiştir"
+
+msgid "Replace filenames"
+msgstr "Dosya adlarını değiştirin"
+
+msgid "Replace folder names"
+msgstr "Klasör adlarını değiştir"
+
+msgid "Replacement expression:"
+msgstr "Değiştirme ifadesi:"
+
+msgid "Replacer error"
+msgstr "Değiştirme hatası"
+
+msgid "Reply frame"
+msgstr "Yanıt çerçevesi"
+
+msgid "Request data cannot be empty."
+msgstr "İstek verileri boş olamaz."
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "%u bayt / %u Hex karakterleri gerektirir"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "Yürütmeden önce onay gerektirir ve senkronize edilecek ve kopyalanacak dosya sayısını görüntüler."
+
+msgid "Respond to the topic:"
+msgstr "Konuya cevap verin:"
+
+msgid "Response delay (ms):"
+msgstr "Yanıt gecikmesi (ms):"
+
+msgid "Response does not match:"
+msgstr "Yanıt eşleşmiyor:"
+
+msgid "Response sending failed"
+msgstr "Yanıt gönderimi başarısız oldu"
+
+msgid "Response/verification"
+msgstr "Yanıt/doğrulama"
+
+msgid "Result copied."
+msgstr "Sonuç kopyalandı."
+
+msgid "Results cleared."
+msgstr "Sonuçlar temizlendi."
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "Kök yapısı %s: %lu bayt; %lu kayıtlarını ayrıştırmak; sonunda kalan %lu bayt."
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "Seri, TCP, UDP, WebSocket veya MQTT istek ve yanıt testlerini çalıştırın"
+
+msgid "Save PNG"
+msgstr "PNG'yi kaydet"
+
+msgid "Save QR Code"
+msgstr "QR Kodunu Kaydet"
+
+msgid "Save barcode"
+msgstr "Barkodu kaydet"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "Dizindeki dosya adlarının başındaki sayısal sayıları tarayın ve maksimum sayı genişliğine göre baştaki sıfırları otomatik olarak ekleyin; alt dizinlerin dahil edilmesi desteği;"
+
+msgid "Search tools..."
+msgstr "Arama araçları..."
+
+msgid "Seconds"
+msgstr "Saniye"
+
+msgid "Select BIN file"
+msgstr "BIN dosyasını seç"
+
+msgid "Select a file to calculate CRC"
+msgstr "CRC'yi hesaplamak için bir dosya seçin"
+
+msgid "Select a file to hash"
+msgstr "Karma oluşturulacak bir dosya seçin"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "Tek bir dosya veya dizin seçin ve dosya adlarını ve metin içeriğini gelişmiş normal ifadelerle toplu olarak değiştirin; sürükle ve bırak özelliğini destekler;"
+
+msgid "Select a valid directory."
+msgstr "Geçerli bir dizin seçin."
+
+msgid "Select a valid file or directory."
+msgstr "Geçerli bir dosya veya dizin seçin."
+
+msgid "Select a valid file."
+msgstr "Geçerli bir dosya seçin."
+
+msgid "Select a valid input file."
+msgstr "Geçerli bir giriş dosyası seçin."
+
+msgid "Select algorithms, then calculate."
+msgstr "Algoritmalar seçin, ardından hesaplayın."
+
+msgid "Select an existing file."
+msgstr "Mevcut bir dosyayı seçin."
+
+msgid "Select an output file."
+msgstr "Bir çıktı dosyası seçin."
+
+msgid "Select at least one CRC algorithm."
+msgstr "En az bir CRC algoritması seçin."
+
+msgid "Select at least one hash algorithm."
+msgstr "En az bir karma algoritma seçin."
+
+msgid "Select at least one replacement method."
+msgstr "En az bir değiştirme yöntemi seçin."
+
+msgid "Select directory"
+msgstr "Dizin seçin"
+
+msgid "Select directory for filename zero-padding"
+msgstr "Dosya adı sıfır dolgusu için dizin seçin"
+
+msgid "Select directory..."
+msgstr "Dizin seç..."
+
+msgid "Select file"
+msgstr "Dosya seç"
+
+msgid "Select file..."
+msgstr "Dosya seç..."
+
+msgid "Select folders to sync"
+msgstr "Senkronize edilecek klasörleri seçin"
+
+msgid "Select header file directory"
+msgstr "Başlık dosyası dizinini seçin"
+
+msgid "Select input file"
+msgstr "Giriş dosyasını seçin"
+
+msgid "Select output file"
+msgstr "Çıkış dosyasını seçin"
+
+msgid "Select source code directory"
+msgstr "Kaynak kodu dizinini seçin"
+
+msgid "Select source code file"
+msgstr "Kaynak kodu dosyasını seçin"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "Bırakılan dosyalardan ilk geçerli dosyayı seçti."
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "Eşleştirmeden sonra gönder (boş bırakılabilir, yalnızca istatistik alınır):"
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "Çerçeve gönderme: %lu Yasal alma: %lu Yasa dışı alma: %lu Zaman aşımı: %lu Başarılı görev: %lu/%lu Başarı oranı: %.2f%%"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "Çerçeve gönderiliyor: 0 Yasal alma: 0 Yasa dışı alma: 0 Zaman aşımı: 0 Başarılı görev: 0/0 Başarı oranı: %0,00"
+
+msgid "Sending interval (ms):"
+msgstr "Gönderme aralığı (ms):"
+
+msgid "Serial port reception failed."
+msgstr "Seri bağlantı noktası alımı başarısız oldu."
+
+msgid "Serial port transmission failed."
+msgstr "Seri port aktarımı başarısız oldu."
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "Seri port: önceden ayarlanmış baud hızı 1200~921600 ve manuel olarak 1~4000000 girişi yapılabilir; 5/6/7/8 veri biti;"
+
+msgid "Set all to 1"
+msgstr "Tümünü 1'e ayarla"
+
+msgid "Settings (&S)"
+msgstr "Ayarlar (&S)"
+
+msgid "Shift left <<"
+msgstr "Sola kaydır <<"
+
+msgid "Shift right >>"
+msgstr "Sağa kaydır >>"
+
+msgid "Show original text"
+msgstr "Orijinal metni göster"
+
+msgid "Source line count"
+msgstr "Kaynak satırı sayısı"
+
+msgid "Start counting"
+msgstr "Saymaya başla"
+
+msgid "Start the server"
+msgstr "Sunucuyu başlat"
+
+msgid "Stop bit:"
+msgstr "Dur biraz:"
+
+msgid "Stop on failure"
+msgstr "Başarısızlık durumunda dur"
+
+msgid "Stream cipher"
+msgstr "Akış şifresi"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "Yapı hizalaması 1, 2, 4 veya 8 olmalıdır."
+
+msgid "Success, RX:"
+msgstr "Başarı, RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA'yı destekler"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "1/2/4/8 bayt paketlemeyi, küçük endian/büyük endian'ı, birden fazla ardışık kaydı ve kuyrukta kalan bayt istemlerini destekler."
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "IPv4, IPv6 (örn. ::1) ve ana bilgisayar adını destekler"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "Temel türleri, sabit uzunluklu dizileri ve tanımlanmış iç içe geçmiş yapıları destekler."
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "İkili dosyaları, ilerleme gösterimini ve iptal işlemlerini destekler; UTF-8 olmayan kod çözme sonuçları dosya olarak kaydedilebilir."
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "Geçerli saatin alınmasını, zaman damgasının ve UTC metninin kopyalanmasını ve değer aralığı ile tarih biçiminin kontrol edilmesini destekler."
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "İç içe geçmiş yapıları, temel tamsayıları, kayan noktalı, çift, bool, karakterleri ve sabit uzunluklu dizileri destekler;"
+
+msgid "Swap input and output"
+msgstr "Giriş ve çıkışı değiştir"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "Senkronizasyon tamamlandı, %lu dosyaları toplam olarak kopyalandı."
+
+msgid "Synchronization interruption"
+msgstr "Senkronizasyon kesintisi"
+
+msgid "TCP client"
+msgstr "TCP istemcisi"
+
+msgid "TCP connection failed or timed out."
+msgstr "TCP bağlantısı başarısız oldu veya zaman aşımına uğradı."
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "TCP alımı başarısız oldu veya bağlantı kesildi."
+
+msgid "TCP send failed."
+msgstr "TCP gönderimi başarısız oldu."
+
+msgid "Tag:"
+msgstr "Etiket:"
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "Hedef genişliği: %lu basamak; %lu dosyaları yeniden adlandırılacak."
+
+msgid "Testing has been stopped."
+msgstr "Test durduruldu."
+
+msgid "Testing is complete."
+msgstr "Test tamamlandı."
+
+msgid "Text"
+msgstr "Metin"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "Metin kodlaması GB18030-2022, UTF-8 ve yerel kod sayfasına göre algılanır. Maksimum tek dosya boyutu 256 MiB'dir."
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "Metne UTF-8 kodlaması kullanılarak karma oluşturma uygulanır"
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "Metin UTF-8 kodlaması kullanılarak işlenir"
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "BIN dosyası okunamıyor veya dosya 256 MiB'yi aşıyor."
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "MQTT PUBLISH konusu geçersiz."
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "MQTT SUBACK geçersiz veya abonelik reddedildi."
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "MQTT ABONE OL mesajı geçersiz."
+
+msgid "The MQTT publish topic is invalid."
+msgstr "MQTT yayınlama konusu geçersiz."
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "MQTT aboneliği konusu geçersiz."
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "UTC tarihi veya saati geçerli aralığın dışında."
+
+msgid "The UTC time contains an invalid number."
+msgstr "UTC saati geçersiz bir sayı içeriyor."
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "UTC saat biçimi YYYY-AA-GG SS:MM:SS[.mmm] olmalıdır."
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "WebSocket eşi bağlantıyı kapattı."
+
+msgid "The barcode content cannot be empty."
+msgstr "Barkod içeriği boş olamaz."
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "Baud hızı 1 ile 4000000 arasında bir tam sayı olmalıdır."
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "Kodu çözülen sonuç UTF-8 metni değil. İkili verileri korumak için bir dosyaya çıktı alın."
+
+msgid "The dropped file or directory is invalid."
+msgstr "Bırakılan dosya veya dizin geçersiz."
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "Dosya 16 MiB'yi aşıyor. Aşırı metin kutusu belleği kullanımını önlemek için bir dosyaya yazın."
+
+msgid "The header file directory is invalid."
+msgstr "Başlık dosyası dizini geçersiz."
+
+msgid "The input and output files cannot be the same."
+msgstr "Giriş ve çıkış dosyaları aynı olamaz."
+
+msgid "The language setting could not be saved."
+msgstr "Dil ayarı kaydedilemedi."
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "Dinamik kuyruk dizisi için son üyenin bir dizi olması gerekir."
+
+msgid "The match expression cannot be empty."
+msgstr "Eşleşme ifadesi boş olamaz."
+
+msgid "The parsing results have been cleared."
+msgstr "Ayrıştırma sonuçları temizlendi."
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "Dinamik bir kuyruk dizisi için sondan bir önceki üyenin 8-32 bitlik bir tamsayı skaler olması gerekir."
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "Alma önbelleği sınırı aştı ve temizlendi."
+
+msgid "The received data cannot be empty."
+msgstr "Alınan veriler boş olamaz."
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "Alınan çerçeveler aynı olamaz veya birbirine önek olamaz, aksi takdirde TCP/seri bağlantı noktası çerçeve sınırını belirleyemez."
+
+msgid "The regular expression is invalid."
+msgstr "Normal ifade geçersiz."
+
+msgid "The replacement produced an invalid filename."
+msgstr "Değiştirme geçersiz bir dosya adı üretti."
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "Alınan istek geçerli bir MQTT 3.1.1 CONNECT değildi."
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "Alınan istek geçerli bir WebSocket RFC 6455 anlaşması değildi."
+
+msgid "The root structure is invalid."
+msgstr "Kök yapısı geçersiz."
+
+msgid "The serial port or host cannot be empty."
+msgstr "Seri bağlantı noktası veya ana bilgisayar boş olamaz."
+
+msgid "The server has ended."
+msgstr "Sunucu sona erdi."
+
+msgid "The server has stopped."
+msgstr "Sunucu durduruldu."
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "Sunucu, WebSocket yükseltmesini reddetti veya el sıkışma yanıtı geçersizdi."
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "İki klasör aynı olamaz ve birbirlerinin alt dizinleri olamaz."
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "Değer biçimi geçersiz veya 64 bitlik işaretsiz tamsayı aralığının dışında."
+
+msgid "Timeout (ms):"
+msgstr "Zaman aşımı (ms):"
+
+msgid "Timestamp"
+msgstr "Zaman damgası"
+
+msgid "Timestamp converter"
+msgstr "Zaman damgası dönüştürücü"
+
+msgid "To be synchronized: %lu files"
+msgstr "Senkronize edilecek: %lu dosyaları"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "Total lines"
+msgstr "Toplam satırlar"
+
+msgid "Try again:"
+msgstr "Tekrar deneyin:"
+
+msgid "UDP reception failed."
+msgstr "UDP alımı başarısız oldu."
+
+msgid "UDP send failed."
+msgstr "UDP gönderimi başarısız oldu."
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "UTC girişi, boşluk veya T ayırıcı ve isteğe bağlı olarak sondaki Z'yi kullanabilir."
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "UTC saati (YYYY-AA-GG SS:DD:SS[.mmm])"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "UTC saati Unix zaman damgasına dönüştürüldü."
+
+msgid "UTF-8 text"
+msgstr "UTF-8 metni"
+
+msgid "Unable to bind UDP port."
+msgstr "UDP bağlantı noktası bağlanamıyor."
+
+msgid "Unable to calculate relative path:"
+msgstr "Göreli yol hesaplanamıyor:"
+
+msgid "Unable to create communication channel."
+msgstr "İletişim kanalı oluşturulamıyor."
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "Dosya eşlemesi oluşturulamıyor (hata %lu)"
+
+msgid "Unable to get file size (%s)"
+msgstr "Dosya boyutu alınamıyor (%s)"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "Dosya boyutu alınamıyor (hata %lu)"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "Ağ soketi alt sistemi başlatılamıyor; ağ araçları kullanılamıyor."
+
+msgid "Unable to listen on MQTT port."
+msgstr "MQTT bağlantı noktasında dinlenilemiyor."
+
+msgid "Unable to listen on TCP port."
+msgstr "TCP bağlantı noktasında dinlenilemiyor."
+
+msgid "Unable to listen on WebSocket port."
+msgstr "WebSocket bağlantı noktasında dinlenilemiyor."
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "UDP yerel bağlantı noktası açılamıyor (adres ailesi veya bağlantı noktası mevcut değil)."
+
+msgid "Unable to open file: %s (%s)"
+msgstr "Dosya açılamıyor: %s (%s)"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "Dosya açılamıyor: %s (hata %lu)"
+
+msgid "Unable to open serial port:"
+msgstr "Seri bağlantı noktası açılamıyor:"
+
+msgid "Unable to read directory:"
+msgstr "Dizin okunamıyor:"
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "Başlık dosyası okunamıyor veya dosya 16 MiB'ı aşıyor:"
+
+msgid "Unable to read serial port configuration."
+msgstr "Seri bağlantı noktası yapılandırması okunamıyor."
+
+msgid "Unable to reread file during replacement: "
+msgstr "Değiştirme sırasında dosya yeniden okunamıyor:"
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "IPv4/IPv6 adresi çözümlenemiyor:"
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "IPv4/IPv6 dinleme adresi çözümlenemiyor:"
+
+msgid "Unable to resolve type:"
+msgstr "Tür çözülemiyor:"
+
+msgid "Unable to set serial port parameters."
+msgstr "Seri port parametreleri ayarlanamıyor."
+
+msgid "Unable to start server thread."
+msgstr "Sunucu iş parçacığı başlatılamıyor."
+
+msgid "Unable to start test thread."
+msgstr "Test iş parçacığı başlatılamıyor."
+
+msgid "Unix / UTC conversion"
+msgstr "Unix / UTC dönüşümü"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Unix saniyeleri dönüştürülebilir aralığın dışındadır."
+
+msgid "Unix timestamp"
+msgstr "Unix zaman damgası"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "Unix zaman damgası boş olamaz."
+
+msgid "Unix timestamp converted to UTC."
+msgstr "Unix zaman damgası UTC'ye dönüştürüldü."
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "Unix zaman damgası geçerli bir 64 bit tamsayı değil."
+
+msgid "Unknown or undefined member type."
+msgstr "Bilinmeyen veya tanımlanmamış üye türü."
+
+msgid "Use private key"
+msgstr "Özel anahtarı kullan"
+
+msgid "Use public key"
+msgstr "Ortak anahtarı kullan"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "Toplu olarak dosya adlarını ve metni değiştirmek için normal ifadeleri kullanın"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "Sözlük sırasını doğal numaralandırma sırası ile tutarlı hale getirmek ve yeniden adlandırmadan önce çakışmaları kontrol etmek için kullanılır."
+
+msgid "Value copied to the clipboard."
+msgstr "Değer panoya kopyalandı."
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "Değer aralığı: 0 ila 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "Yanıt içeriğini doğrulayın (işaret kaldırıldığında yalnızca yapılandırılan uzunluğu bekleyin)"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "Sürüm %d; %d × %d modülleri; resim %d × %d."
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "64 bit işaretsiz tam sayının her bitini görüntüleyin ve düzenleyin"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "Uyarı: Crypto++, XXTEA uygulamasını BTEA olarak adlandırıyor ve onu kapsamlı bir şekilde test edilmemiş olarak işaretliyor; giriş en az 8 bayt ve 4'ün katı olmalıdır."
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "Uyarı: ECB veri kalıplarını açığa çıkarır ve gerçek veriler için önerilmez."
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "Uyarı: OAEP'yi tercih edin; PKCS#1 v1.5 yalnızca uyumluluk amacıyla sağlanmıştır."
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "Uyarı: Bu algoritma güvenli değildir ve yalnızca eski uyumluluk için sağlanmıştır."
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "Uyarı: Bu algoritma eski sistemler veya protokoller için tasarlanmıştır; yeni veriler için AES-GCM'yi tercih edin."
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "WebSocket HTTP başlığı çok büyük veya eksik."
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "WebSocket TCP bağlantısı başarısız oldu veya zaman aşımına uğradı."
+
+msgid "WebSocket client"
+msgstr "WebSocket istemcisi"
+
+msgid "WebSocket connection disconnected."
+msgstr "WebSocket bağlantısı kesildi."
+
+msgid "WebSocket handshake connection broken."
+msgstr "WebSocket anlaşması bağlantısı koptu."
+
+msgid "WebSocket handshake timed out."
+msgstr "WebSocket anlaşması zaman aşımına uğradı."
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "WebSocket mesajı 16 MiB sınırını aşıyor."
+
+msgid "WebSocket path mismatch."
+msgstr "WebSocket yolu uyuşmazlığı."
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "/ws gibi WebSocket istek yolu; şu anda ws://'yi destekliyor ancak TLS/wss://'yi desteklemiyor"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "WebSocket gönderimi başarısız oldu veya bağlantı kesildi."
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "Yanıt doğrulama etkinleştirildiğinde beklenen yanıt boş olamaz."
+
+msgid "Width"
+msgstr "Genişlik"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "Basamak genişliği her klasör için ayrı hesaplanır; %lu dosya yeniden adlandırılacak."
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows 1/1,5/2 durdurma bitlerini, tüm sağlama toplamlarını ve akış kontrol birleşimlerini destekler; Linux/macOS'un belirli kombinasyonları sistem sürücüsüyle sınırlıdır."
+
+msgid "Write to file:"
+msgstr "Dosyaya yaz:"
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA / BTEA (deneysel)"
+
+msgid "You can drop a file onto this page."
+msgstr "Bu sayfaya bir dosya bırakabilirsiniz."
+
+msgid "Zero-pad filenames"
+msgstr "Sıfır pedli dosya adları"
+
+msgid "Zero-padded filename"
+msgstr "Sıfır dolgulu dosya adı"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "Sıfır doldurma, yinelenen bir dosya adı oluşturur:"
+
+msgid "[stop]"
+msgstr "[dur]"
+
+msgid "ask"
+msgstr "sor"
+
+msgid "ask:"
+msgstr "Sor:"
+
+msgid "big endian"
+msgstr "büyük endian"
+
+msgid "communication client"
+msgstr "iletişim istemcisi"
+
+msgid "communication server"
+msgstr "iletişim sunucusu"
+
+msgid "delay"
+msgstr "gecikme"
+
+msgid "direction"
+msgstr "yön"
+
+msgid "even parity"
+msgstr "eşit eşitlik"
+
+msgid "expect '"
+msgstr "bekliyoruz'"
+
+msgid "folder 1"
+msgstr "klasör 1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\nYapılı: %s %s wxWidgets %s %s"
+
+msgid "include is missing the closing quote:"
+msgstr "include kapanış teklifi eksik:"
+
+msgid "little endian"
+msgstr "küçük endian"
+
+msgid "mapping"
+msgstr "haritalama"
+
+msgid "mark"
+msgstr "işaret"
+
+msgid "member"
+msgstr "üye"
+
+msgid "name"
+msgstr "isim"
+
+msgid "name:"
+msgstr "isim:"
+
+msgid "none"
+msgstr "hiçbiri"
+
+msgid "odd parity"
+msgstr "tek parite"
+
+msgid "offset"
+msgstr "ofset"
+
+msgid "parse"
+msgstr "ayrıştırmak"
+
+msgid "parsed value"
+msgstr "ayrıştırılmış değer"
+
+msgid "path:"
+msgstr "yol:"
+
+msgid "port:"
+msgstr "bağlantı noktası:"
+
+msgid "receive timeout"
+msgstr "zaman aşımı alma"
+
+msgid "release:"
+msgstr "serbest bırakma:"
+
+msgid "reset"
+msgstr "sıfırlama"
+
+msgid "result"
+msgstr "sonuç"
+
+msgid "send"
+msgstr "gönder"
+
+msgid "send/receive pair"
+msgstr "çifti gönder/al"
+
+msgid "serial number"
+msgstr "seri numarası"
+
+msgid "size"
+msgstr "boyut"
+
+msgid "source"
+msgstr "kaynak"
+
+msgid "space"
+msgstr "uzay"
+
+msgid "start"
+msgstr "başlangıç"
+
+msgid "stop"
+msgstr "dur"
+
+msgid "subscription:"
+msgstr "abonelik:"
+
+msgid "synchronous"
+msgstr "senkron"
+
+msgid "take over"
+msgstr "devralmak"
+
+msgid "test frame"
+msgstr "test çerçevesi"
+
+msgid "test stopped"
+msgstr "test durduruldu"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "0x önekine izin verilir ve Latin-1 aralığı 00–FF'dir."
+
+msgid "type"
+msgstr "tip"
+
+msgid "union is not supported."
+msgstr "sendika desteklenmiyor."

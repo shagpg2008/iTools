@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "%lu znakov; slika %d × %d."
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "%lu datoteke dokončane; ni uspelo preimenovati:\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "Datoteke %lu bodo kopirane; novejše datoteke z istim imenom bodo prepisale starejše datoteke. Nadaljevati?"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "Datoteke %lu: skupno %lu, koda %lu, komentarji %lu, prazno %lu; preskočeno %lu"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "%lu vnosi datoteke glave so bili naloženi; include bo med razčlenjevanjem rekurzivno razširjen."
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s dokončano: %u -> %u bajtov"
+
+msgid "/ No verification"
+msgstr "/ Brez preverjanja"
+
+msgid "/check"
+msgstr "/preveri"
+
+msgid "1 byte (compact)"
+msgstr "1 bajt (kompaktno)"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1,5 stop bitov je mogoče uporabiti le v kombinaciji s 5 podatkovnimi biti."
+
+msgid "2 bytes"
+msgstr "2 bajta"
+
+msgid "3DES (legacy)"
+msgstr "3DES (podedovano)"
+
+msgid "4 bytes"
+msgstr "4 bajti"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "5 podatkovnih bitov ni mogoče kombinirati z 2 zaustavitvenima bitoma."
+
+msgid "64-bit unsigned integer"
+msgstr "64-bitno celo število brez predznaka"
+
+msgid "8 bytes"
+msgstr "8 bajtov"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "Parameter po meri presega bitno širino, določeno s Width."
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "Obstaja podvojeno ciljno ime datoteke; delovanje ustavljeno."
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "Predogled sinhronizacije bo samodejno ustvarjen po izbiri dveh map."
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "Matrika ničelne dolžine je podprta le kot zadnji člen strukture."
+
+msgid "AAD (UTF-8):"
+msgstr "AAD (UTF-8):"
+
+msgid "ASCII converter"
+msgstr "ASCII pretvornik"
+
+msgid "ASCII string"
+msgstr "Niz ASCII"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "Besedilo ASCII lahko vsebuje samo znake od 0x00 do 0x7F."
+
+msgid "ASCII text cannot be empty."
+msgstr "Besedilo ASCII ne sme biti prazno."
+
+msgid "About (&A)"
+msgstr "O (&A)"
+
+msgid "About iTool"
+msgstr "O iTool"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "Spreminjanje datotek %lu. Tega ni mogoče samodejno razveljaviti. Nadaljevati?"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "Preimenovati bom datoteke %lu. Nadaljevati?"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "Oštevilčenim imenom datotek dodajte začetne ničle za naravno razvrščanje"
+
+msgid "Add new receive/send pair"
+msgstr "Dodajte nov par za prejemanje/pošiljanje"
+
+msgid "Add new send/receive pair"
+msgstr "Dodajte nov par za pošiljanje/prejemanje"
+
+msgid "Added receive/send mapping"
+msgstr "Dodano preslikavo prejemanja/pošiljanja"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "Najprej doda 80, nato doda 00."
+
+msgid "Algorithm and parameters"
+msgstr "Algoritem in parametri"
+
+msgid "Algorithm:"
+msgstr "Algoritem:"
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "Algoritmi (22 tipov): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Naenkrat je mogoče izračunati več algoritmov."
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "Vzdevkov ni mogoče navesti za zaključnim zavitim oklepajem strukture, ki ni tipska."
+
+msgid "Alignment:"
+msgstr "Poravnava:"
+
+msgid "All files (*.*)|*.*"
+msgstr "Vse datoteke (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "Anonimne strukture morajo zagotoviti ime typedef."
+
+msgid "Any non-empty"
+msgstr "Vsako neprazno"
+
+msgid "Array length missing."
+msgstr "Manjka dolžina polja."
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "Dolžina matrike mora biti pozitivno celo število ali definiran numerični makro."
+
+msgid "Array length must be greater than zero."
+msgstr "Dolžina niza mora biti večja od nič."
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "Samodejno izračunajte kontrolno vsoto, prilagodite povečavo in kopirajte sliko ali shranite kot PNG."
+
+msgid "BIN file"
+msgstr "BIN datoteko"
+
+msgid "Barcode encoder"
+msgstr "Kodirnik črtne kode"
+
+msgid "Barcode encoding"
+msgstr "Kodiranje črtne kode"
+
+msgid "Barcode height:"
+msgstr "Višina črtne kode:"
+
+msgid "Barcode image copied."
+msgstr "Slika črtne kode je kopirana."
+
+msgid "Base64"
+msgstr "Base64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Kodiranje in dekodiranje Base64; vhod in izhod lahko neodvisno izbere besedilo ali datoteke UTF-8;"
+
+msgid "Base64 error"
+msgstr "Napaka Base64"
+
+msgid "Baud rate:"
+msgstr "Hitrost prenosa:"
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "Dvosmerna pretvorba med 64-bitnim časovnim žigom Unix ter datumom in časom UTC; enota časovnega žiga podpira sekunde in milisekunde;"
+
+msgid "Binary"
+msgstr "Binarno"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "Binarne datoteke (*.bin)|*.bin|Vse datoteke (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "Člani bitnega polja niso podprti."
+
+msgid "Bits set: %d / 64"
+msgstr "Komplet nastavkov: %d / 64"
+
+msgid "Bitset64"
+msgstr "Bitset64"
+
+msgid "Blank"
+msgstr "Prazno"
+
+msgid "Both folders have been synchronized."
+msgstr "Obe mapi sta bili sinhronizirani."
+
+msgid "C structure definition"
+msgstr "C definicija strukture"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB izbirni PKCS, nič, ISO/IEC 7816-4 ali brez oblazinjenja; podpira varen naključni ključ, generiranje para ključev IV/nonce in RSA."
+
+msgid "CRC calculation error"
+msgstr "Napaka pri izračunu CRC"
+
+msgid "CRC calculator"
+msgstr "CRC kalkulator"
+
+msgid "Calculate"
+msgstr "Izračunaj"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "Izračunajte zgoščene vrednosti za besedilo, šestnajstiške podatke ali datoteke"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "Izračunajte standardne in prilagojene vrednosti CRC za besedilo, bajte ali datoteke"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "Izračunavanje CRC datoteke v ozadju ..."
+
+msgid "Calculation completed."
+msgstr "Izračun končan."
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Canceled."
+msgstr "Preklicano."
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "Znak %lu, »%s«, je zunaj območja Latin-1 (00–FF)."
+
+msgid "Clear"
+msgstr "jasno"
+
+msgid "Clear all"
+msgstr "Počisti vse"
+
+msgid "Clear log"
+msgstr "Počisti dnevnik"
+
+msgid "Clear results"
+msgstr "Jasni rezultati"
+
+msgid "Cleared."
+msgstr "Počiščeno."
+
+msgid "Close"
+msgstr "Zapri"
+
+msgid "Code"
+msgstr "Koda"
+
+msgid "Code 128-B content"
+msgstr "Šifra 128-B vsebine"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "Vsebina kode 128-B ne sme presegati 200 znakov."
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "Koda 128-B samodejno ustvari kontrolno vsoto."
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "Koda 128-B podpira le 32~126 znakov ASCII."
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "Koda in komentarji se lahko štejejo v isto vrstico (na primer končni komentarji)."
+
+msgid "Comments"
+msgstr "Komentarji"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "Običajne hitrosti prenosa lahko izberete ali ročno vnesete od 1 do 4000000."
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "Pogosto uporabljene datoteke, kot so HTML/XML, CSS, Vue, CMake in njihovi slogi komentarjev; največja velikost posamezne datoteke je 512 MiB."
+
+msgid "Communication client"
+msgstr "Komunikacijski odjemalec"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "Komunikacijski odjemalec: Windows, Linux in macOS podpirajo serijska vrata in podpirajo TCP, UDP, WebSocket in MQTT 3.1.1; podatki o zahtevi/odgovoru so lahko neobvezno Hex ali ASCII;"
+
+msgid "Communication server"
+msgstr "Komunikacijski strežnik"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "Komunikacijski strežnik: Windows, Linux in macOS lahko spremljajo serijska vrata in podpirajo TCP, UDP, WebSocket in MQTT 3.1.1; sprejemni okvirji so lahko Hex ali ASCII;"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "Primerjajte dva imenika in sinhronizirajte novejše ali enostranske datoteke"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "Primerjajte dve mapi in njuna podimenika; ustvarjanje sinhroniziranih predogledov glede na čas spreminjanja; kopirajte novejše datoteke in enostranske datoteke v obe smeri;"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "Dokončane datoteke %lu, kopiranje ni uspelo:\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "Dokončano: %llu bajtov, %lu algoritmov."
+
+msgid "Completed: %lu files modified."
+msgstr "Dokončano: spremenjene datoteke %lu."
+
+msgid "Completed: %lu files renamed."
+msgstr "Dokončano: datoteke %lu so preimenovane."
+
+msgid "Confirm rename"
+msgstr "Potrdite preimenovanje"
+
+msgid "Confirm replacement"
+msgstr "Potrdite zamenjavo"
+
+msgid "Confirm synchronization"
+msgstr "Potrdite sinhronizacijo"
+
+msgid "Content matches"
+msgstr "Vsebina se ujema"
+
+msgid "Conversion completed."
+msgstr "Pretvorba končana."
+
+msgid "Convert"
+msgstr "Pretvori"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "Pretvarjanje med 64-bitnimi časovnimi žigi Unix in datumom/časom UTC"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "Pretvarjanje med šestnajstiškimi nizi in ASCII"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "Pretvorite datoteke ali besedilo UTF-8 v in iz Base64"
+
+msgid "Convert to Base64"
+msgstr "Pretvori v Base64"
+
+msgid "Convert to UTC ↓"
+msgstr "Convert to UTC ↓"
+
+msgid "Convert to Unix ↑"
+msgstr "Convert to Unix ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "Pretvorjeni bajti: %llu"
+
+msgid "Copied to the clipboard."
+msgstr "Copied to the clipboard."
+
+msgid "Copy"
+msgstr "Kopiraj"
+
+msgid "Copy image"
+msgstr "Copy image"
+
+msgid "Copy result"
+msgstr "Copy result"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "Preštejte posamezno datoteko ali imenik, lahko izberete, ali želite ponoviti in prilagoditi razširitev; preštejte skupno število vrstic, kodo, komentarje in prazne vrstice;"
+
+msgid "Count results cleared."
+msgstr "Count results cleared."
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "Preštejte skupno število, kodo, komentarje in prazne vrstice po datotekah"
+
+msgid "Crypto++ conversion failed: "
+msgstr "Pretvorba Crypto++ ni uspela:"
+
+msgid "Current UTC time loaded."
+msgstr "Current UTC time loaded."
+
+msgid "Current time"
+msgstr "Current time"
+
+msgid "Custom"
+msgstr "Po meri"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "Custom Init, Poly in XorOut morajo biti šestnajstiška števila."
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "Širina po meri podpira samo 8, 16, 24, 32 ali 64."
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "Algoritem po meri: nastavite lahko Width, Init, Poly, XorOut, RefIn, RefOut in hkrati izberete več izračunov algoritmov."
+
+msgid "DES (legacy)"
+msgstr "DES (legacy)"
+
+msgid "Data bits:"
+msgstr "Data bits:"
+
+msgid "Decimal"
+msgstr "Decimal"
+
+msgid "Decode from Base64"
+msgstr "Decode from Base64"
+
+msgid "Decrypt"
+msgstr "Decrypt"
+
+msgid "Decryption"
+msgstr "Decryption"
+
+msgid "Delay before sending (ms):"
+msgstr "Zakasnitev pred pošiljanjem (ms):"
+
+msgid "Delete selected receive/send mapping"
+msgstr "Delete selected receive/send mapping"
+
+msgid "Delete selected send/receive pair"
+msgstr "Delete selected send/receive pair"
+
+msgid "Determine width from the largest number"
+msgstr "Determine width from the largest number"
+
+msgid "Direction"
+msgstr "Smer"
+
+msgid "Directory sync"
+msgstr "Sinhronizacija imenika"
+
+msgid "Directory:"
+msgstr "Imenik:"
+
+msgid "Dropped directory accepted."
+msgstr "Dropped directory accepted."
+
+msgid "Dropped file accepted."
+msgstr "Izpuščena datoteka je sprejeta."
+
+msgid "Dynamic tail array length is too large."
+msgstr "Dolžina dinamičnega niza repov je prevelika."
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "Dinamični repni niz zahteva vsaj dva strukturna člena."
+
+msgid "ECB (legacy)"
+msgstr "ECB (podedovano)"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "Vsaka šestnajstiška vrednost in bitni status se posodobita skupaj, kar podpira kopiranje rezultatov."
+
+msgid "Edit receive/send pairs"
+msgstr "Urejanje parov za prejemanje/pošiljanje"
+
+msgid "Edit selected receive/send mapping"
+msgstr "Edit selected receive/send mapping"
+
+msgid "Edit selected send/receive pair"
+msgstr "Edit selected send/receive pair"
+
+msgid "Edit send/receive pairs"
+msgstr "Uredite pare za pošiljanje/prejemanje"
+
+msgid "Enable this mapping"
+msgstr "Omogoči to preslikavo"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "Encode ASCII text as a Code 128-B barcode"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "Encode UTF-8 text as a QR Code image"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "Kodirajte besedilo v obsegu od 32 do 126 ASCII in do 200 znakov v kodo 128-B;"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "Zaznavanje kodiranja: GB18030-2022 -> UTF-8 -> lokalna kodna stran; maximum 256 MiB per file."
+
+msgid "Encountered failure and stopped as configured."
+msgstr "Encountered failure and stopped as configured."
+
+msgid "Encrypt"
+msgstr "Šifriraj"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "Šifrirajte in dešifrirajte podatke z algoritmi Crypto++"
+
+msgid "Encryption"
+msgstr "Šifriranje"
+
+msgid "Encryption / Decryption"
+msgstr "Šifriranje/dešifriranje"
+
+msgid "Encryption/decryption error"
+msgstr "Napaka pri šifriranju/dešifriranju"
+
+msgid "Endianness:"
+msgstr "Endianness:"
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "Vnesite šestnajstiške podatke, na primer: 31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "Vnesite 64-bitno celo število brez predznaka v šestnajstiški, decimalni ali dvojiški obliki; prikaz in klik za urejanje bitov 0~63;"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "Vnesite niz ASCII, na primer: 123"
+
+msgid "Enter data"
+msgstr "Vnesite podatke"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "Vnesite šestnajstiške bajte, na primer: 31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "Vnesite besedilo za pretvorbo."
+
+msgid "Error correction:"
+msgstr "Popravek napake:"
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "Izvedite več nizov testov v konfiguriranem vrstnem redu, podpirajte časovne omejitve, zanke, statistiko rezultatov in dnevnike časovnih žigov v milisekundah."
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "Izhod (&X) Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "Pričakovan odgovor (pustite prazno, da označite dokončanje po prejemu morebitnih podatkov, ki niso prazni):"
+
+msgid "Extensions:"
+msgstr "Razširitve:"
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "Delovne niti datoteke CRC ni bilo mogoče ustvariti."
+
+msgid "Failed to initialize CRC."
+msgstr "Inicializacija CRC ni uspela."
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "Preslikava datoteke ni uspela (odmik %llu, %s)"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "Preslikava datoteke ni uspela (odmik %llu, napaka %lu)"
+
+msgid "Failed to parse Hex data."
+msgstr "Hex podatkov ni bilo mogoče razčleniti."
+
+msgid "Failed to read BIN file."
+msgstr "Datoteke BIN ni bilo mogoče prebrati."
+
+msgid "Failed to read header file:"
+msgstr "Datoteke glave ni bilo mogoče prebrati:"
+
+msgid "Failed to rename: "
+msgstr "Preimenovanje ni uspelo:"
+
+msgid "Failed to save PNG."
+msgstr "PNG ni bilo mogoče shraniti."
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "Zagon delovne niti datoteke CRC ni uspel."
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "Dolžine CRC32/POSIX ni bilo mogoče posodobiti."
+
+msgid "Failed to write file: "
+msgstr "Datoteke ni bilo mogoče zapisati:"
+
+msgid "Features\n\n"
+msgstr "Lastnosti"
+
+msgid "File"
+msgstr "Datoteka"
+
+msgid "File (&F)"
+msgstr "Datoteka (&F)"
+
+msgid "File hash calculation completed."
+msgstr "Izračun zgoščene vrednosti datoteke je končan."
+
+msgid "File or directory:"
+msgstr "Datoteka ali imenik:"
+
+msgid "Filename zero-padding"
+msgstr "Ničelno polnjenje imena datoteke"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "Datoteke z enakim imenom imajo različne velikosti, vendar enak čas spreminjanja, zato smeri ni mogoče varno določiti:"
+
+msgid "Find and replace"
+msgstr "Poiščite in zamenjajte"
+
+msgid "Flow control:"
+msgstr "Nadzor pretoka:"
+
+msgid "Folder 1:"
+msgstr "Mapa 1:"
+
+msgid "Folder 2"
+msgstr "Mapa 2"
+
+msgid "Folder 2:"
+msgstr "Mapa 2:"
+
+msgid "Folder sync"
+msgstr "Sinhronizacija map"
+
+msgid "Follow system"
+msgstr "Sledite sistemu"
+
+msgid "For example: 123"
+msgstr "Na primer: 123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "Na primer: 31 32 33 ali 0x31, 0x32, 0x33"
+
+msgid "Format:"
+msgstr "Oblika:"
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "Štiri stopnje odpravljanja napak: Q (približno 25 %), H (približno 30 %); prilagodite povečavo, kopirajte sliko ali shranite kot PNG."
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "Delčki sekunde vsebujejo do tri števke."
+
+msgid "From file:"
+msgstr "Iz datoteke:"
+
+msgid "From text box:"
+msgstr "Iz besedilnega polja:"
+
+msgid "GCM (recommended)"
+msgstr "GCM (priporočeno)"
+
+msgid "Generate"
+msgstr "Ustvari"
+
+msgid "Generate key pair"
+msgstr "Ustvari par ključev"
+
+msgid "Generate random"
+msgstr "Ustvari naključno"
+
+msgid "H (about 30%)"
+msgstr "H (približno 30%)"
+
+msgid "Hash calculation"
+msgstr "Izračun zgoščevanja"
+
+msgid "Hash checker"
+msgstr "Preverjevalnik zgoščenih vrednosti"
+
+msgid "Hash error"
+msgstr "Napaka zgoščevanja"
+
+msgid "Header file directory:"
+msgstr "Imenik datotek glave:"
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "Datoteka glave ni veljavno kodiranje UTF-8 ali lokalno:"
+
+msgid "Help (&H)"
+msgstr "Pomoč (&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "Hex bajti so lahko ločeni s presledki, vejicami, podpičji ali prelomi vrstic, na primer 31 32 33;"
+
+msgid "Hex data contains invalid characters."
+msgstr "Hex podatki vsebujejo neveljavne znake."
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "Šestnajstiški podatki morajo vsebovati sodo število šestnajstiških števk."
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "Šestnajstinski podatki morajo vsebovati sodo število števil."
+
+msgid "Hex input cannot be empty."
+msgstr "Šestnajstinski vnos ne sme biti prazen."
+
+msgid "Hex input contains an invalid character."
+msgstr "Hex vnos vsebuje neveljaven znak."
+
+msgid "Hex input contains invalid characters."
+msgstr "Hex vnos vsebuje neveljavne znake."
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "Šestnajstinski vnos mora vsebovati sodo število števil."
+
+msgid "Hex string"
+msgstr "Hex niz"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "Šestnajstiški: 31 32 33 ali 313233"
+
+msgid "Hexadecimal"
+msgstr "Šestnajstiško"
+
+msgid "Host:"
+msgstr "Gostitelj:"
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "IPv4 poln vmesnik: 0.0.0.0; Celoten vmesnik IPv6 :::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV / Enkrat (Hex):"
+
+msgid "Include header file not found:"
+msgstr "Vključi datoteke glave ni bilo mogoče najti:"
+
+msgid "Include subdirectories"
+msgstr "Vključi podimenike"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "Vključuje standardno belo tiho območje s štirimi moduli."
+
+msgid "Incremental CRC calculation failed."
+msgstr "Inkrementalni izračun CRC ni uspel."
+
+msgid "Input"
+msgstr "Vnos"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "Vhod in izhod počiščen; ključni parametri ohranjeni."
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "Vnos: heksabajti, besedilo UTF-8, datoteke (velike datoteke uporabljajo preslikavo pomnilnika v kosih)."
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "Vnos: šestnajstiški bajti, besedilo UTF-8, datoteke (podpira povleci in spusti ter preslikavo pomnilnika v koščkih)."
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "Nezadostni podatki: Glava dinamične strukture zahteva %lu bajtov."
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "Nezadostni podatki: Struktura zahteva %lu bajtov."
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "Milisekundni časovni žig snemanja vmesnika in dnevnika. Prednastavljena hitrost prenosa serijskih vrat je do 921600, določeno hitrost prenosa pa lahko vnesete tudi ročno."
+
+msgid "Invalid Hex character: '%c'."
+msgstr "Neveljaven šestnajstiški znak: '%c'."
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "Neveljavno zaporedje fragmentov WebSocket."
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "Neveljavna oblika okvirja WebSocket ali smer maske."
+
+msgid "Invalid WebSocket opcode."
+msgstr "Neveljavna opcijska koda WebSocket."
+
+msgid "Invalid input"
+msgstr "Neveljaven vnos"
+
+msgid "Invalid millisecond format."
+msgstr "Neveljavna oblika milisekunde."
+
+msgid "Invert all"
+msgstr "Obrnite vse"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "Postavka %lu, »%s«, ni dvomestni šestnajstiški bajt."
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "Postavka %lu, »%s«, ni veljaven bajt Latin-1 (razpon 00–FF)."
+
+msgid "Key (Hex):"
+msgstr "Ključ (šestnajstiški):"
+
+msgid "Key length:"
+msgstr "Dolžina ključa:"
+
+msgid "L (about 7%)"
+msgstr "L (približno 7%)"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "Line %lu:"
+msgstr "Vrstica %lu:"
+
+msgid "Line %lu: Block comment not ended."
+msgstr "Vrstica %lu: Blokiraj komentar ni končan."
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "Vrstica %lu: Nepodprt znak '%c'."
+
+msgid "Line counter"
+msgstr "Števec vrstic"
+
+msgid "Listening address:"
+msgstr "Naslov poslušanja:"
+
+msgid "Load directory"
+msgstr "Naloži imenik"
+
+msgid "Local port:"
+msgstr "Lokalno pristanišče:"
+
+msgid "M (about 15%)"
+msgstr "M (približno 15%)"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "Povezava posrednika MQTT ni uspela ali je potekla časovna omejitev."
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "Posrednik MQTT je zavrnil povezavo ali neveljaven CONNACK."
+
+msgid "MQTT Payload not matched"
+msgstr "Tovor MQTT se ne ujema"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "Preostala dolžina MQTT je neveljavna."
+
+msgid "MQTT client"
+msgstr "odjemalec MQTT"
+
+msgid "MQTT client disconnected."
+msgstr "Odjemalec MQTT prekinjen."
+
+msgid "MQTT connection disconnected."
+msgstr "Povezava MQTT je prekinjena."
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "Sporočilo MQTT presega omejitev 16 MiB."
+
+msgid "MQTT publish topic mismatch:"
+msgstr "Neujemanje teme objave MQTT:"
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "Teme objave MQTT in teme naročnine ne morejo biti prazne."
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "Tema prejema MQTT in tema odgovora ne smeta biti prazni."
+
+msgid "MQTT response publishing failed"
+msgstr "Objava odgovora MQTT ni uspela"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "Pošiljanje MQTT ni uspelo ali pa je bila povezava prekinjena."
+
+msgid "Manual width:"
+msgstr "Ročna širina:"
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "Ujemanje celotnih okvirjev brez vrstnega reda glede na več konfiguracij in pošiljanje ustreznih odgovorov ter preverjanje podvojenih okvirjev in dvoumnosti predpone;"
+
+msgid "Match expression:"
+msgstr "Izraz ujemanja:"
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "Ujemite sporočila in odgovorite prek serijskega vmesnika, TCP, UDP, WebSocket ali MQTT"
+
+msgid "Matched and posted response"
+msgstr "Ujemanje in objavljen odgovor"
+
+msgid "Matched and responded"
+msgstr "Ujemanje in odgovor"
+
+msgid "Member type enum is not supported."
+msgstr "Vrsta člana enum ni podprta."
+
+msgid "Member's statement is not concluded."
+msgstr "Izjava poslanca ni zaključena."
+
+msgid "Milliseconds"
+msgstr "Milisekund"
+
+msgid "Mode:"
+msgstr "način:"
+
+msgid "Module width:"
+msgstr "Širina modula:"
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "Premakni navzdol: Prilagodite vrstni red izvajanja parov pošiljanje/prejemanje"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "Premakni navzgor: Prilagodite vrstni red izvajanja parov pošiljanje/prejemanje"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Name cannot be empty."
+msgstr "Ime ne sme biti prazno."
+
+msgid "New filename"
+msgstr "Novo ime datoteke"
+
+msgid "No files need zero-padding."
+msgstr "Nobena datoteka ne potrebuje ničelnega polnila."
+
+msgid "No matches found."
+msgstr "Ni zadetkov."
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "Brez oblazinjenja; vhodna dolžina mora biti večkratnik velikosti bloka."
+
+msgid "No structure definition found."
+msgstr "Ni definicije strukture."
+
+msgid "No valid file was found in the dropped content."
+msgstr "V izpuščeni vsebini ni bila najdena veljavna datoteka."
+
+msgid "Not matched"
+msgstr "Ne ujema se"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "Opomba: CBC ne zagotavlja avtentikacije integritete; raje GCM za nove aplikacije."
+
+msgid "Number of tasks sent:"
+msgstr "Število poslanih nalog:"
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP in PKCS#1 v1.5; vhod in izhod je mogoče neodvisno izbrati kot UTF-8, Hex, Base64 ali datoteko;"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "Sprejmite samo to pot WebSocket, kot je /ws; trenutno podpira ws://, ne TLS/wss://"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "Obdelana so samo imena datotek, ki se začnejo s številkami; preostalo besedilo in razširitve so ohranjeni."
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "Podprte so samo definicije struktur (enum/union/navadne deklaracije niso podprte)."
+
+msgid "Operation failed."
+msgstr "Operacija ni uspela."
+
+msgid "Original Hex"
+msgstr "Originalni hex"
+
+msgid "Original filename"
+msgstr "Izvirno ime datoteke"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "Preslikava sprejema/oddajanja izven reda"
+
+msgid "Output"
+msgstr "Izhod"
+
+msgid "Output to text box:"
+msgstr "Izhod v besedilno polje:"
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5 (podedovano)"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5 / PKCS#7 (priporočeno)"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7 (priporočeno)"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "Slika PNG (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "PNG shranjen."
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "Oblazinjenje se samodejno doda in odstrani med dešifriranjem."
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "Oblazinjenje se doda samodejno; dodaten blok je dodan tudi, ko so podatki poravnani."
+
+msgid "Padding:"
+msgstr "Oblazinjenje:"
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "Blazinice z 00; dešifriranje odstrani končnih 00 bajtov in lahko izgubi prvotnih končnih nič bajtov."
+
+msgid "Parity check:"
+msgstr "Preverjanje parnosti:"
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "Razčlenite Hex tokove ali datoteke BIN z uporabo definicij strukture C"
+
+msgid "Paste"
+msgstr "Prilepi"
+
+msgid "Paste an RSA private key"
+msgstr "Prilepite zasebni ključ RSA"
+
+msgid "Paste an RSA public key"
+msgstr "Prilepite javni ključ RSA"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "Predzadnje polje določa dolžino niza repa"
+
+msgid "Pixels per module:"
+msgstr "Pikslov na modul:"
+
+msgid "Please add at least one send/receive pair."
+msgstr "Dodajte vsaj en par za pošiljanje/prejemanje."
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "Konfigurirajte vsaj eno omogočeno preslikavo prejemanja/pošiljanja."
+
+msgid "Please select a valid BIN file."
+msgstr "Izberite veljavno datoteko BIN."
+
+msgid "Please select a valid header directory."
+msgstr "Izberite veljaven imenik glave."
+
+msgid "Please select two valid folders."
+msgstr "Izberite dve veljavni mapi."
+
+msgid "Please wait ..."
+msgstr "Počakajte prosim ..."
+
+msgid "Pointer members are not supported."
+msgstr "Člani kazalca niso podprti."
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "Prednastavljeni algoritmi (18 vrst): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+
+msgid "Preview"
+msgstr "Predogled"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "Predogled: datoteke %lu se bodo spremenile; %lu Nebesedilne ali prevelike datoteke so preskočene."
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "Zasebni ključ (Base64 DER / PEM):"
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "Zasebni ključ (PKCS#1 PEM; naj bo varen)"
+
+msgid "Protocol analysis"
+msgstr "Analiza protokola"
+
+msgid "Protocol parser"
+msgstr "Razčlenjevalnik protokola"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "Javni ključ (Base64 DER / PEM):"
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "Javni ključ (PKCS#1 PEM)"
+
+msgid "Q (about 25%)"
+msgstr "Q (približno 25 %)"
+
+msgid "QR Code content (UTF-8)"
+msgstr "Vsebina kode QR (UTF-8)"
+
+msgid "QR Code content cannot be empty."
+msgstr "Vsebina kode QR ne sme biti prazna."
+
+msgid "QR Code content is too long: "
+msgstr "Vsebina kode QR je predolga:"
+
+msgid "QR Code encoder"
+msgstr "Kodirnik QR kode"
+
+msgid "QR Code encoding"
+msgstr "Kodiranje kode QR"
+
+msgid "QR Code image copied."
+msgstr "Slika kode QR je kopirana."
+
+msgid "RC4 (legacy)"
+msgstr "RC4 (zapuščina)"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED in RSA; podpira GCM, CBC, CTR, ECB,"
+
+msgid "RSA key pair"
+msgstr "Par ključev RSA"
+
+msgid "Raw variable block"
+msgstr "Neobdelani blok spremenljivk"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "Preberite definicijo strukture C struct/typedef in #define dolžino niza ter razčlenite Hex tok podatkov ali datoteko BIN;"
+
+msgid "Ready"
+msgstr "pripravljena"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "Prejmi ujemanje (mora biti natančno ujemanje):"
+
+msgid "Receive data does not match"
+msgstr "Prejeti podatki se ne ujemajo"
+
+msgid "Receive topic:"
+msgstr "Prejmi temo:"
+
+msgid "Received message not matched"
+msgstr "Prejeto sporočilo se ne ujema"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "Prejeto: %lu Ujemanje: %lu Neujemanje: %lu Odgovorjeno: %lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "Prejeto: 0 Ujemanje: 0 Neujemanje: 0 Odgovorjeno: 0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "Prepozna C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "Priporočena privzeta vrednost: AES-256-GCM."
+
+msgid "Rename"
+msgstr "Preimenuj"
+
+msgid "Rename interrupted"
+msgstr "Preimenovanje je prekinjeno"
+
+msgid "Replace"
+msgstr "Zamenjaj"
+
+msgid "Replace file content"
+msgstr "Zamenjaj vsebino datoteke"
+
+msgid "Replace filenames"
+msgstr "Zamenjajte imena datotek"
+
+msgid "Replace folder names"
+msgstr "Zamenjaj imena map"
+
+msgid "Replacement expression:"
+msgstr "Nadomestni izraz:"
+
+msgid "Replacer error"
+msgstr "Napaka zamenjave"
+
+msgid "Reply frame"
+msgstr "Okvir odgovora"
+
+msgid "Request data cannot be empty."
+msgstr "Podatki zahteve ne smejo biti prazni."
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "Zahteva %u bajtov / %u šestnajstiških znakov"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "Pred izvedbo zahteva potrditev in prikaže število datotek, ki jih je treba sinhronizirati in kopirati."
+
+msgid "Respond to the topic:"
+msgstr "Odgovorite na temo:"
+
+msgid "Response delay (ms):"
+msgstr "Zakasnitev odziva (ms):"
+
+msgid "Response does not match:"
+msgstr "Odgovor se ne ujema:"
+
+msgid "Response sending failed"
+msgstr "Pošiljanje odgovora ni uspelo"
+
+msgid "Response/verification"
+msgstr "Odgovor/preverjanje"
+
+msgid "Result copied."
+msgstr "Rezultat kopiran."
+
+msgid "Results cleared."
+msgstr "Rezultati izbrisani."
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "Korenska struktura %s: %lu bajtov; razčleniti zapise %lu; preostalih %lu bajtov na koncu."
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "Zaženite serijske, TCP, UDP, WebSocket ali MQTT teste zahtev in odgovorov"
+
+msgid "Save PNG"
+msgstr "Shrani PNG"
+
+msgid "Save QR Code"
+msgstr "Shrani kodo QR"
+
+msgid "Save barcode"
+msgstr "Shrani črtno kodo"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "Preglejte številske številke na začetku imen datotek v imeniku in samodejno dodajte vodilne ničle glede na največjo širino števila; podpora za vključevanje podimenikov;"
+
+msgid "Search tools..."
+msgstr "Orodja za iskanje ..."
+
+msgid "Seconds"
+msgstr "sekund"
+
+msgid "Select BIN file"
+msgstr "Izberite datoteko BIN"
+
+msgid "Select a file to calculate CRC"
+msgstr "Izberite datoteko za izračun CRC"
+
+msgid "Select a file to hash"
+msgstr "Izberite datoteko za zgoščevanje"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "Izberite posamezno datoteko ali imenik in paketno zamenjajte imena datotek in besedilno vsebino z naprednimi regularnimi izrazi; podpira povleci in spusti;"
+
+msgid "Select a valid directory."
+msgstr "Izberite veljaven imenik."
+
+msgid "Select a valid file or directory."
+msgstr "Izberite veljavno datoteko ali imenik."
+
+msgid "Select a valid file."
+msgstr "Izberite veljavno datoteko."
+
+msgid "Select a valid input file."
+msgstr "Izberite veljavno vhodno datoteko."
+
+msgid "Select algorithms, then calculate."
+msgstr "Izberite algoritme in nato izračunajte."
+
+msgid "Select an existing file."
+msgstr "Izberite obstoječo datoteko."
+
+msgid "Select an output file."
+msgstr "Izberite izhodno datoteko."
+
+msgid "Select at least one CRC algorithm."
+msgstr "Izberite vsaj en algoritem CRC."
+
+msgid "Select at least one hash algorithm."
+msgstr "Izberite vsaj en algoritem zgoščevanja."
+
+msgid "Select at least one replacement method."
+msgstr "Izberite vsaj en način zamenjave."
+
+msgid "Select directory"
+msgstr "Izberite imenik"
+
+msgid "Select directory for filename zero-padding"
+msgstr "Izberite imenik za ničelno polnjenje imena datoteke"
+
+msgid "Select directory..."
+msgstr "Izberite imenik ..."
+
+msgid "Select file"
+msgstr "Izberite datoteko"
+
+msgid "Select file..."
+msgstr "Izberite datoteko ..."
+
+msgid "Select folders to sync"
+msgstr "Izberite mape za sinhronizacijo"
+
+msgid "Select header file directory"
+msgstr "Izberite imenik datoteke glave"
+
+msgid "Select input file"
+msgstr "Izberite vhodno datoteko"
+
+msgid "Select output file"
+msgstr "Izberite izhodno datoteko"
+
+msgid "Select source code directory"
+msgstr "Izberite imenik izvorne kode"
+
+msgid "Select source code file"
+msgstr "Izberite datoteko izvorne kode"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "Izbrana prva veljavna datoteka med izpuščenimi datotekami."
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "Pošlji po ujemanju (lahko pustite prazno, prejmite samo statistiko):"
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "Okvir pošiljanja: %lu Zakonit sprejem: %lu Nezakonit sprejem: %lu Časovna omejitev: %lu Uspešno opravilo: %lu/%lu Stopnja uspešnosti: %.2f%%"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "Okvir pošiljanja: 0 Zakonit sprejem: 0 Nezakonit sprejem: 0 Časovna omejitev: 0 Uspešno opravilo: 0/0 Stopnja uspešnosti: 0,00 %"
+
+msgid "Sending interval (ms):"
+msgstr "Interval pošiljanja (ms):"
+
+msgid "Serial port reception failed."
+msgstr "Serial port reception failed."
+
+msgid "Serial port transmission failed."
+msgstr "Serial port transmission failed."
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "Serijska vrata: prednastavljena hitrost prenosa 1200~921600 in lahko ročno vnesete 1~4000000; 5/6/7/8 podatkovnih bitov;"
+
+msgid "Set all to 1"
+msgstr "Vse nastavite na 1"
+
+msgid "Settings (&S)"
+msgstr "Nastavitve (&S)"
+
+msgid "Shift left <<"
+msgstr "Shift levo <<"
+
+msgid "Shift right >>"
+msgstr "Premik desno >>"
+
+msgid "Show original text"
+msgstr "Pokaži izvirno besedilo"
+
+msgid "Source line count"
+msgstr "Število izvornih vrstic"
+
+msgid "Start counting"
+msgstr "Začni šteti"
+
+msgid "Start the server"
+msgstr "Zaženite strežnik"
+
+msgid "Stop bit:"
+msgstr "Stop bit:"
+
+msgid "Stop on failure"
+msgstr "Ustavite se ob neuspehu"
+
+msgid "Stream cipher"
+msgstr "Pretočna šifra"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "Struct alignment must be 1, 2, 4, or 8."
+
+msgid "Success, RX:"
+msgstr "Success, RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "Podpira AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "Podpira 1/2/4/8 bajtno pakiranje, little endian/big endian, več zaporednih zapisov in zadnje pozive za preostale bajte."
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "Podpira osnovne tipe, polja s fiksno dolžino in definirane ugnezdene strukture."
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "Podpira binarne datoteke, prikaz napredka in operacije preklica; rezultate dekodiranja, ki niso UTF-8, lahko shranite kot datoteke."
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "Podpira pridobivanje trenutnega časa, kopiranje časovnega žiga in besedila UTC ter preverjanje obsega vrednosti in oblike zapisa datuma."
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "Podpira ugnezdene strukture, osnovna cela števila, float, double, bool, znake in nize s fiksno dolžino;"
+
+msgid "Swap input and output"
+msgstr "Zamenjaj vhod in izhod"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "Sinhronizacija je končana, datoteke %lu so kopirane v celoti."
+
+msgid "Synchronization interruption"
+msgstr "Prekinitev sinhronizacije"
+
+msgid "TCP client"
+msgstr "odjemalec TCP"
+
+msgid "TCP connection failed or timed out."
+msgstr "Povezava TCP ni uspela ali je časovna omejitev potekla."
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "Sprejem TCP ni uspel ali pa je bila povezava prekinjena."
+
+msgid "TCP send failed."
+msgstr "TCP pošiljanje ni uspelo."
+
+msgid "Tag:"
+msgstr "Oznaka:"
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "Ciljna širina: %lu števk; Datoteke %lu bodo preimenovane."
+
+msgid "Testing has been stopped."
+msgstr "Testiranje je bilo ustavljeno."
+
+msgid "Testing is complete."
+msgstr "Testiranje je končano."
+
+msgid "Text"
+msgstr "Besedilo"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "Kodiranje besedila je zaznano v skladu z GB18030-2022, UTF-8 in lokalno kodno stranjo. Največja velikost posamezne datoteke je 256 MiB."
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "Besedilo je zgoščeno z uporabo kodiranja UTF-8"
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "Besedilo je obdelano z uporabo kodiranja UTF-8"
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "Datoteke BIN ni mogoče prebrati ali pa datoteka presega 256 MiB."
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "Tema MQTT PUBLISH ni veljavna."
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "MQTT SUBACK je neveljaven ali pa je bila naročnina zavrnjena."
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "Sporočilo MQTT SUBSCRIBE ni veljavno."
+
+msgid "The MQTT publish topic is invalid."
+msgstr "Tema objave MQTT ni veljavna."
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "Tema naročnine na MQTT ni veljavna."
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "Datum ali čas UTC je zunaj veljavnega obsega."
+
+msgid "The UTC time contains an invalid number."
+msgstr "Čas UTC vsebuje neveljavno število."
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "Format časa UTC mora biti LLLL-MM-DD HH:MM:SS[.mmm]."
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "Vrstnik WebSocket je prekinil povezavo."
+
+msgid "The barcode content cannot be empty."
+msgstr "Vsebina črtne kode ne sme biti prazna."
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "Hitrost prenosa mora biti celo število med 1 in 4000000."
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "Dekodirani rezultat ni besedilo UTF-8. Izhod v datoteko za ohranitev binarnih podatkov."
+
+msgid "The dropped file or directory is invalid."
+msgstr "Spuščena datoteka ali imenik ni veljaven."
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "Datoteka presega 16 MiB. Pišite v datoteko, da preprečite pretirano uporabo pomnilnika polja z besedilom."
+
+msgid "The header file directory is invalid."
+msgstr "Imenik datoteke glave ni veljaven."
+
+msgid "The input and output files cannot be the same."
+msgstr "Vhodna in izhodna datoteka ne moreta biti enaki."
+
+msgid "The language setting could not be saved."
+msgstr "Nastavitve jezika ni bilo mogoče shraniti."
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "Zadnji član mora biti polje za dinamično repno polje."
+
+msgid "The match expression cannot be empty."
+msgstr "Izraz za ujemanje ne sme biti prazen."
+
+msgid "The parsing results have been cleared."
+msgstr "Rezultati razčlenjevanja so bili izbrisani."
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "Za dinamično repno matriko mora biti predzadnji član 8–32-bitni celoštevilski skalar."
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "Prejemni predpomnilnik je presegel omejitev in je bil počiščen."
+
+msgid "The received data cannot be empty."
+msgstr "Prejeti podatki ne smejo biti prazni."
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "Prejeti okvirji ne morejo biti enaki ali imeti predpone drug drugega, sicer TCP/serijska vrata ne morejo določiti meje okvirja."
+
+msgid "The regular expression is invalid."
+msgstr "Regularni izraz je neveljaven."
+
+msgid "The replacement produced an invalid filename."
+msgstr "Zamenjava je povzročila neveljavno ime datoteke."
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "Prejeta zahteva ni veljavna MQTT 3.1.1 CONNECT."
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "Prejeta zahteva ni bila veljavno rokovanje WebSocket RFC 6455."
+
+msgid "The root structure is invalid."
+msgstr "Korenska struktura je neveljavna."
+
+msgid "The serial port or host cannot be empty."
+msgstr "Serijska vrata ali gostitelj ne smejo biti prazna."
+
+msgid "The server has ended."
+msgstr "Strežnik se je končal."
+
+msgid "The server has stopped."
+msgstr "Strežnik se je ustavil."
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "Strežnik je zavrnil nadgradnjo WebSocket ali pa je bil odgovor na rokovanje neveljaven."
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "Dve mapi ne moreta biti enaki, niti ne moreta biti druga drugi podimenika."
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "Oblika zapisa vrednosti je neveljavna ali je zunaj obsega 64-bitnega celega števila brez predznaka."
+
+msgid "Timeout (ms):"
+msgstr "Časovna omejitev (ms):"
+
+msgid "Timestamp"
+msgstr "Časovni žig"
+
+msgid "Timestamp converter"
+msgstr "Pretvornik časovnih žigov"
+
+msgid "To be synchronized: %lu files"
+msgstr "Za sinhronizacijo: datoteke %lu"
+
+msgid "Tools"
+msgstr "Orodja"
+
+msgid "Total lines"
+msgstr "Skupaj vrstic"
+
+msgid "Try again:"
+msgstr "Poskusite znova:"
+
+msgid "UDP reception failed."
+msgstr "Sprejem UDP ni uspel."
+
+msgid "UDP send failed."
+msgstr "Pošiljanje UDP ni uspelo."
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "Vnos UTC lahko uporablja presledek ali ločilo T in izbirni končni Z."
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "UTC čas (LLLL-MM-DD HH:MM:SS[.mmm])"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "Čas UTC, pretvorjen v časovni žig Unix."
+
+msgid "UTF-8 text"
+msgstr "Besedilo UTF-8"
+
+msgid "Unable to bind UDP port."
+msgstr "Ni mogoče povezati vrat UDP."
+
+msgid "Unable to calculate relative path:"
+msgstr "Ni mogoče izračunati relativne poti:"
+
+msgid "Unable to create communication channel."
+msgstr "Ni mogoče ustvariti komunikacijskega kanala."
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "Ni mogoče ustvariti preslikave datotek (napaka %lu)"
+
+msgid "Unable to get file size (%s)"
+msgstr "Ni mogoče pridobiti velikosti datoteke (%s)"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "Ni mogoče pridobiti velikosti datoteke (napaka %lu)"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "Ni mogoče inicializirati podsistema omrežne vtičnice; omrežna orodja niso na voljo."
+
+msgid "Unable to listen on MQTT port."
+msgstr "Na vratih MQTT ni mogoče poslušati."
+
+msgid "Unable to listen on TCP port."
+msgstr "Na vratih TCP ni mogoče poslušati."
+
+msgid "Unable to listen on WebSocket port."
+msgstr "Na vratih WebSocket ni mogoče poslušati."
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "Lokalnih vrat UDP ni mogoče odpreti (družina naslovov ali vrata niso na voljo)."
+
+msgid "Unable to open file: %s (%s)"
+msgstr "Ni mogoče odpreti datoteke: %s (%s)"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "Datoteke ni mogoče odpreti: %s (napaka %lu)"
+
+msgid "Unable to open serial port:"
+msgstr "Serijskih vrat ni mogoče odpreti:"
+
+msgid "Unable to read directory:"
+msgstr "Ni mogoče brati imenika:"
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "Datoteke glave ni mogoče prebrati ali datoteka presega 16 MiB:"
+
+msgid "Unable to read serial port configuration."
+msgstr "Konfiguracije serijskih vrat ni mogoče prebrati."
+
+msgid "Unable to reread file during replacement: "
+msgstr "Med zamenjavo datoteke ni mogoče ponovno prebrati:"
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "Ni mogoče razrešiti naslova IPv4/IPv6:"
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "Naslova poslušanja IPv4/IPv6 ni mogoče razrešiti:"
+
+msgid "Unable to resolve type:"
+msgstr "Ni mogoče razrešiti vrste:"
+
+msgid "Unable to set serial port parameters."
+msgstr "Ni mogoče nastaviti parametrov serijskih vrat."
+
+msgid "Unable to start server thread."
+msgstr "Strežniške niti ni mogoče zagnati."
+
+msgid "Unable to start test thread."
+msgstr "Preskusne niti ni mogoče zagnati."
+
+msgid "Unix / UTC conversion"
+msgstr "Pretvorba Unix / UTC"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Sekunde Unixa so zunaj konvertibilnega območja."
+
+msgid "Unix timestamp"
+msgstr "Časovni žig Unix"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "Časovni žig Unix ne sme biti prazen."
+
+msgid "Unix timestamp converted to UTC."
+msgstr "Časovni žig Unix pretvorjen v UTC."
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "Časovni žig Unix ni veljavno 64-bitno celo število."
+
+msgid "Unknown or undefined member type."
+msgstr "Neznana ali nedefinirana vrsta člana."
+
+msgid "Use private key"
+msgstr "Uporabite zasebni ključ"
+
+msgid "Use public key"
+msgstr "Uporabi javni ključ"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "Uporabite regularne izraze za zamenjavo imen datotek in besedila v paketih"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "Uporablja se za uskladitev vrstnega reda v slovarju z naravnim vrstnim redom oštevilčenja in za preverjanje sporov pred preimenovanjem."
+
+msgid "Value copied to the clipboard."
+msgstr "Vrednost je bila kopirana v odložišče."
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "Razpon vrednosti: 0 do 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "Preverite vsebino odgovora (počakajte samo na konfigurirano dolžino, ko ni označeno)"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "Različica %d; moduli %d × %d; slika %d × %d."
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "Oglejte si in uredite vsak del 64-bitnega nepredznačenega celega števila"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "Opozorilo: Crypto++ poimenuje svojo izvedbo XXTEA BTEA in jo označi kot netemeljito preizkušeno; vnos mora biti vsaj 8 bajtov in večkratnik 4."
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "Opozorilo: ECB razkriva vzorce podatkov in ni priporočljivo za resnične podatke."
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "Opozorilo: raje OAEP; PKCS#1 v1.5 je na voljo samo zaradi združljivosti."
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "Opozorilo: ta algoritem ni varen in je na voljo samo za starejše združljivost."
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "Opozorilo: Ta algoritem je namenjen podedovanim sistemom ali protokolom; raje AES-GCM za nove podatke."
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "Glava HTTP WebSocket je prevelika ali nepopolna."
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "Povezava TCP WebSocket ni uspela ali je potekla."
+
+msgid "WebSocket client"
+msgstr "odjemalec WebSocket"
+
+msgid "WebSocket connection disconnected."
+msgstr "Povezava WebSocket je prekinjena."
+
+msgid "WebSocket handshake connection broken."
+msgstr "Povezava rokovanja WebSocket je prekinjena."
+
+msgid "WebSocket handshake timed out."
+msgstr "Časovna omejitev rokovanja WebSocket je potekla."
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "Sporočilo WebSocket presega omejitev 16 MiB."
+
+msgid "WebSocket path mismatch."
+msgstr "Neujemanje poti WebSocket."
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "Pot zahteve WebSocket, kot je /ws; trenutno podpira ws://, vendar ne podpira TLS/wss://"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "Pošiljanje WebSocket ni uspelo ali pa je bila povezava prekinjena."
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "Ko je omogočeno preverjanje veljavnosti odgovora, pričakovani odgovor ne more biti prazen."
+
+msgid "Width"
+msgstr "širina"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "Širina se izračuna posebej za vsako mapo; preimenovanih bo %lu datotek."
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows podpira 1/1,5/2 zaustavitvene bite, vse kontrolne vsote in kombinacije nadzora pretoka; posebne kombinacije Linux/macOS omejuje sistemski gonilnik."
+
+msgid "Write to file:"
+msgstr "Zapiši v datoteko:"
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA / BTEA (eksperimentalno)"
+
+msgid "You can drop a file onto this page."
+msgstr "Na to stran lahko spustite datoteko."
+
+msgid "Zero-pad filenames"
+msgstr "Imena datotek z ničelno ploščico"
+
+msgid "Zero-padded filename"
+msgstr "Ime datoteke z ničlo"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "Ničelno polnjenje bi ustvarilo podvojeno ime datoteke:"
+
+msgid "[stop]"
+msgstr "[stop]"
+
+msgid "ask"
+msgstr "vprašaj"
+
+msgid "ask:"
+msgstr "vprašaj:"
+
+msgid "big endian"
+msgstr "veliki endian"
+
+msgid "communication client"
+msgstr "komunikacijski odjemalec"
+
+msgid "communication server"
+msgstr "komunikacijski strežnik"
+
+msgid "delay"
+msgstr "zamuda"
+
+msgid "direction"
+msgstr "smer"
+
+msgid "even parity"
+msgstr "pariteta"
+
+msgid "expect '"
+msgstr "pričakuj"
+
+msgid "folder 1"
+msgstr "mapa 1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\nZgrajeno: %s %s wxWidgets %s %s"
+
+msgid "include is missing the closing quote:"
+msgstr "vključuje manjka zaključni citat:"
+
+msgid "little endian"
+msgstr "little endian"
+
+msgid "mapping"
+msgstr "kartiranje"
+
+msgid "mark"
+msgstr "označiti"
+
+msgid "member"
+msgstr "član"
+
+msgid "name"
+msgstr "ime"
+
+msgid "name:"
+msgstr "ime:"
+
+msgid "none"
+msgstr "nobeden"
+
+msgid "odd parity"
+msgstr "neparna pariteta"
+
+msgid "offset"
+msgstr "odmik"
+
+msgid "parse"
+msgstr "razčleniti"
+
+msgid "parsed value"
+msgstr "razčlenjena vrednost"
+
+msgid "path:"
+msgstr "pot:"
+
+msgid "port:"
+msgstr "pristanišče:"
+
+msgid "receive timeout"
+msgstr "prejmi časovno omejitev"
+
+msgid "release:"
+msgstr "izdaja:"
+
+msgid "reset"
+msgstr "ponastaviti"
+
+msgid "result"
+msgstr "rezultat"
+
+msgid "send"
+msgstr "poslati"
+
+msgid "send/receive pair"
+msgstr "pošiljanje/prejemanje para"
+
+msgid "serial number"
+msgstr "serijsko številko"
+
+msgid "size"
+msgstr "velikost"
+
+msgid "source"
+msgstr "vir"
+
+msgid "space"
+msgstr "prostora"
+
+msgid "start"
+msgstr "začetek"
+
+msgid "stop"
+msgstr "stop"
+
+msgid "subscription:"
+msgstr "naročnina:"
+
+msgid "synchronous"
+msgstr "sinhrono"
+
+msgid "take over"
+msgstr "prevzeti"
+
+msgid "test frame"
+msgstr "testni okvir"
+
+msgid "test stopped"
+msgstr "test ustavljen"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "dovoljena je predpona 0x, obseg Latin-1 pa je 00–FF."
+
+msgid "type"
+msgstr "vrsto"
+
+msgid "union is not supported."
+msgstr "zveza ni podprta."

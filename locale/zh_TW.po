@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "%lu 個字元；影像 %d × %d。"
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "已完成 %lu 個檔案，重新命名失敗：\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "將複製 %lu 個檔案；較新的同名檔案會覆蓋較舊檔案。是否繼續？"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "%lu 個檔案：總計 %lu，程式碼 %lu，註解 %lu，空白 %lu；略過 %lu"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "已載入 %lu 個頭檔入口；解析時會遞歸展開 include。"
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s完成：%u → %u 位元組"
+
+msgid "/ No verification"
+msgstr "/ 不校驗"
+
+msgid "/check"
+msgstr "/ 校驗"
+
+msgid "1 byte (compact)"
+msgstr "1 位元組（緊湊）"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1.5 個停止位元僅能與 5 個資料位元組合使用。"
+
+msgid "2 bytes"
+msgstr "2 位元組"
+
+msgid "3DES (legacy)"
+msgstr "3DES（相容）"
+
+msgid "4 bytes"
+msgstr "4 位元組"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "5 個資料位元不能與 2 個停止位元組合使用。"
+
+msgid "64-bit unsigned integer"
+msgstr "64 位元無號整數"
+
+msgid "8 bytes"
+msgstr "8 位元組"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "自訂參數超出了 Width 指定的位元數。"
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "存在重名目標檔案，操作已停止。"
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "選擇兩個資料夾後將自動產生同步預覽。"
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "零長度陣列只能作為結構體的最後一個成員。"
+
+msgid "AAD (UTF-8):"
+msgstr "AAD（UTF-8）："
+
+msgid "ASCII converter"
+msgstr "ASCII 轉換器"
+
+msgid "ASCII string"
+msgstr "ASCII 字串"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "ASCII 文字只能包含 0x00～0x7F 字元。"
+
+msgid "ASCII text cannot be empty."
+msgstr "ASCII 文字不能為空。"
+
+msgid "About (&A)"
+msgstr "關於(&A)"
+
+msgid "About iTool"
+msgstr "關於 iTool"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "即將修改 %lu 個檔案，且無法自動復原。是否繼續？"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "即將重新命名 %lu 個檔案。是否繼續？"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "為編號檔名補上前導零以便自然排序"
+
+msgid "Add new receive/send pair"
+msgstr "新增接收/發送對"
+
+msgid "Add new send/receive pair"
+msgstr "新增發送/接收對"
+
+msgid "Added receive/send mapping"
+msgstr "新增接收/發送映射"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "先補 80，再以 00 補齊。"
+
+msgid "Algorithm and parameters"
+msgstr "演算法與參數"
+
+msgid "Algorithm:"
+msgstr "演算法："
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "演算法（22 種）：MD5；SHA1；SHA2-224/256/384/512；SHA3-224/256/384/512；Keccak-224/256/384/512；RIPEMD-128/160/256/320；BLAKE2s-256；BLAKE2b-256/512；SM3。可同時計算多種演算法。"
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "非 typedef 結構體右花括號後不能提供別名。"
+
+msgid "Alignment:"
+msgstr "對齊："
+
+msgid "All files (*.*)|*.*"
+msgstr "所有檔案 (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "匿名結構體必須提供 typedef 名稱。"
+
+msgid "Any non-empty"
+msgstr "任意非空"
+
+msgid "Array length missing."
+msgstr "數組長度缺失。"
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "數組長度必須是正整數或已定義的數值巨集。"
+
+msgid "Array length must be greater than zero."
+msgstr "數組長度必須大於零。"
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "自動計算校驗碼，可調整縮放並複製影像或儲存為 PNG。"
+
+msgid "BIN file"
+msgstr "BIN 檔案"
+
+msgid "Barcode encoder"
+msgstr "條碼編碼"
+
+msgid "Barcode encoding"
+msgstr "條碼編碼"
+
+msgid "Barcode height:"
+msgstr "條碼高度："
+
+msgid "Barcode image copied."
+msgstr "條碼圖片已複製。"
+
+msgid "Base64"
+msgstr "Base64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Base64 編碼和解碼；輸入、輸出皆可獨立選擇 UTF-8 文字或檔案；"
+
+msgid "Base64 error"
+msgstr "Base64 錯誤"
+
+msgid "Baud rate:"
+msgstr "波特率："
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "64 位元 Unix 時間戳與 UTC 日期時間雙向轉換；時間戳單位支援秒和毫秒；"
+
+msgid "Binary"
+msgstr "二進位"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "二進位檔案 (*.bin)|*.bin|所有檔案 (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "位元域成員不受支援。"
+
+msgid "Bits set: %d / 64"
+msgstr "已設定位元：%d / 64"
+
+msgid "Bitset64"
+msgstr "Bitset64"
+
+msgid "Blank"
+msgstr "空白"
+
+msgid "Both folders have been synchronized."
+msgstr "兩個資料夾已經同步。"
+
+msgid "C structure definition"
+msgstr "C 結構體定義"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB 可選 PKCS、Zero、ISO/IEC 7816-4 或不填充；支援安全隨機金鑰、IV/Nonce 及 RSA 金鑰對產生。"
+
+msgid "CRC calculation error"
+msgstr "CRC 計算錯誤"
+
+msgid "CRC calculator"
+msgstr "CRC 計算器"
+
+msgid "Calculate"
+msgstr "計算"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "計算文字、十六進位資料或檔案的雜湊值"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "計算文字、位元組或檔案的標準及自訂 CRC"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "正在背景計算檔案 CRC……"
+
+msgid "Calculation completed."
+msgstr "計算完成。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Canceled."
+msgstr "已取消。"
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "第 %lu 個字元「%s」不在 Latin-1 範圍（00–FF）內。"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clear all"
+msgstr "全部清零"
+
+msgid "Clear log"
+msgstr "清空日誌"
+
+msgid "Clear results"
+msgstr "清空結果"
+
+msgid "Cleared."
+msgstr "已清除。"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Code"
+msgstr "程式碼"
+
+msgid "Code 128-B content"
+msgstr "Code 128-B 內容"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "Code 128-B 內容不能超過 200 個字元。"
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "Code 128-B 會自動產生檢查碼。"
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "Code 128-B 僅支援 ASCII 32～126 字元。"
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "程式碼行和註解行可同時計數（例如行尾註解）。"
+
+msgid "Comments"
+msgstr "註解"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "可選擇常用波特率，也可手動輸入 1～4000000"
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "HTML/XML、CSS、Vue、CMake 等常用檔案及其註解風格；單一檔案最大 512 MiB。"
+
+msgid "Communication client"
+msgstr "通訊用戶端"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "通訊用戶端：Windows、Linux、macOS 皆支援串列埠，並支援 TCP、UDP、WebSocket、MQTT 3.1.1；請求/回應資料選用 Hex 或 ASCII；"
+
+msgid "Communication server"
+msgstr "通訊伺服器"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "通訊伺服器：Windows、Linux、macOS 皆可監聽串列埠，並支援 TCP、UDP、WebSocket、MQTT 3.1.1；接收訊框選用 Hex 或 ASCII；"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "比較兩個資料夾並同步較新或僅單側存在的檔案"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "比較兩個資料夾及其子目錄；根據修改時間產生同步預覽；雙向複製較新的檔案和單邊檔案；"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "已完成 %lu 個文件，複製失敗：\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "完成：%llu 位元組，%lu 個演算法。"
+
+msgid "Completed: %lu files modified."
+msgstr "完成：已修改 %lu 個檔案。"
+
+msgid "Completed: %lu files renamed."
+msgstr "完成：已重新命名 %lu 個檔案。"
+
+msgid "Confirm rename"
+msgstr "確認重新命名"
+
+msgid "Confirm replacement"
+msgstr "確認取代"
+
+msgid "Confirm synchronization"
+msgstr "確認同步"
+
+msgid "Content matches"
+msgstr "內容符合數"
+
+msgid "Conversion completed."
+msgstr "轉換完成。"
+
+msgid "Convert"
+msgstr "轉換"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "在 64 位元 Unix 時間戳記與 UTC 日期時間之間轉換"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "十六進位字串與 ASCII 雙向轉換"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "在檔案或 UTF-8 文字與 Base64 之間轉換"
+
+msgid "Convert to Base64"
+msgstr "轉換為 Base64"
+
+msgid "Convert to UTC ↓"
+msgstr "轉換為 UTC ↓"
+
+msgid "Convert to Unix ↑"
+msgstr "轉換為 Unix ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "已轉換位元組數：%llu"
+
+msgid "Copied to the clipboard."
+msgstr "已複製到剪貼簿。"
+
+msgid "Copy"
+msgstr "複製"
+
+msgid "Copy image"
+msgstr "複製圖片"
+
+msgid "Copy result"
+msgstr "複製結果"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "統計單一檔案或目錄，可選擇是否遞歸並自訂副檔名；分別統計總行、程式碼、註解和空白行；"
+
+msgid "Count results cleared."
+msgstr "已清除統計結果。"
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "依檔案統計總行數、程式碼、註解及空白行"
+
+msgid "Crypto++ conversion failed: "
+msgstr "Crypto++ 轉換失敗："
+
+msgid "Current UTC time loaded."
+msgstr "已讀取目前 UTC 時間。"
+
+msgid "Current time"
+msgstr "目前時間"
+
+msgid "Custom"
+msgstr "自訂"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "自訂 Init、Poly 和 XorOut 必須是十六進位數。"
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "自訂 Width 僅支援 8、16、24、32 或 64。"
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "自訂演算法：可設定 Width、Init、Poly、XorOut、RefIn、RefOut，並可同時選擇多種演算法計算。"
+
+msgid "DES (legacy)"
+msgstr "DES（相容）"
+
+msgid "Data bits:"
+msgstr "數據位："
+
+msgid "Decimal"
+msgstr "十進位"
+
+msgid "Decode from Base64"
+msgstr "從 Base64 還原"
+
+msgid "Decrypt"
+msgstr "解密"
+
+msgid "Decryption"
+msgstr "解密"
+
+msgid "Delay before sending (ms):"
+msgstr "發送前延時(ms)："
+
+msgid "Delete selected receive/send mapping"
+msgstr "刪除選取的接收/發送映射"
+
+msgid "Delete selected send/receive pair"
+msgstr "刪除選取的傳送/接收對"
+
+msgid "Determine width from the largest number"
+msgstr "自動依最大編號決定位數"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Directory sync"
+msgstr "資料夾同步"
+
+msgid "Directory:"
+msgstr "目錄："
+
+msgid "Dropped directory accepted."
+msgstr "已接受拖入的目錄。"
+
+msgid "Dropped file accepted."
+msgstr "已接受拖入的檔案。"
+
+msgid "Dynamic tail array length is too large."
+msgstr "動態尾部陣列長度過大。"
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "動態尾部陣列要求結構體至少包含兩個成員。"
+
+msgid "ECB (legacy)"
+msgstr "ECB（相容）"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "各進制數值和位元狀態聯動更新，支援複製結果。"
+
+msgid "Edit receive/send pairs"
+msgstr "編輯接收/發送對"
+
+msgid "Edit selected receive/send mapping"
+msgstr "編輯選取的接收/發送映射"
+
+msgid "Edit selected send/receive pair"
+msgstr "編輯選取的傳送/接收對"
+
+msgid "Edit send/receive pairs"
+msgstr "編輯發送/接收對"
+
+msgid "Enable this mapping"
+msgstr "啟用此映射"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "將 ASCII 文字編碼為 Code 128-B 條碼"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "將 UTF-8 文字編碼為 QR Code 圖片"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "把 UTF-8 文字編碼為 QR Code；自動選擇二維碼版本；支援 L（約 7%）、M（約 15%）、"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "把 ASCII 32～126 範圍內、最長 200 個字元的文字編碼為 Code 128-B；"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "編碼偵測：GB18030-2022 → UTF-8 → 本機字碼頁；單一檔案最大 256 MiB。"
+
+msgid "Encountered failure and stopped as configured."
+msgstr "遇到失敗，已按配置停止。"
+
+msgid "Encrypt"
+msgstr "加密"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "使用 Crypto++ 演算法加密及解密資料"
+
+msgid "Encryption"
+msgstr "加密"
+
+msgid "Encryption / Decryption"
+msgstr "加密/解密"
+
+msgid "Encryption/decryption error"
+msgstr "加密/解密錯誤"
+
+msgid "Endianness:"
+msgstr "位元組序："
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "請輸入 Hex 資料，例如：31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "以十六進位、十進位或二進位輸入 64 位元無符號整數；顯示並點選編輯 bit 0～63；"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "請輸入 ASCII 字串，例如：123"
+
+msgid "Enter data"
+msgstr "輸入資料"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "請輸入十六進位位元組，例如：31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "請輸入要轉換的文字。"
+
+msgid "Error correction:"
+msgstr "錯誤更正等級："
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "按配置順序執行多組測試，支援逾時、循環、結果統計和毫秒時間戳日誌。"
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "結束(&X)	Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "期望回應（留空表示收到任意非空資料即完成）："
+
+msgid "Extensions:"
+msgstr "副檔名："
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "無法建立檔案 CRC 工作執行緒。"
+
+msgid "Failed to initialize CRC."
+msgstr "CRC 初始化失敗。"
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "映射檔案失敗（偏移 %llu，%s）"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "映射檔案失敗（偏移 %llu，錯誤 %lu）"
+
+msgid "Failed to parse Hex data."
+msgstr "Hex 資料剖析失敗。"
+
+msgid "Failed to read BIN file."
+msgstr "讀取 BIN 檔案失敗。"
+
+msgid "Failed to read header file:"
+msgstr "讀取頭檔失敗："
+
+msgid "Failed to rename: "
+msgstr "重新命名失敗："
+
+msgid "Failed to save PNG."
+msgstr "儲存 PNG 失敗。"
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "無法啟動檔案 CRC 工作執行緒。"
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "CRC32/POSIX 長度更新失敗。"
+
+msgid "Failed to write file: "
+msgstr "寫入檔案失敗："
+
+msgid "Features\n\n"
+msgstr "功能列表\n\n"
+
+msgid "File"
+msgstr "檔案"
+
+msgid "File (&F)"
+msgstr "檔案(&F)"
+
+msgid "File hash calculation completed."
+msgstr "檔案 Hash 計算完成。"
+
+msgid "File or directory:"
+msgstr "檔案或目錄："
+
+msgid "Filename zero-padding"
+msgstr "檔名補零"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "同名檔案的大小不同但修改時間相同，無法安全判斷方向："
+
+msgid "Find and replace"
+msgstr "尋找及取代"
+
+msgid "Flow control:"
+msgstr "流控："
+
+msgid "Folder 1:"
+msgstr "資料夾 1："
+
+msgid "Folder 2"
+msgstr "資料夾 2"
+
+msgid "Folder 2:"
+msgstr "資料夾 2："
+
+msgid "Folder sync"
+msgstr "資料夾同步"
+
+msgid "Follow system"
+msgstr "跟隨系統"
+
+msgid "For example: 123"
+msgstr "例如：123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "例如：31 32 33 或 0x31, 0x32, 0x33"
+
+msgid "Format:"
+msgstr "格式："
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "Q（約 25%）、H（約 30%）四種糾錯等級；可調整縮放、複製影像或儲存為 PNG。"
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "小數秒最多包含三位數字。"
+
+msgid "From file:"
+msgstr "來自檔案："
+
+msgid "From text box:"
+msgstr "來自文字方塊："
+
+msgid "GCM (recommended)"
+msgstr "GCM（建議）"
+
+msgid "Generate"
+msgstr "產生"
+
+msgid "Generate key pair"
+msgstr "產生金鑰組"
+
+msgid "Generate random"
+msgstr "隨機產生"
+
+msgid "H (about 30%)"
+msgstr "H（約 30%）"
+
+msgid "Hash calculation"
+msgstr "Hash 計算"
+
+msgid "Hash checker"
+msgstr "雜湊檢查器"
+
+msgid "Hash error"
+msgstr "Hash 錯誤"
+
+msgid "Header file directory:"
+msgstr "頭檔目錄："
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "頭檔不是有效的 UTF-8 或本地編碼："
+
+msgid "Help (&H)"
+msgstr "說明(&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "Hex 可使用空格、逗號、分號或換行分隔，例如 31 32 33；"
+
+msgid "Hex data contains invalid characters."
+msgstr "Hex 資料包含無效字元。"
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "Hex 資料必須包含偶數個十六進位數字。"
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "Hex 資料必須包含偶數個數字。"
+
+msgid "Hex input cannot be empty."
+msgstr "Hex 輸入不能為空。"
+
+msgid "Hex input contains an invalid character."
+msgstr "Hex 輸入包含無效字元。"
+
+msgid "Hex input contains invalid characters."
+msgstr "Hex 輸入包含無效字元。"
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "Hex 輸入必須包含偶數個數字。"
+
+msgid "Hex string"
+msgstr "Hex 字串"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "Hex：31 32 33 或 313233"
+
+msgid "Hexadecimal"
+msgstr "十六進位"
+
+msgid "Host:"
+msgstr "主機："
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "IPv4 全介面：0.0.0.0；IPv6 全介面：::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV / Nonce（Hex）："
+
+msgid "Include header file not found:"
+msgstr "找不到 include 頭檔："
+
+msgid "Include subdirectories"
+msgstr "包含子目錄"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "包含標準的四模組白色靜區。"
+
+msgid "Incremental CRC calculation failed."
+msgstr "CRC 增量計算失敗。"
+
+msgid "Input"
+msgstr "輸入"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "已清除輸入和輸出；金鑰參數已保留。"
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "輸入：Hex 位元組、UTF-8 文字、檔案（大檔案採用分塊記憶體映射）。"
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "輸入：Hex 位元組、UTF-8 文字、檔案（支援拖放及分塊記憶體映射）。"
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "資料不足：動態結構體頭部需要 %lu 位元組。"
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "資料不足：結構體需要 %lu 位元組。"
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "介面及日誌記錄毫秒時間戳記。串口預置波特率最高 921600，也可手動輸入特定波特率。"
+
+msgid "Invalid Hex character: '%c'."
+msgstr "發現無效的 Hex 字元：'%c'。"
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "WebSocket 分片序列無效。"
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "WebSocket 幀格式或遮罩方向無效。"
+
+msgid "Invalid WebSocket opcode."
+msgstr "WebSocket 操作碼無效。"
+
+msgid "Invalid input"
+msgstr "輸入有誤"
+
+msgid "Invalid millisecond format."
+msgstr "毫秒格式無效。"
+
+msgid "Invert all"
+msgstr "全部反相"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "第 %lu 項「%s」不是兩位十六進位位元組。"
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "第 %lu 項「%s」不是有效的 Latin-1 位元組（範圍 00–FF）。"
+
+msgid "Key (Hex):"
+msgstr "金鑰（Hex）："
+
+msgid "Key length:"
+msgstr "金鑰長度："
+
+msgid "L (about 7%)"
+msgstr "L（約 7%）"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Line %lu:"
+msgstr "第 %lu 行："
+
+msgid "Line %lu: Block comment not ended."
+msgstr "第 %lu 行：區塊註解未結束。"
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "第 %lu 行：不支援的字元 '%c'。"
+
+msgid "Line counter"
+msgstr "程式碼行數統計"
+
+msgid "Listening address:"
+msgstr "監聽地址："
+
+msgid "Load directory"
+msgstr "載入目錄"
+
+msgid "Local port:"
+msgstr "本機連接埠："
+
+msgid "M (about 15%)"
+msgstr "M（約 15%）"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "MQTT Broker 連線失敗或逾時。"
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "MQTT Broker 拒絕連線或 CONNACK 無效。"
+
+msgid "MQTT Payload not matched"
+msgstr "MQTT Payload 未匹配"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "MQTT Remaining Length 無效。"
+
+msgid "MQTT client"
+msgstr "MQTT 用戶端"
+
+msgid "MQTT client disconnected."
+msgstr "MQTT 用戶端已中斷。"
+
+msgid "MQTT connection disconnected."
+msgstr "MQTT 連線已中斷。"
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "MQTT 報文超過 16 MiB 限制。"
+
+msgid "MQTT publish topic mismatch:"
+msgstr "MQTT 發布主題不符："
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "MQTT 發布主題和訂閱主題不能為空。"
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "MQTT 接收主題和回應主題不能為空。"
+
+msgid "MQTT response publishing failed"
+msgstr "MQTT 回應發布失敗"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "MQTT 發送失敗或連線已中斷。"
+
+msgid "Manual width:"
+msgstr "手動位數："
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "按多條配置無序匹配完整幀並發送對應回應，檢查重複幀和前綴歧義；"
+
+msgid "Match expression:"
+msgstr "比對表示式："
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "透過串列埠、TCP、UDP、WebSocket 或 MQTT 比對訊息並回應"
+
+msgid "Matched and posted response"
+msgstr "已匹配並發布響應"
+
+msgid "Matched and responded"
+msgstr "已匹配並響應"
+
+msgid "Member type enum is not supported."
+msgstr "成員類型 enum 不受支援。"
+
+msgid "Member's statement is not concluded."
+msgstr "成員聲明未結束。"
+
+msgid "Milliseconds"
+msgstr "毫秒"
+
+msgid "Mode:"
+msgstr "模式："
+
+msgid "Module width:"
+msgstr "模組寬度："
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "下移：調整發送/接收對的執行順序"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "上移：調整發送/接收對的執行順序"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "Name cannot be empty."
+msgstr "名稱不能為空。"
+
+msgid "New filename"
+msgstr "新檔名"
+
+msgid "No files need zero-padding."
+msgstr "沒有需要補零的檔案。"
+
+msgid "No matches found."
+msgstr "找不到符合項目。"
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "不填充；輸入長度必須是區塊大小的整數倍。"
+
+msgid "No structure definition found."
+msgstr "沒有找到結構體定義。"
+
+msgid "No valid file was found in the dropped content."
+msgstr "拖入內容中沒有可用的檔案。"
+
+msgid "Not matched"
+msgstr "未匹配"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "提示：CBC 不提供完整性驗證；新應用程式優先使用 GCM。"
+
+msgid "Number of tasks sent:"
+msgstr "發送任務次數："
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP 和 PKCS#1 v1.5；輸入輸出可獨立選擇 UTF-8、Hex、Base64 或檔案；"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "只接受此 WebSocket 路徑，例如 /ws；目前支援 ws://，不支援 TLS/wss://"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "只處理以數字開頭的檔案，後續文字和副檔名保持不變。"
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "只支援 struct 定義（不支援 enum/union/普通聲明）。"
+
+msgid "Operation failed."
+msgstr "操作失敗。"
+
+msgid "Original Hex"
+msgstr "原始 Hex"
+
+msgid "Original filename"
+msgstr "原始檔名"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "無序接收/發送映射"
+
+msgid "Output"
+msgstr "輸出"
+
+msgid "Output to text box:"
+msgstr "輸出到文字方塊："
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5（相容）"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5 / PKCS#7（建議）"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7（建議）"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "PNG 圖片 (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "PNG 已儲存。"
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "自動補齊並在解密時移除填充。"
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "自動補齊；即使資料已對齊，也會增加一個填充區塊。"
+
+msgid "Padding:"
+msgstr "填充方式："
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "以 00 補齊；解密會移除末尾 00，可能遺失原文尾端零位元組。"
+
+msgid "Parity check:"
+msgstr "奇偶校驗："
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "根據 C 結構定義解析 Hex 資料流或 BIN 檔案"
+
+msgid "Paste"
+msgstr "貼上"
+
+msgid "Paste an RSA private key"
+msgstr "貼上 RSA 私密金鑰"
+
+msgid "Paste an RSA public key"
+msgstr "貼上 RSA 公開金鑰"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "倒數第二欄位指定尾部陣列長度"
+
+msgid "Pixels per module:"
+msgstr "每模組像素："
+
+msgid "Please add at least one send/receive pair."
+msgstr "請至少新增一個發送/接收對。"
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "請至少配置一個已啟用的接收/傳送對應。"
+
+msgid "Please select a valid BIN file."
+msgstr "請選擇有效的 BIN 檔案。"
+
+msgid "Please select a valid header directory."
+msgstr "請選擇有效的頭檔目錄。"
+
+msgid "Please select two valid folders."
+msgstr "請選擇兩個有效的資料夾。"
+
+msgid "Please wait ..."
+msgstr "請稍候……"
+
+msgid "Pointer members are not supported."
+msgstr "指針成員不受支援。"
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "預設演算法（18 種）：CRC8/SMBUS；CRC16/MODBUS、CCITT_FALSE、XMODEM、KERMIT、USB；CRC24/LTEA、LTEB、BLE；CRC32、CRC32C、CRC32/MPEG2、POSIX、AUTOSAR、BZIP2；CRC64/ECMA、XZ、WE。"
+
+msgid "Preview"
+msgstr "預覽"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "預覽：%lu 個檔案將變更；略過 %lu 個非文字或過大檔案。"
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "私密金鑰（Base64 DER / PEM）："
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "私密金鑰（PKCS#1 PEM，請妥善保存）"
+
+msgid "Protocol analysis"
+msgstr "協定解析"
+
+msgid "Protocol parser"
+msgstr "通訊協定解析器"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "公開金鑰（Base64 DER / PEM）："
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "公開金鑰（PKCS#1 PEM）"
+
+msgid "Q (about 25%)"
+msgstr "Q（約 25%）"
+
+msgid "QR Code content (UTF-8)"
+msgstr "QR Code 內容（UTF-8）"
+
+msgid "QR Code content cannot be empty."
+msgstr "QR Code 內容不能為空。"
+
+msgid "QR Code content is too long: "
+msgstr "QR Code 內容過長："
+
+msgid "QR Code encoder"
+msgstr "QR Code 編碼"
+
+msgid "QR Code encoding"
+msgstr "QR Code 編碼"
+
+msgid "QR Code image copied."
+msgstr "QR Code 圖片已複製。"
+
+msgid "RC4 (legacy)"
+msgstr "RC4（相容）"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6、ChaCha20、Salsa20、Camellia、SEED 和 RSA；支援 GCM、CBC、CTR、ECB、"
+
+msgid "RSA key pair"
+msgstr "RSA 金鑰組"
+
+msgid "Raw variable block"
+msgstr "原始可變區塊"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "讀取 C struct/typedef struct 定義及 #define 陣列長度，解析 Hex 資料流或 BIN 檔案；"
+
+msgid "Ready"
+msgstr "就緒"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "接收匹配（必須精確匹配）："
+
+msgid "Receive data does not match"
+msgstr "接收資料未匹配"
+
+msgid "Receive topic:"
+msgstr "接收主題："
+
+msgid "Received message not matched"
+msgstr "接收訊息未匹配"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "接收：%lu 匹配：%lu 未匹配：%lu 已回應：%lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "接收：0 匹配：0 未匹配：0 已回應：0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "辨識 C/C++、Java、C#、JavaScript/TypeScript、Python、Go、Rust、PHP、Ruby、Shell、SQL、"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "預設建議：AES-256-GCM。"
+
+msgid "Rename"
+msgstr "執行重新命名"
+
+msgid "Rename interrupted"
+msgstr "重新命名中斷"
+
+msgid "Replace"
+msgstr "執行取代"
+
+msgid "Replace file content"
+msgstr "取代檔案內容"
+
+msgid "Replace filenames"
+msgstr "取代檔名"
+
+msgid "Replace folder names"
+msgstr "取代資料夾名稱"
+
+msgid "Replacement expression:"
+msgstr "取代表示式："
+
+msgid "Replacer error"
+msgstr "取代錯誤"
+
+msgid "Reply frame"
+msgstr "應答幀"
+
+msgid "Request data cannot be empty."
+msgstr "請求資料不能為空。"
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "需要 %u 位元組 / %u 個 Hex 字元"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "執行前要求確認，並顯示待同步及已複製檔案數量。"
+
+msgid "Respond to the topic:"
+msgstr "回應主題："
+
+msgid "Response delay (ms):"
+msgstr "響應延時(ms)："
+
+msgid "Response does not match:"
+msgstr "響應不符："
+
+msgid "Response sending failed"
+msgstr "回應發送失敗"
+
+msgid "Response/verification"
+msgstr "回應/校驗"
+
+msgid "Result copied."
+msgstr "結果已複製。"
+
+msgid "Results cleared."
+msgstr "結果已清除。"
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "根結構體 %s：%lu 位元組；解析 %lu 筆記錄；尾部剩餘 %lu 位元組。"
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "透過串列埠、TCP、UDP、WebSocket 或 MQTT 執行要求與回應測試"
+
+msgid "Save PNG"
+msgstr "儲存 PNG"
+
+msgid "Save QR Code"
+msgstr "儲存 QR Code"
+
+msgid "Save barcode"
+msgstr "儲存條碼"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "掃描目錄中檔案名稱開頭的數字編號，以最大編號寬度自動補前導零；支援包含子目錄；"
+
+msgid "Search tools..."
+msgstr "搜尋工具..."
+
+msgid "Seconds"
+msgstr "秒"
+
+msgid "Select BIN file"
+msgstr "選擇 BIN 文件"
+
+msgid "Select a file to calculate CRC"
+msgstr "選擇要計算 CRC 的檔案"
+
+msgid "Select a file to hash"
+msgstr "選擇要計算 Hash 的檔案"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "選擇單一檔案或目錄，以進階正規表示式批次取代檔案名稱和文字內容；支援拖放；"
+
+msgid "Select a valid directory."
+msgstr "請選擇有效目錄。"
+
+msgid "Select a valid file or directory."
+msgstr "請選擇有效的檔案或目錄。"
+
+msgid "Select a valid file."
+msgstr "請選擇有效檔案。"
+
+msgid "Select a valid input file."
+msgstr "請選擇有效的輸入檔案。"
+
+msgid "Select algorithms, then calculate."
+msgstr "請選擇演算法後計算。"
+
+msgid "Select an existing file."
+msgstr "請選擇一個存在的檔案。"
+
+msgid "Select an output file."
+msgstr "請選擇輸出檔案。"
+
+msgid "Select at least one CRC algorithm."
+msgstr "請至少勾選一個 CRC 演算法。"
+
+msgid "Select at least one hash algorithm."
+msgstr "請至少勾選一種 Hash 演算法。"
+
+msgid "Select at least one replacement method."
+msgstr "請至少選擇一種取代方式。"
+
+msgid "Select directory"
+msgstr "選擇目錄"
+
+msgid "Select directory for filename zero-padding"
+msgstr "選擇檔名補零目錄"
+
+msgid "Select directory..."
+msgstr "選擇目錄..."
+
+msgid "Select file"
+msgstr "選擇檔案"
+
+msgid "Select file..."
+msgstr "選擇檔案..."
+
+msgid "Select folders to sync"
+msgstr "選擇要同步的資料夾"
+
+msgid "Select header file directory"
+msgstr "選擇頭檔目錄"
+
+msgid "Select input file"
+msgstr "選擇輸入檔案"
+
+msgid "Select output file"
+msgstr "選擇輸出檔案"
+
+msgid "Select source code directory"
+msgstr "選擇原始碼目錄"
+
+msgid "Select source code file"
+msgstr "選擇原始碼檔案"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "已選擇拖入檔案中的第一個有效檔案。"
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "匹配後發送（可留空，僅統計接收）："
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "傳送訊框：%lu 接收合法：%lu 接收非法：%lu 逾時：%lu 成功任務：%lu/%lu 成功率：%.2fXQPH7QX%%X"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "傳送訊框：0 接收合法：0 接收非法：0 逾時：0 成功任務：0/0 成功率：0.00%"
+
+msgid "Sending interval (ms):"
+msgstr "發送間隔(ms)："
+
+msgid "Serial port reception failed."
+msgstr "串口接收失敗。"
+
+msgid "Serial port transmission failed."
+msgstr "串口發送失敗。"
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "串列埠：預設 1200～921600 波特率，並可手動輸入 1～4000000；5/6/7/8 資料位元；"
+
+msgid "Set all to 1"
+msgstr "全部設為 1"
+
+msgid "Settings (&S)"
+msgstr "設定(&S)"
+
+msgid "Shift left <<"
+msgstr "左移 <<"
+
+msgid "Shift right >>"
+msgstr "右移 >>"
+
+msgid "Show original text"
+msgstr "顯示原文"
+
+msgid "Source line count"
+msgstr "程式碼行統計"
+
+msgid "Start counting"
+msgstr "開始統計"
+
+msgid "Start the server"
+msgstr "啟動伺服器"
+
+msgid "Stop bit:"
+msgstr "停止位："
+
+msgid "Stop on failure"
+msgstr "失敗時停止"
+
+msgid "Stream cipher"
+msgstr "串流加密"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "結構體對齊必須是 1、2、4 或 8。"
+
+msgid "Success, RX:"
+msgstr "成功，RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "支援 AES、SM4、DES/3DES、Blowfish、Twofish、CAST5、IDEA、Serpent、TEA/XTEA/XXTEA、"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "支援 1/2/4/8 位元組 packing、小端/大端、連續多筆記錄及尾部剩餘位元組提示。"
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "支援 IPv4、IPv6（例如 ::1）及主機名"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "支援基礎類型、定長數組和已定義的嵌套結構體。"
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "支援二進位檔案、進度顯示和取消操作；非 UTF-8 解碼結果可儲存為檔案。"
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "支援取得目前時間、複製時間戳記和 UTC 文本，並檢查數值範圍及日期格式。"
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "支援嵌套結構體、基礎整數、float、double、bool、字元和定長數組；"
+
+msgid "Swap input and output"
+msgstr "交換輸入與輸出"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "同步完成，共複製 %lu 個檔案。"
+
+msgid "Synchronization interruption"
+msgstr "同步中斷"
+
+msgid "TCP client"
+msgstr "TCP 用戶端"
+
+msgid "TCP connection failed or timed out."
+msgstr "TCP 連線失敗或逾時。"
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "TCP 接收失敗或連線已中斷。"
+
+msgid "TCP send failed."
+msgstr "TCP 發送失敗。"
+
+msgid "Tag:"
+msgstr "Tag："
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "目標位數：%lu 位；將重新命名 %lu 個檔案。"
+
+msgid "Testing has been stopped."
+msgstr "測試已停止。"
+
+msgid "Testing is complete."
+msgstr "測試已完成。"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "文字編碼按 GB18030-2022、UTF-8、本地代碼頁檢測，單一檔案最大 256 MiB。"
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "文字以 UTF-8 編碼計算"
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "文字以 UTF-8 編碼處理"
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "無法讀取 BIN 文件，或文件超過 256 MiB。"
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "MQTT PUBLISH 主題無效。"
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "MQTT SUBACK 無效或訂閱被拒絕。"
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "MQTT SUBSCRIBE 封包無效。"
+
+msgid "The MQTT publish topic is invalid."
+msgstr "MQTT 發布主題無效。"
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "MQTT 訂閱主題無效。"
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "UTC 日期或時間超出有效範圍。"
+
+msgid "The UTC time contains an invalid number."
+msgstr "UTC 時間包含無效數字。"
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "UTC 時間格式應為 YYYY-MM-DD HH:MM:SS[.mmm]。"
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "WebSocket 對端已關閉連線。"
+
+msgid "The barcode content cannot be empty."
+msgstr "條碼內容不能為空。"
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "波特率必須是 1～4000000 之間的整數。"
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "還原結果不是 UTF-8 文字，請改為輸出到檔案以保留二進位資料。"
+
+msgid "The dropped file or directory is invalid."
+msgstr "拖入的檔案或目錄無效。"
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "檔案超過 16 MiB，請選擇寫入檔案以免文字方塊占用過多記憶體。"
+
+msgid "The header file directory is invalid."
+msgstr "頭檔目錄無效。"
+
+msgid "The input and output files cannot be the same."
+msgstr "輸入與輸出檔案不能相同。"
+
+msgid "The language setting could not be saved."
+msgstr "無法儲存語言設定。"
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "啟用動態尾部陣列時，最後一個成員必須是陣列。"
+
+msgid "The match expression cannot be empty."
+msgstr "比對表示式不能為空。"
+
+msgid "The parsing results have been cleared."
+msgstr "已清空解析結果。"
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "啟用動態尾部陣列時，倒數第二個成員必須是 8～32 位元整數純量。"
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "接收快取超限，已清空"
+
+msgid "The received data cannot be empty."
+msgstr "接收資料不能為空。"
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "接收訊框不能相同，也不能互為前綴，否則 TCP/串列埠無法確定訊框邊界。"
+
+msgid "The regular expression is invalid."
+msgstr "正規表示式無效。"
+
+msgid "The replacement produced an invalid filename."
+msgstr "取代產生了無效檔名。"
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "收到的請求不是有效的 MQTT 3.1.1 CONNECT。"
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "收到的請求不是有效的 WebSocket RFC 6455 握手。"
+
+msgid "The root structure is invalid."
+msgstr "根結構體無效。"
+
+msgid "The serial port or host cannot be empty."
+msgstr "串列埠或主機不能為空。"
+
+msgid "The server has ended."
+msgstr "伺服器已結束。"
+
+msgid "The server has stopped."
+msgstr "伺服器已停止。"
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "伺服器拒絕 WebSocket 升級或握手回應無效。"
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "兩個資料夾不能相同，也不能互為子目錄。"
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "數值格式無效或超出 64 位元無號整數範圍。"
+
+msgid "Timeout (ms):"
+msgstr "超時(ms)："
+
+msgid "Timestamp"
+msgstr "時間戳"
+
+msgid "Timestamp converter"
+msgstr "時間戳記轉換"
+
+msgid "To be synchronized: %lu files"
+msgstr "待同步：%lu 個文件"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Total lines"
+msgstr "總行數"
+
+msgid "Try again:"
+msgstr "重試："
+
+msgid "UDP reception failed."
+msgstr "UDP 接收失敗。"
+
+msgid "UDP send failed."
+msgstr "UDP 發送失敗。"
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "UTC 輸入可使用空格或 T 分隔，並可帶結尾 Z。"
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "UTC 時間（YYYY-MM-DD HH:MM:SS[.mmm]）"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "UTC 時間已轉換為 Unix 時間戳記。"
+
+msgid "UTF-8 text"
+msgstr "UTF-8 文字"
+
+msgid "Unable to bind UDP port."
+msgstr "無法綁定 UDP 連接埠。"
+
+msgid "Unable to calculate relative path:"
+msgstr "無法計算相對路徑："
+
+msgid "Unable to create communication channel."
+msgstr "無法建立通訊通道。"
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "無法建立檔案映射（錯誤 %lu）"
+
+msgid "Unable to get file size (%s)"
+msgstr "無法取得檔案大小（%s）"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "無法取得檔案大小（錯誤 %lu）"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "無法初始化網路 Socket 子系統，網路工具將無法使用。"
+
+msgid "Unable to listen on MQTT port."
+msgstr "無法監聽 MQTT 連接埠。"
+
+msgid "Unable to listen on TCP port."
+msgstr "無法監聽 TCP 連接埠。"
+
+msgid "Unable to listen on WebSocket port."
+msgstr "無法監聽 WebSocket 連接埠。"
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "無法開啟 UDP 本機連接埠（位址族或連接埠不可用）。"
+
+msgid "Unable to open file: %s (%s)"
+msgstr "無法開啟檔案：%s（%s）"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "無法開啟檔案：%s（錯誤 %lu）"
+
+msgid "Unable to open serial port:"
+msgstr "無法打開串口："
+
+msgid "Unable to read directory:"
+msgstr "無法讀取目錄："
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "無法讀取頭文件，或文件超過 16 MiB："
+
+msgid "Unable to read serial port configuration."
+msgstr "無法讀取串口配置。"
+
+msgid "Unable to reread file during replacement: "
+msgstr "執行取代時無法重新讀取檔案："
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "無法解析 IPv4/IPv6 位址："
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "無法解析 IPv4/IPv6 監聽位址："
+
+msgid "Unable to resolve type:"
+msgstr "無法解析類型："
+
+msgid "Unable to set serial port parameters."
+msgstr "無法設定串口參數。"
+
+msgid "Unable to start server thread."
+msgstr "無法啟動伺服器執行緒。"
+
+msgid "Unable to start test thread."
+msgstr "無法啟動測試線程。"
+
+msgid "Unix / UTC conversion"
+msgstr "Unix / UTC 轉換"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Unix 秒數超出可轉換範圍。"
+
+msgid "Unix timestamp"
+msgstr "Unix 時間戳記"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "Unix 時間戳記不能為空。"
+
+msgid "Unix timestamp converted to UTC."
+msgstr "Unix 時間戳記已轉換為 UTC。"
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "Unix 時間戳記不是有效的 64 位元整數。"
+
+msgid "Unknown or undefined member type."
+msgstr "未知或尚未定義的成員類型。"
+
+msgid "Use private key"
+msgstr "使用私密金鑰"
+
+msgid "Use public key"
+msgstr "使用公開金鑰"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "使用規則運算式批次取代檔名及文字"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "用於讓字典序與自然編號順序一致，並在重新命名前檢查衝突。"
+
+msgid "Value copied to the clipboard."
+msgstr "數值已複製到剪貼簿。"
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "值範圍：0 ～ 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "校驗回應內容（不勾選時僅等待配置長度）"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "版本 %d；%d × %d 模組；影像 %d × %d。"
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "檢視及編輯 64 位元無號整數的每一個位元"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "警告：Crypto++ 將 XXTEA 實作命名為 BTEA，並標記為尚未充分測試；輸入須至少為 8 位元組且為 4 的倍數。"
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "警告：ECB 會暴露資料模式，不建議用於真實資料。"
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "警告：優先使用 OAEP；PKCS#1 v1.5 僅用於相容。"
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "警告：此演算法已不安全，僅用於相容舊系統。"
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "警告：此演算法主要用於舊系統或通訊協定相容；新資料優先使用 AES-GCM。"
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "WebSocket HTTP 頭部過大或不完整。"
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "WebSocket TCP 連線失敗或逾時。"
+
+msgid "WebSocket client"
+msgstr "WebSocket 用戶端"
+
+msgid "WebSocket connection disconnected."
+msgstr "WebSocket 連線已中斷。"
+
+msgid "WebSocket handshake connection broken."
+msgstr "WebSocket 握手連線已中斷。"
+
+msgid "WebSocket handshake timed out."
+msgstr "WebSocket 握手超時。"
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "WebSocket 訊息超過 16 MiB 限制。"
+
+msgid "WebSocket path mismatch."
+msgstr "WebSocket 路徑不符。"
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "WebSocket 請求路徑，例如 /ws；目前支援 ws://，不支援 TLS/wss://"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "WebSocket 傳送失敗或連線已中斷。"
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "啟用回應校驗時，期望回應不能為空。"
+
+msgid "Width"
+msgstr "位元寬度"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "每個資料夾分別計算位數；將重新命名 %lu 個檔案。"
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows 支援 1/1.5/2 停止位元、全部校驗和流控組合；Linux/macOS 的具體組合受系統驅動限制。"
+
+msgid "Write to file:"
+msgstr "寫入檔案："
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA / BTEA（實驗）"
+
+msgid "You can drop a file onto this page."
+msgstr "可將檔案拖放到本頁面。"
+
+msgid "Zero-pad filenames"
+msgstr "檔名補零"
+
+msgid "Zero-padded filename"
+msgstr "補零後檔名"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "補零後出現重名檔案："
+
+msgid "[stop]"
+msgstr "[停]"
+
+msgid "ask"
+msgstr "請求"
+
+msgid "ask:"
+msgstr "請求："
+
+msgid "big endian"
+msgstr "大端"
+
+msgid "communication client"
+msgstr "通訊客戶端"
+
+msgid "communication server"
+msgstr "通訊伺服器"
+
+msgid "delay"
+msgstr "延時"
+
+msgid "direction"
+msgstr "方向"
+
+msgid "even parity"
+msgstr "偶校驗"
+
+msgid "expect '"
+msgstr "期望 '"
+
+msgid "folder 1"
+msgstr "資料夾 1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\n建置時間：%s %s    wxWidgets %s    %s"
+
+msgid "include is missing the closing quote:"
+msgstr "include 缺少結束引號："
+
+msgid "little endian"
+msgstr "小端"
+
+msgid "mapping"
+msgstr "對應"
+
+msgid "mark"
+msgstr "標記"
+
+msgid "member"
+msgstr "成員"
+
+msgid "name"
+msgstr "名稱"
+
+msgid "name:"
+msgstr "名稱："
+
+msgid "none"
+msgstr "無"
+
+msgid "odd parity"
+msgstr "奇校驗"
+
+msgid "offset"
+msgstr "偏移"
+
+msgid "parse"
+msgstr "解析"
+
+msgid "parsed value"
+msgstr "解析值"
+
+msgid "path:"
+msgstr "路徑："
+
+msgid "port:"
+msgstr "連接埠："
+
+msgid "receive timeout"
+msgstr "接收逾時"
+
+msgid "release:"
+msgstr "發布："
+
+msgid "reset"
+msgstr "重置"
+
+msgid "result"
+msgstr "結果"
+
+msgid "send"
+msgstr "傳送"
+
+msgid "send/receive pair"
+msgstr "發送/接收對"
+
+msgid "serial number"
+msgstr "序號"
+
+msgid "size"
+msgstr "大小"
+
+msgid "source"
+msgstr "來源"
+
+msgid "space"
+msgstr "空格"
+
+msgid "start"
+msgstr "開始"
+
+msgid "stop"
+msgstr "停止"
+
+msgid "subscription:"
+msgstr "訂閱："
+
+msgid "synchronous"
+msgstr "同步"
+
+msgid "take over"
+msgstr "接收"
+
+msgid "test frame"
+msgstr "測試幀"
+
+msgid "test stopped"
+msgstr "測試停止"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "允許 0x 前綴，Latin-1 範圍為 00–FF。"
+
+msgid "type"
+msgstr "類型"
+
+msgid "union is not supported."
+msgstr "union 不受支援。"

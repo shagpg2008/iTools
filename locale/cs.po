@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "%lu znaků; obrázek %d × %d."
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "%lu soubory dokončeny; nepodařilo se přejmenovat:\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "%lu soubory budou zkopírovány; novější soubory se stejným názvem přepíší starší soubory. Pokračovat?"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "Soubory %lu: celkem %lu, kód %lu, komentáře %lu, prázdné %lu; přeskočeno %lu"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "Položky souboru záhlaví %lu byly načteny; include bude během analýzy rekurzivně rozbaleno."
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s dokončeno: %u -> %u bajtů"
+
+msgid "/ No verification"
+msgstr "/ Bez ověření"
+
+msgid "/check"
+msgstr "/kontrola"
+
+msgid "1 byte (compact)"
+msgstr "1 bajt (kompaktní)"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1,5 stop bitů lze použít pouze v kombinaci s 5 datovými bity."
+
+msgid "2 bytes"
+msgstr "2 bajty"
+
+msgid "3DES (legacy)"
+msgstr "3DES (starší)"
+
+msgid "4 bytes"
+msgstr "4 bajty"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "5 datových bitů nelze kombinovat se 2 stop bity."
+
+msgid "64-bit unsigned integer"
+msgstr "64bitové celé číslo bez znaménka"
+
+msgid "8 bytes"
+msgstr "8 bajtů"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "Vlastní parametr překračuje bitovou šířku určenou parametrem Width."
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "Existuje duplicitní cílový název souboru; provoz zastaven."
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "Po výběru dvou složek se automaticky vygeneruje náhled synchronizace."
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "Pole nulové délky je podporováno pouze jako poslední člen struktury."
+
+msgid "AAD (UTF-8):"
+msgstr "AAD (UTF-8):"
+
+msgid "ASCII converter"
+msgstr "ASCII převodník"
+
+msgid "ASCII string"
+msgstr "ASCII řetězec"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "Text ASCII může obsahovat pouze znaky od 0x00 do 0x7F."
+
+msgid "ASCII text cannot be empty."
+msgstr "Text ASCII nemůže být prázdný."
+
+msgid "About (&A)"
+msgstr "O (&A)"
+
+msgid "About iTool"
+msgstr "O iTool"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "Chystáte se upravit soubory %lu. Toto nelze automaticky vrátit zpět. Pokračovat?"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "Chystáte se přejmenovat soubory %lu. Pokračovat?"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "Přidejte úvodní nuly k číslovaným názvům souborů pro přirozené řazení"
+
+msgid "Add new receive/send pair"
+msgstr "Přidat nový pár pro příjem/odeslání"
+
+msgid "Add new send/receive pair"
+msgstr "Přidat nový pár pro odesílání a přijímání"
+
+msgid "Added receive/send mapping"
+msgstr "Přidáno mapování příjmu/odesílání"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "Nejprve sečte 80, poté doplní 00."
+
+msgid "Algorithm and parameters"
+msgstr "Algoritmus a parametry"
+
+msgid "Algorithm:"
+msgstr "Algoritmus:"
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "Algoritmy (22 typů): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Najednou lze vypočítat více algoritmů."
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "Aliasy nelze poskytnout po uzavírací složené závorce struktury bez typu definovaného typu."
+
+msgid "Alignment:"
+msgstr "Zarovnání:"
+
+msgid "All files (*.*)|*.*"
+msgstr "Všechny soubory (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "Anonymní struktury musí poskytnout název definice typu."
+
+msgid "Any non-empty"
+msgstr "Jakékoliv neprázdné"
+
+msgid "Array length missing."
+msgstr "Chybí délka pole."
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "Délka pole musí být kladné celé číslo nebo definované číselné makro."
+
+msgid "Array length must be greater than zero."
+msgstr "Délka pole musí být větší než nula."
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "Automaticky vypočítat kontrolní součet, upravit zoom a zkopírovat obrázek nebo uložit jako PNG."
+
+msgid "BIN file"
+msgstr "soubor BIN"
+
+msgid "Barcode encoder"
+msgstr "Kodér čárových kódů"
+
+msgid "Barcode encoding"
+msgstr "Kódování čárového kódu"
+
+msgid "Barcode height:"
+msgstr "Výška čárového kódu:"
+
+msgid "Barcode image copied."
+msgstr "Obrázek čárového kódu zkopírován."
+
+msgid "Base64"
+msgstr "Základní 64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Base64 kódování a dekódování; vstup a výstup mohou nezávisle vybrat text nebo soubory UTF-8;"
+
+msgid "Base64 error"
+msgstr "Chyba Base64"
+
+msgid "Baud rate:"
+msgstr "přenosová rychlost:"
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "Obousměrný převod mezi 64bitovým unixovým časovým razítkem a datem a časem UTC; jednotka časového razítka podporuje sekundy a milisekundy;"
+
+msgid "Binary"
+msgstr "Binární"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "Binární soubory (*.bin)|*.bin|Všechny soubory (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "Členy bitového pole nejsou podporovány."
+
+msgid "Bits set: %d / 64"
+msgstr "Sada bitů: %d / 64"
+
+msgid "Bitset64"
+msgstr "Bitset64"
+
+msgid "Blank"
+msgstr "Prázdné"
+
+msgid "Both folders have been synchronized."
+msgstr "Obě složky byly synchronizovány."
+
+msgid "C structure definition"
+msgstr "Definice C struktury"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB volitelně PKCS, Zero, ISO/IEC 7816-4 nebo bez vycpávky; podporuje bezpečný náhodný klíč, IV/Nonce a generování páru klíčů RSA."
+
+msgid "CRC calculation error"
+msgstr "Chyba výpočtu CRC"
+
+msgid "CRC calculator"
+msgstr "CRC kalkulačka"
+
+msgid "Calculate"
+msgstr "Vypočítejte"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "Vypočítejte hash pro text, hexadecimální data nebo soubory"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "Vypočítejte standardní a vlastní hodnoty CRC pro text, bajty nebo soubory"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "Výpočet souboru CRC na pozadí..."
+
+msgid "Calculation completed."
+msgstr "Výpočet dokončen."
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Canceled."
+msgstr "Zrušeno."
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "Znak %lu, „%s“ je mimo rozsah Latin-1 (00–FF)."
+
+msgid "Clear"
+msgstr "Jasný"
+
+msgid "Clear all"
+msgstr "Vymazat vše"
+
+msgid "Clear log"
+msgstr "Vymazat protokol"
+
+msgid "Clear results"
+msgstr "Jasné výsledky"
+
+msgid "Cleared."
+msgstr "Vymazáno."
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Code"
+msgstr "kód"
+
+msgid "Code 128-B content"
+msgstr "Obsah kódu 128-B"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "Obsah kódu 128-B nesmí přesáhnout 200 znaků."
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "Kód 128-B generuje kontrolní součet automaticky."
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "Kód 128-B podporuje pouze ASCII 32~126 znaků."
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "Kód a komentáře lze počítat na stejném řádku (například koncové komentáře)."
+
+msgid "Comments"
+msgstr "Komentáře"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "Běžné přenosové rychlosti lze vybrat nebo ručně zadat od 1 do 4000000."
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "Běžně používané soubory jako HTML/XML, CSS, Vue, CMake a jejich styly komentářů; maximální velikost jednoho souboru je 512 MiB."
+
+msgid "Communication client"
+msgstr "Komunikační klient"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "Komunikační klient: Všechny Windows, Linux a macOS podporují sériové porty a podporují TCP, UDP, WebSocket a MQTT 3.1.1; data požadavku/odpovědi mohou být volitelně Hex nebo ASCII;"
+
+msgid "Communication server"
+msgstr "Komunikační server"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "Komunikační server: Windows, Linux a macOS mohou všechny monitorovat sériový port a podporovat TCP, UDP, WebSocket a MQTT 3.1.1; přijímací rámce mohou být Hex nebo ASCII;"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "Porovnejte dva adresáře a synchronizujte novější nebo jednostranné soubory"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "Porovnejte dvě složky a jejich podadresáře; generovat synchronizované náhledy na základě času modifikace; kopírovat novější soubory a jednostranné soubory v obou směrech;"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "Dokončené soubory %lu, kopírování se nezdařilo:\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "Dokončeno: %llu bajtů, %lu algoritmy."
+
+msgid "Completed: %lu files modified."
+msgstr "Dokončeno: Upraveny soubory %lu."
+
+msgid "Completed: %lu files renamed."
+msgstr "Dokončeno: Soubory %lu byly přejmenovány."
+
+msgid "Confirm rename"
+msgstr "Potvrďte přejmenování"
+
+msgid "Confirm replacement"
+msgstr "Potvrďte výměnu"
+
+msgid "Confirm synchronization"
+msgstr "Potvrďte synchronizaci"
+
+msgid "Content matches"
+msgstr "Obsah se shoduje"
+
+msgid "Conversion completed."
+msgstr "Konverze dokončena."
+
+msgid "Convert"
+msgstr "Převést"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "Převod mezi 64bitovými unixovými časovými razítky a datem/časem UTC"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "Převod mezi hexadecimálními řetězci a ASCII"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "Převeďte soubory nebo text UTF-8 do az Base64"
+
+msgid "Convert to Base64"
+msgstr "Převést na Base64"
+
+msgid "Convert to UTC ↓"
+msgstr "Převést na UTC ↓"
+
+msgid "Convert to Unix ↑"
+msgstr "Převést na Unix ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "Počet převedených bajtů: %llu"
+
+msgid "Copied to the clipboard."
+msgstr "Zkopírováno do schránky."
+
+msgid "Copy"
+msgstr "Kopírovat"
+
+msgid "Copy image"
+msgstr "Kopírovat obrázek"
+
+msgid "Copy result"
+msgstr "Zkopírujte výsledek"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "Počítat jeden soubor nebo adresář, můžete si vybrat, zda chcete opakovat a přizpůsobit rozšíření; počítat celkové řádky, kód, komentáře a prázdné řádky;"
+
+msgid "Count results cleared."
+msgstr "Výsledky počítání byly vymazány."
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "Počítejte součet, kód, komentář a prázdné řádky podle souboru"
+
+msgid "Crypto++ conversion failed: "
+msgstr "Převod Crypto++ se nezdařil:"
+
+msgid "Current UTC time loaded."
+msgstr "Načten aktuální čas UTC."
+
+msgid "Current time"
+msgstr "Aktuální čas"
+
+msgid "Custom"
+msgstr "Vlastní"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "Custom Init, Poly a XorOut musí být hexadecimální čísla."
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "Vlastní šířka podporuje pouze 8, 16, 24, 32 nebo 64."
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "Vlastní algoritmus: Lze nastavit šířku, Init, Poly, XorOut, RefIn, RefOut a lze vybrat více výpočtů algoritmu současně."
+
+msgid "DES (legacy)"
+msgstr "DES (starší)"
+
+msgid "Data bits:"
+msgstr "Datové bity:"
+
+msgid "Decimal"
+msgstr "Desetinné"
+
+msgid "Decode from Base64"
+msgstr "Dekódujte z Base64"
+
+msgid "Decrypt"
+msgstr "Dešifrovat"
+
+msgid "Decryption"
+msgstr "Dešifrování"
+
+msgid "Delay before sending (ms):"
+msgstr "Prodleva před odesláním (ms):"
+
+msgid "Delete selected receive/send mapping"
+msgstr "Smazat vybrané mapování příjmu/odesílání"
+
+msgid "Delete selected send/receive pair"
+msgstr "Smazat vybraný pár pro odesílání/příjem"
+
+msgid "Determine width from the largest number"
+msgstr "Určete šířku z největšího čísla"
+
+msgid "Direction"
+msgstr "Směr"
+
+msgid "Directory sync"
+msgstr "Synchronizace adresáře"
+
+msgid "Directory:"
+msgstr "adresář:"
+
+msgid "Dropped directory accepted."
+msgstr "Zahozený adresář byl přijat."
+
+msgid "Dropped file accepted."
+msgstr "Zahozený soubor byl přijat."
+
+msgid "Dynamic tail array length is too large."
+msgstr "Délka dynamického ocasního pole je příliš velká."
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "Dynamické pole ocasu vyžaduje alespoň dva členy struktury."
+
+msgid "ECB (legacy)"
+msgstr "ECB (starší)"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "Každá hexadecimální hodnota a bitový stav se aktualizují společně, což podporuje kopírování výsledků."
+
+msgid "Edit receive/send pairs"
+msgstr "Upravit páry příjem/odeslání"
+
+msgid "Edit selected receive/send mapping"
+msgstr "Upravit vybrané mapování příjmu/odesílání"
+
+msgid "Edit selected send/receive pair"
+msgstr "Upravit vybraný pár pro odesílání/příjem"
+
+msgid "Edit send/receive pairs"
+msgstr "Upravit páry pro odesílání a přijímání"
+
+msgid "Enable this mapping"
+msgstr "Povolit toto mapování"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "Kódujte text ASCII jako čárový kód Code 128-B"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "Kódujte text UTF-8 jako obrázek QR kódu"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "Kódování textu UTF-8 do QR kódu; automaticky vybrat verzi QR kódu; podpora L (asi 7 %), M (asi 15 %),"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "Kódujte text v rozsahu ASCII 32 až 126 a až 200 znaků do kódu 128-B;"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "Detekce kódování: GB18030-2022 -> UTF-8 -> místní kódová stránka; maximálně 256 MiB na soubor."
+
+msgid "Encountered failure and stopped as configured."
+msgstr "Došlo k selhání a zastavil se podle konfigurace."
+
+msgid "Encrypt"
+msgstr "Šifrovat"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "Šifrujte a dešifrujte data pomocí algoritmů Crypto++"
+
+msgid "Encryption"
+msgstr "Šifrování"
+
+msgid "Encryption / Decryption"
+msgstr "Šifrování / dešifrování"
+
+msgid "Encryption/decryption error"
+msgstr "Chyba šifrování/dešifrování"
+
+msgid "Endianness:"
+msgstr "Endianness:"
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "Zadejte hexadecimální údaje, například: 31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "Zadejte 64bitové celé číslo bez znaménka v šestnáctkové, desítkové nebo binární soustavě; zobrazte a kliknutím upravte bity 0~63;"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "Zadejte řetězec ASCII, například: 123"
+
+msgid "Enter data"
+msgstr "Zadejte údaje"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "Zadejte hexadecimální bajty, například: 31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "Zadejte text, který chcete převést."
+
+msgid "Error correction:"
+msgstr "Oprava chyb:"
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "Provádějte více sad testů v nakonfigurovaném pořadí s podporou časových limitů, smyček, statistik výsledků a protokolů časových razítek v milisekundách."
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "Konec (&X) Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "Očekávaná odpověď (nechte prázdné pro označení dokončení po obdržení jakýchkoli neprázdných dat):"
+
+msgid "Extensions:"
+msgstr "Rozšíření:"
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "Nepodařilo se vytvořit pracovní vlákno souboru CRC."
+
+msgid "Failed to initialize CRC."
+msgstr "Inicializace CRC se nezdařila."
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "Mapování souboru se nezdařilo (posun %llu, %s)"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "Mapování souboru se nezdařilo (posun %llu, chyba %lu)"
+
+msgid "Failed to parse Hex data."
+msgstr "Hexadecimální data se nepodařilo analyzovat."
+
+msgid "Failed to read BIN file."
+msgstr "Nepodařilo se přečíst soubor BIN."
+
+msgid "Failed to read header file:"
+msgstr "Nepodařilo se přečíst soubor záhlaví:"
+
+msgid "Failed to rename: "
+msgstr "Přejmenování se nezdařilo:"
+
+msgid "Failed to save PNG."
+msgstr "PNG se nepodařilo uložit."
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "Nepodařilo se spustit pracovní vlákno souboru CRC."
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "Aktualizace délky CRC32/POSIX se nezdařila."
+
+msgid "Failed to write file: "
+msgstr "Nepodařilo se zapsat soubor:"
+
+msgid "Features\n\n"
+msgstr "Vlastnosti"
+
+msgid "File"
+msgstr "Soubor"
+
+msgid "File (&F)"
+msgstr "Soubor (&F)"
+
+msgid "File hash calculation completed."
+msgstr "Výpočet hash souboru dokončen."
+
+msgid "File or directory:"
+msgstr "Soubor nebo adresář:"
+
+msgid "Filename zero-padding"
+msgstr "Nulové odsazení názvu souboru"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "Soubory se stejným názvem mají různé velikosti, ale stejnou dobu úpravy, takže směr nelze bezpečně určit:"
+
+msgid "Find and replace"
+msgstr "Najít a nahradit"
+
+msgid "Flow control:"
+msgstr "Řízení toku:"
+
+msgid "Folder 1:"
+msgstr "Složka 1:"
+
+msgid "Folder 2"
+msgstr "Složka 2"
+
+msgid "Folder 2:"
+msgstr "Složka 2:"
+
+msgid "Folder sync"
+msgstr "Synchronizace složky"
+
+msgid "Follow system"
+msgstr "Sledujte systém"
+
+msgid "For example: 123"
+msgstr "Například: 123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "Například: 31 32 33 nebo 0x31, 0x32, 0x33"
+
+msgid "Format:"
+msgstr "Formát:"
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "Čtyři úrovně opravy chyb: Q (přibližně 25 %), H (přibližně 30 %); upravit zoom, zkopírovat obrázek nebo uložit jako PNG."
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "Zlomkové sekundy obsahují až tři číslice."
+
+msgid "From file:"
+msgstr "Ze souboru:"
+
+msgid "From text box:"
+msgstr "Z textového pole:"
+
+msgid "GCM (recommended)"
+msgstr "GCM (doporučeno)"
+
+msgid "Generate"
+msgstr "Generovat"
+
+msgid "Generate key pair"
+msgstr "Vygenerujte pár klíčů"
+
+msgid "Generate random"
+msgstr "Generovat náhodné"
+
+msgid "H (about 30%)"
+msgstr "H (asi 30 %)"
+
+msgid "Hash calculation"
+msgstr "Výpočet hash"
+
+msgid "Hash checker"
+msgstr "Hash checker"
+
+msgid "Hash error"
+msgstr "Chyba hash"
+
+msgid "Header file directory:"
+msgstr "Adresář souboru záhlaví:"
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "Soubor záhlaví nemá platné UTF-8 nebo místní kódování:"
+
+msgid "Help (&H)"
+msgstr "Nápověda (&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "Hexadecimální bajty mohou být odděleny mezerami, čárkami, středníky nebo zalomením řádků, například 31 32 33;"
+
+msgid "Hex data contains invalid characters."
+msgstr "Hexadecimální data obsahují neplatné znaky."
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "Hexadecimální údaje musí obsahovat sudý počet hexadecimálních číslic."
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "Hexadecimální údaje musí obsahovat sudý počet čísel."
+
+msgid "Hex input cannot be empty."
+msgstr "Hexadecimální vstup nemůže být prázdný."
+
+msgid "Hex input contains an invalid character."
+msgstr "Hexadecimální vstup obsahuje neplatný znak."
+
+msgid "Hex input contains invalid characters."
+msgstr "Hexadecimální vstup obsahuje neplatné znaky."
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "Hexadecimální vstup musí obsahovat sudý počet čísel."
+
+msgid "Hex string"
+msgstr "Šestihranný řetězec"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "Hexadecimální číslo: 31 32 33 nebo 313233"
+
+msgid "Hexadecimal"
+msgstr "Hexadecimální"
+
+msgid "Host:"
+msgstr "hostitel:"
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "Plné rozhraní IPv4: 0.0.0.0; Plné rozhraní IPv6:::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV / Nonce (hexadecimální):"
+
+msgid "Include header file not found:"
+msgstr "Zahrnout soubor záhlaví nebyl nalezen:"
+
+msgid "Include subdirectories"
+msgstr "Zahrnout podadresáře"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "Zahrnuje standardní čtyřmodulovou bílou klidovou zónu."
+
+msgid "Incremental CRC calculation failed."
+msgstr "Výpočet přírůstkového CRC se nezdařil."
+
+msgid "Input"
+msgstr "Vstup"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "Vstup a výstup vymazán; klíčové parametry zachovány."
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "Vstup: Hexadecimální bajty, text UTF-8, soubory (velké soubory používají mapování blokové paměti)."
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "Vstup: Hexadecimální bajty, text UTF-8, soubory (podporuje drag-and-drop a mapování blokové paměti)."
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "Nedostatečná data: Záhlaví dynamické struktury vyžaduje %lu bajtů."
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "Nedostatečná data: Struktura vyžaduje %lu bajtů."
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "Rozhraní a záznam protokolu milisekundové časové razítko. Přednastavená přenosová rychlost sériového portu je až 921600 a konkrétní přenosovou rychlost lze zadat také ručně."
+
+msgid "Invalid Hex character: '%c'."
+msgstr "Neplatný hexadecimální znak: '%c'."
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "Neplatná sekvence fragmentu WebSocket."
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "Neplatný formát rámce WebSocket nebo směr masky."
+
+msgid "Invalid WebSocket opcode."
+msgstr "Neplatný operační kód WebSocket."
+
+msgid "Invalid input"
+msgstr "Neplatný vstup"
+
+msgid "Invalid millisecond format."
+msgstr "Neplatný formát milisekund."
+
+msgid "Invert all"
+msgstr "Invertovat vše"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "Položka %lu, „%s“, není dvoumístný hexadecimální bajt."
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "Položka %lu, „%s“ není platný bajt Latin-1 (rozsah 00–FF)."
+
+msgid "Key (Hex):"
+msgstr "Klíč (hexadecimální):"
+
+msgid "Key length:"
+msgstr "Délka klíče:"
+
+msgid "L (about 7%)"
+msgstr "L (asi 7 %)"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Line %lu:"
+msgstr "Řádek %lu:"
+
+msgid "Line %lu: Block comment not ended."
+msgstr "Řádek %lu: Komentář bloku nebyl ukončen."
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "Řádek %lu: Nepodporovaný znak „%c“."
+
+msgid "Line counter"
+msgstr "Počítadlo řádků"
+
+msgid "Listening address:"
+msgstr "Adresa pro poslech:"
+
+msgid "Load directory"
+msgstr "Načíst adresář"
+
+msgid "Local port:"
+msgstr "Místní port:"
+
+msgid "M (about 15%)"
+msgstr "M (asi 15 %)"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "Připojení zprostředkovatele MQTT selhalo nebo vypršel časový limit."
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "MQTT Broker odmítl připojení nebo neplatný CONNACK."
+
+msgid "MQTT Payload not matched"
+msgstr "MQTT Payload neodpovídá"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "Zbývající délka MQTT je neplatná."
+
+msgid "MQTT client"
+msgstr "Klient MQTT"
+
+msgid "MQTT client disconnected."
+msgstr "Klient MQTT odpojen."
+
+msgid "MQTT connection disconnected."
+msgstr "Připojení MQTT odpojeno."
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "Zpráva MQTT překračuje limit 16 MiB."
+
+msgid "MQTT publish topic mismatch:"
+msgstr "Neshoda témat publikování MQTT:"
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "Témata publikování MQTT a témata předplatného nemohou být prázdná."
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "MQTT přijímat téma a téma odpovědi nemůže být prázdné."
+
+msgid "MQTT response publishing failed"
+msgstr "Publikování odpovědi MQTT se nezdařilo"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "Odeslání MQTT se nezdařilo nebo bylo odpojeno připojení."
+
+msgid "Manual width:"
+msgstr "Manuální šířka:"
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "Přiřaďte kompletní snímky mimo pořadí podle více konfigurací a odešlete odpovídající odpovědi, kontrolujte duplicitní snímky a předpony;"
+
+msgid "Match expression:"
+msgstr "Shodný výraz:"
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "Porovnejte zprávy a odpovídejte přes sériové rozhraní, TCP, UDP, WebSocket nebo MQTT"
+
+msgid "Matched and posted response"
+msgstr "Přiřazená a odeslaná odpověď"
+
+msgid "Matched and responded"
+msgstr "Shoda a odpověď"
+
+msgid "Member type enum is not supported."
+msgstr "Výčet typů členů není podporován."
+
+msgid "Member's statement is not concluded."
+msgstr "Prohlášení člena není uzavřeno."
+
+msgid "Milliseconds"
+msgstr "milisekundy"
+
+msgid "Mode:"
+msgstr "režim:"
+
+msgid "Module width:"
+msgstr "Šířka modulu:"
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "Přesunout dolů: Upravte pořadí provádění dvojic odeslání/přijetí"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "Přesunout nahoru: Upravte pořadí provádění dvojic odeslání/přijetí"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Name cannot be empty."
+msgstr "Název nemůže být prázdný."
+
+msgid "New filename"
+msgstr "Nový název souboru"
+
+msgid "No files need zero-padding."
+msgstr "Žádné soubory nepotřebují nulové odsazení."
+
+msgid "No matches found."
+msgstr "Nebyly nalezeny žádné shody."
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "Žádné vycpávky; vstupní délka musí být násobkem velikosti bloku."
+
+msgid "No structure definition found."
+msgstr "Nebyla nalezena žádná definice struktury."
+
+msgid "No valid file was found in the dropped content."
+msgstr "V zahozeném obsahu nebyl nalezen žádný platný soubor."
+
+msgid "Not matched"
+msgstr "Nesouhlasí"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "Poznámka: CBC neposkytuje ověřování integrity; u nových aplikací preferujte GCM."
+
+msgid "Number of tasks sent:"
+msgstr "Počet odeslaných úkolů:"
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP a PKCS#1 v1.5; vstup a výstup lze nezávisle vybrat jako UTF-8, Hex, Base64 nebo soubor;"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "Přijměte pouze tuto cestu WebSocket, jako je /ws; aktuálně podporuje ws://, nikoli TLS/wss://"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "Zpracovávají se pouze názvy souborů začínající číslicemi; zbývající text a rozšíření jsou zachovány."
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "Podporovány jsou pouze definice struktur (výčet/union/obyčejné deklarace nejsou podporovány)."
+
+msgid "Operation failed."
+msgstr "Operace se nezdařila."
+
+msgid "Original Hex"
+msgstr "Originální Hex"
+
+msgid "Original filename"
+msgstr "Původní název souboru"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "Mapování příjmu/vysílání mimo pořadí"
+
+msgid "Output"
+msgstr "Výstup"
+
+msgid "Output to text box:"
+msgstr "Výstup do textového pole:"
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5 (starší)"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5 / PKCS#7 (doporučeno)"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7 (doporučeno)"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "Obrázek PNG (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "PNG uložen."
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "Výplň se přidává automaticky a odstraňuje během dešifrování."
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "Výplň je přidána automaticky; další blok je přidán, i když jsou data zarovnána."
+
+msgid "Padding:"
+msgstr "Výplň:"
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "Podložky s 00; dešifrování odstraní koncových 00 bajtů a může ztratit původní koncové nula bajtů."
+
+msgid "Parity check:"
+msgstr "Kontrola parity:"
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "Analyzujte hex proudy nebo soubory BIN pomocí definic struktury C"
+
+msgid "Paste"
+msgstr "Vložit"
+
+msgid "Paste an RSA private key"
+msgstr "Vložte soukromý klíč RSA"
+
+msgid "Paste an RSA public key"
+msgstr "Vložte veřejný klíč RSA"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "Předposlední pole určuje délku pole ocasu"
+
+msgid "Pixels per module:"
+msgstr "Pixely na modul:"
+
+msgid "Please add at least one send/receive pair."
+msgstr "Přidejte alespoň jeden pár pro odesílání a přijímání."
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "Nakonfigurujte alespoň jedno povolené mapování příjmu/odesílání."
+
+msgid "Please select a valid BIN file."
+msgstr "Vyberte prosím platný soubor BIN."
+
+msgid "Please select a valid header directory."
+msgstr "Vyberte platný adresář záhlaví."
+
+msgid "Please select two valid folders."
+msgstr "Vyberte prosím dvě platné složky."
+
+msgid "Please wait ..."
+msgstr "Čekejte prosím..."
+
+msgid "Pointer members are not supported."
+msgstr "Členové ukazatele nejsou podporováni."
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "Přednastavené algoritmy (18 typů): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+
+msgid "Preview"
+msgstr "Náhled"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "Náhled: Soubory %lu se změní; %lu netextové nebo příliš velké soubory byly přeskočeny."
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "Soukromý klíč (Base64 DER / PEM):"
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "Soukromý klíč (PKCS#1 PEM; uschovejte jej v bezpečí)"
+
+msgid "Protocol analysis"
+msgstr "Protokolová analýza"
+
+msgid "Protocol parser"
+msgstr "Protokolový analyzátor"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "Veřejný klíč (Base64 DER / PEM):"
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "Veřejný klíč (PKCS#1 PEM)"
+
+msgid "Q (about 25%)"
+msgstr "Q (asi 25 %)"
+
+msgid "QR Code content (UTF-8)"
+msgstr "Obsah QR kódu (UTF-8)"
+
+msgid "QR Code content cannot be empty."
+msgstr "Obsah QR kódu nemůže být prázdný."
+
+msgid "QR Code content is too long: "
+msgstr "Obsah QR kódu je příliš dlouhý:"
+
+msgid "QR Code encoder"
+msgstr "Kodér QR kódu"
+
+msgid "QR Code encoding"
+msgstr "Kódování QR kódu"
+
+msgid "QR Code image copied."
+msgstr "Obrázek QR kódu zkopírován."
+
+msgid "RC4 (legacy)"
+msgstr "RC4 (starší)"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED a RSA; podporuje GCM, CBC, CTR, ECB,"
+
+msgid "RSA key pair"
+msgstr "Klíčový pár RSA"
+
+msgid "Raw variable block"
+msgstr "Surově variabilní blok"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "Číst definici struktury C struct/typedef a #define délku pole a analyzovat hex datový proud nebo soubor BIN;"
+
+msgid "Ready"
+msgstr "Připraveno"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "Přijmout shodu (musí jít o přesnou shodu):"
+
+msgid "Receive data does not match"
+msgstr "Přijímaná data se neshodují"
+
+msgid "Receive topic:"
+msgstr "Přijmout téma:"
+
+msgid "Received message not matched"
+msgstr "Přijatá zpráva neodpovídá"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "Přijato: %lu Přiřazeno: %lu Nepřiřazeno: %lu Odpovězeno: %lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "Přijato: 0 Uzavřeno: 0 Neuzavřeno: 0 Odpovězeno: 0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "Rozpoznává C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "Doporučená výchozí hodnota: AES-256-GCM."
+
+msgid "Rename"
+msgstr "Přejmenovat"
+
+msgid "Rename interrupted"
+msgstr "Přejmenování bylo přerušeno"
+
+msgid "Replace"
+msgstr "Vyměňte"
+
+msgid "Replace file content"
+msgstr "Nahradit obsah souboru"
+
+msgid "Replace filenames"
+msgstr "Nahraďte názvy souborů"
+
+msgid "Replace folder names"
+msgstr "Nahradit názvy složek"
+
+msgid "Replacement expression:"
+msgstr "Náhradní výraz:"
+
+msgid "Replacer error"
+msgstr "Chyba náhradníka"
+
+msgid "Reply frame"
+msgstr "Rámec odpovědi"
+
+msgid "Request data cannot be empty."
+msgstr "Údaje požadavku nemohou být prázdné."
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "Vyžaduje %u bajtů / %u Hexadecimální znaky"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "Vyžaduje potvrzení před spuštěním a zobrazuje počet souborů, které mají být synchronizovány a zkopírovány."
+
+msgid "Respond to the topic:"
+msgstr "Odpověz na téma:"
+
+msgid "Response delay (ms):"
+msgstr "Zpoždění odpovědi (ms):"
+
+msgid "Response does not match:"
+msgstr "Odpověď neodpovídá:"
+
+msgid "Response sending failed"
+msgstr "Odeslání odpovědi se nezdařilo"
+
+msgid "Response/verification"
+msgstr "Odezva/ověření"
+
+msgid "Result copied."
+msgstr "Výsledek zkopírován."
+
+msgid "Results cleared."
+msgstr "Výsledky vymazány."
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "Kořenová struktura %s: %lu bajtů; analyzovat záznamy %lu; zbývající %lu bajtů na konci."
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "Spusťte sériové, TCP, UDP, WebSocket nebo MQTT testy požadavků a odpovědí"
+
+msgid "Save PNG"
+msgstr "Uložit PNG"
+
+msgid "Save QR Code"
+msgstr "Uložte QR kód"
+
+msgid "Save barcode"
+msgstr "Uložit čárový kód"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "Naskenujte číselná čísla na začátku názvů souborů v adresáři a automaticky přidejte úvodní nuly podle maximální šířky čísel; podpora pro zahrnutí podadresářů;"
+
+msgid "Search tools..."
+msgstr "Vyhledávací nástroje..."
+
+msgid "Seconds"
+msgstr "sekund"
+
+msgid "Select BIN file"
+msgstr "Vyberte soubor BIN"
+
+msgid "Select a file to calculate CRC"
+msgstr "Vyberte soubor pro výpočet CRC"
+
+msgid "Select a file to hash"
+msgstr "Vyberte soubor, který chcete hashovat"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "Vyberte jeden soubor nebo adresář a hromadně nahraďte názvy souborů a textový obsah pokročilými regulárními výrazy; podporuje drag and drop;"
+
+msgid "Select a valid directory."
+msgstr "Vyberte platný adresář."
+
+msgid "Select a valid file or directory."
+msgstr "Vyberte platný soubor nebo adresář."
+
+msgid "Select a valid file."
+msgstr "Vyberte platný soubor."
+
+msgid "Select a valid input file."
+msgstr "Vyberte platný vstupní soubor."
+
+msgid "Select algorithms, then calculate."
+msgstr "Vyberte algoritmy a poté vypočítejte."
+
+msgid "Select an existing file."
+msgstr "Vyberte existující soubor."
+
+msgid "Select an output file."
+msgstr "Vyberte výstupní soubor."
+
+msgid "Select at least one CRC algorithm."
+msgstr "Vyberte alespoň jeden algoritmus CRC."
+
+msgid "Select at least one hash algorithm."
+msgstr "Vyberte alespoň jeden hashovací algoritmus."
+
+msgid "Select at least one replacement method."
+msgstr "Vyberte alespoň jeden způsob výměny."
+
+msgid "Select directory"
+msgstr "Vyberte adresář"
+
+msgid "Select directory for filename zero-padding"
+msgstr "Vyberte adresář pro název souboru zero-padding"
+
+msgid "Select directory..."
+msgstr "Vyberte adresář..."
+
+msgid "Select file"
+msgstr "Vyberte soubor"
+
+msgid "Select file..."
+msgstr "Vybrat soubor..."
+
+msgid "Select folders to sync"
+msgstr "Vyberte složky k synchronizaci"
+
+msgid "Select header file directory"
+msgstr "Vyberte adresář souboru záhlaví"
+
+msgid "Select input file"
+msgstr "Vyberte vstupní soubor"
+
+msgid "Select output file"
+msgstr "Vyberte výstupní soubor"
+
+msgid "Select source code directory"
+msgstr "Vyberte adresář zdrojového kódu"
+
+msgid "Select source code file"
+msgstr "Vyberte soubor zdrojového kódu"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "Vybrán první platný soubor z odstraněných souborů."
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "Odeslat po spárování (lze ponechat prázdné, přijímat pouze statistiky):"
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "Odesílající rámec: %lu Legální příjem: %lu Nelegální příjem: %lu Časový limit: %lu Úspěšný úkol: %lu/%lu Míra úspěšnosti: %.2f%%"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "Odesílací rámec: 0 Legální příjem: 0 Nelegální příjem: 0 Timeout: 0 Úspěšný úkol: 0/0 Úspěšnost: 0,00 %"
+
+msgid "Sending interval (ms):"
+msgstr "Interval odesílání (ms):"
+
+msgid "Serial port reception failed."
+msgstr "Příjem sériového portu se nezdařil."
+
+msgid "Serial port transmission failed."
+msgstr "Přenos přes sériový port se nezdařil."
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "Sériový port: přednastavená přenosová rychlost 1200~921600 a může ručně zadat 1~4000000; 5/6/7/8 datových bitů;"
+
+msgid "Set all to 1"
+msgstr "Vše nastavit na 1"
+
+msgid "Settings (&S)"
+msgstr "Nastavení (&S)"
+
+msgid "Shift left <<"
+msgstr "Shift doleva <<"
+
+msgid "Shift right >>"
+msgstr "Shift vpravo >>"
+
+msgid "Show original text"
+msgstr "Zobrazit původní text"
+
+msgid "Source line count"
+msgstr "Počet zdrojových řádků"
+
+msgid "Start counting"
+msgstr "Začněte počítat"
+
+msgid "Start the server"
+msgstr "Spusťte server"
+
+msgid "Stop bit:"
+msgstr "Stop bit:"
+
+msgid "Stop on failure"
+msgstr "Zastavit při selhání"
+
+msgid "Stream cipher"
+msgstr "Streamová šifra"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "Zarovnání struktury musí být 1, 2, 4 nebo 8."
+
+msgid "Success, RX:"
+msgstr "Úspěch, RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "Podpora AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "Podporuje 1/2/4/8 byte packing, little endian/big endian, více po sobě jdoucích záznamů a výzvy ke konci zbývajícího bajtu."
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "Podporuje IPv4, IPv6 (např. ::1) a název hostitele"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "Podporuje základní typy, pole s pevnou délkou a definované vnořené struktury."
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "Podporuje binární soubory, zobrazení průběhu a operace zrušení; Výsledky dekódování jiné než UTF-8 lze uložit jako soubory."
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "Podporuje získávání aktuálního času, kopírování časového razítka a textu UTC a kontrolu rozsahu hodnot a formátu data."
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "Podporuje vnořené struktury, základní celá čísla, float, double, bool, znaky a pole s pevnou délkou;"
+
+msgid "Swap input and output"
+msgstr "Zaměňte vstup a výstup"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "Synchronizace dokončena, celkem bylo zkopírováno %lu souborů."
+
+msgid "Synchronization interruption"
+msgstr "Přerušení synchronizace"
+
+msgid "TCP client"
+msgstr "TCP klient"
+
+msgid "TCP connection failed or timed out."
+msgstr "Připojení TCP selhalo nebo vypršel časový limit."
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "Příjem TCP selhal nebo bylo přerušeno připojení."
+
+msgid "TCP send failed."
+msgstr "Odeslání TCP se nezdařilo."
+
+msgid "Tag:"
+msgstr "Štítek:"
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "Cílová šířka: %lu číslic; Soubory %lu budou přejmenovány."
+
+msgid "Testing has been stopped."
+msgstr "Testování bylo zastaveno."
+
+msgid "Testing is complete."
+msgstr "Testování je dokončeno."
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "Kódování textu je detekováno podle GB18030-2022, UTF-8 a místní kódové stránky. Maximální velikost jednoho souboru je 256 MiB."
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "Text je hašován pomocí kódování UTF-8"
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "Text je zpracován pomocí kódování UTF-8"
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "Soubor BIN nelze přečíst nebo soubor přesahuje 256 MiB."
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "Téma MQTT PUBLISH je neplatné."
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "MQTT SUBACK je neplatný nebo bylo předplatné odmítnuto."
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "Zpráva MQTT SUBSCRIBE je neplatná."
+
+msgid "The MQTT publish topic is invalid."
+msgstr "Téma publikování MQTT je neplatné."
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "Téma předplatného MQTT je neplatné."
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "Datum nebo čas UTC je mimo platný rozsah."
+
+msgid "The UTC time contains an invalid number."
+msgstr "Čas UTC obsahuje neplatné číslo."
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "Formát času UTC by měl být RRRR-MM-DD HH:MM:SS[.mmm]."
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "Partner WebSocket ukončil připojení."
+
+msgid "The barcode content cannot be empty."
+msgstr "Obsah čárového kódu nemůže být prázdný."
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "Přenosová rychlost musí být celé číslo mezi 1 a 4000000."
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "Dekódovaný výsledek není text UTF-8. Výstup do souboru pro zachování binárních dat."
+
+msgid "The dropped file or directory is invalid."
+msgstr "Zahozený soubor nebo adresář je neplatný."
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "Soubor přesahuje 16 MiB. Zapisujte do souboru, abyste se vyhnuli nadměrnému využití paměti textového pole."
+
+msgid "The header file directory is invalid."
+msgstr "Adresář souboru záhlaví je neplatný."
+
+msgid "The input and output files cannot be the same."
+msgstr "Vstupní a výstupní soubory nemohou být stejné."
+
+msgid "The language setting could not be saved."
+msgstr "Nastavení jazyka nelze uložit."
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "Poslední člen musí být pole pro dynamické pole ocasu."
+
+msgid "The match expression cannot be empty."
+msgstr "Shodný výraz nemůže být prázdný."
+
+msgid "The parsing results have been cleared."
+msgstr "Výsledky analýzy byly vymazány."
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "Předposlední člen musí být 8-32bitový celočíselný skalár pro dynamické pole zakončení."
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "Mezipaměť příjmu překročila limit a byla vymazána."
+
+msgid "The received data cannot be empty."
+msgstr "Přijatá data nemohou být prázdná."
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "Přijaté rámce nemohou být stejné nebo před sebou, jinak TCP/sériový port nemůže určit hranici rámce."
+
+msgid "The regular expression is invalid."
+msgstr "Regulární výraz je neplatný."
+
+msgid "The replacement produced an invalid filename."
+msgstr "Nahrazení vytvořilo neplatný název souboru."
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "Přijatý požadavek nebyl platný MQTT 3.1.1 CONNECT."
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "Přijatý požadavek nebyl platným navázáním spojení WebSocket RFC 6455."
+
+msgid "The root structure is invalid."
+msgstr "Kořenová struktura je neplatná."
+
+msgid "The serial port or host cannot be empty."
+msgstr "Sériový port nebo hostitel nesmí být prázdný."
+
+msgid "The server has ended."
+msgstr "Server skončil."
+
+msgid "The server has stopped."
+msgstr "Server se zastavil."
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "Server odmítl upgrade WebSocket nebo byla odpověď handshake neplatná."
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "Tyto dvě složky nemohou být stejné, ani nemohou být navzájem podadresáři."
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "Formát hodnoty je neplatný nebo je mimo rozsah 64bitového celého čísla bez znaménka."
+
+msgid "Timeout (ms):"
+msgstr "Časový limit (ms):"
+
+msgid "Timestamp"
+msgstr "Časové razítko"
+
+msgid "Timestamp converter"
+msgstr "Konvertor časových razítek"
+
+msgid "To be synchronized: %lu files"
+msgstr "K synchronizaci: soubory %lu"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Total lines"
+msgstr "Celkem řádků"
+
+msgid "Try again:"
+msgstr "Zkuste to znovu:"
+
+msgid "UDP reception failed."
+msgstr "Příjem UDP se nezdařil."
+
+msgid "UDP send failed."
+msgstr "Odeslání UDP se nezdařilo."
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "Vstup UTC může používat oddělovač mezery nebo T a volitelný koncový Z."
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "Čas UTC (RRRR-MM-DD HH:MM:SS[.mmm])"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "Čas UTC převedený na unixové časové razítko."
+
+msgid "UTF-8 text"
+msgstr "Text UTF-8"
+
+msgid "Unable to bind UDP port."
+msgstr "Nelze svázat port UDP."
+
+msgid "Unable to calculate relative path:"
+msgstr "Nelze vypočítat relativní cestu:"
+
+msgid "Unable to create communication channel."
+msgstr "Nelze vytvořit komunikační kanál."
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "Nelze vytvořit mapování souborů (chyba %lu)"
+
+msgid "Unable to get file size (%s)"
+msgstr "Nelze získat velikost souboru (%s)"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "Nelze získat velikost souboru (chyba %lu)"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "Nelze inicializovat subsystém síťového soketu; síťové nástroje nejsou k dispozici."
+
+msgid "Unable to listen on MQTT port."
+msgstr "Nelze poslouchat na portu MQTT."
+
+msgid "Unable to listen on TCP port."
+msgstr "Nelze poslouchat na portu TCP."
+
+msgid "Unable to listen on WebSocket port."
+msgstr "Nelze poslouchat na portu WebSocket."
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "Nelze otevřít místní port UDP (rodina adres nebo port není k dispozici)."
+
+msgid "Unable to open file: %s (%s)"
+msgstr "Nelze otevřít soubor: %s (%s)"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "Nelze otevřít soubor: %s (chyba %lu)"
+
+msgid "Unable to open serial port:"
+msgstr "Nelze otevřít sériový port:"
+
+msgid "Unable to read directory:"
+msgstr "Nelze číst adresář:"
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "Nelze přečíst soubor záhlaví nebo soubor přesahuje 16 MiB:"
+
+msgid "Unable to read serial port configuration."
+msgstr "Nelze přečíst konfiguraci sériového portu."
+
+msgid "Unable to reread file during replacement: "
+msgstr "Během výměny nelze znovu přečíst soubor:"
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "Nelze přeložit adresu IPv4/IPv6:"
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "Nelze přeložit IPv4/IPv6 naslouchací adresu:"
+
+msgid "Unable to resolve type:"
+msgstr "Nelze vyřešit typ:"
+
+msgid "Unable to set serial port parameters."
+msgstr "Nelze nastavit parametry sériového portu."
+
+msgid "Unable to start server thread."
+msgstr "Nelze spustit vlákno serveru."
+
+msgid "Unable to start test thread."
+msgstr "Testovací vlákno nelze spustit."
+
+msgid "Unix / UTC conversion"
+msgstr "Převod Unix / UTC"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Sekundy Unixu jsou mimo konvertibilní rozsah."
+
+msgid "Unix timestamp"
+msgstr "Unixové časové razítko"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "Unixové časové razítko nemůže být prázdné."
+
+msgid "Unix timestamp converted to UTC."
+msgstr "Unixové časové razítko převedené na UTC."
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "Unixové časové razítko není platné 64bitové celé číslo."
+
+msgid "Unknown or undefined member type."
+msgstr "Neznámý nebo nedefinovaný typ členu."
+
+msgid "Use private key"
+msgstr "Použijte soukromý klíč"
+
+msgid "Use public key"
+msgstr "Použijte veřejný klíč"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "Použijte regulární výrazy k nahrazení názvů souborů a textu v dávkách"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "Používá se k zajištění souladu pořadí slovníků s přirozeným pořadím číslování a ke kontrole konfliktů před přejmenováním."
+
+msgid "Value copied to the clipboard."
+msgstr "Hodnota zkopírována do schránky."
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "Rozsah hodnot: 0 až 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "Ověřte obsah odpovědi (není-li zaškrtnuto, počkejte pouze na nakonfigurovanou délku)"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "Verze %d; moduly %d × %d; obrázek %d × %d."
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "Prohlížejte a upravujte každý bit 64bitového celého čísla bez znaménka"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "Upozornění: Crypto++ nazývá svou implementaci XXTEA BTEA a označuje ji jako nedůkladně testovanou; vstup musí být alespoň 8 bajtů a násobek 4."
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "Upozornění: ECB odhaluje datové vzorce a nedoporučuje se pro skutečná data."
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "Upozornění: Preferujte OAEP; PKCS#1 v1.5 je poskytován pouze z důvodu kompatibility."
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "Upozornění: Tento algoritmus je nezabezpečený a je poskytován pouze z důvodu kompatibility se staršími verzemi."
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "Upozornění: Tento algoritmus je určen pro starší systémy nebo protokoly; pro nová data preferujte AES-GCM."
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "HTTP hlavička WebSocket je příliš velká nebo neúplná."
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "Připojení WebSocket TCP selhalo nebo vypršel časový limit."
+
+msgid "WebSocket client"
+msgstr "Klient WebSocket"
+
+msgid "WebSocket connection disconnected."
+msgstr "Připojení WebSocket odpojeno."
+
+msgid "WebSocket handshake connection broken."
+msgstr "Spojení handshake WebSocket bylo přerušeno."
+
+msgid "WebSocket handshake timed out."
+msgstr "Vypršel časový limit pro handshake WebSocket."
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "Zpráva WebSocket překračuje limit 16 MiB."
+
+msgid "WebSocket path mismatch."
+msgstr "Neshoda cesty WebSocket."
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "Cesta požadavku WebSocket, například /ws; aktuálně podporuje ws://, ale nepodporuje TLS/wss://"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "Odeslání WebSocket se nezdařilo nebo bylo odpojeno připojení."
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "Když je povoleno ověřování odpovědi, očekávaná odpověď nemůže být prázdná."
+
+msgid "Width"
+msgstr "šířka"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "Šířka se počítá zvlášť pro každou složku; bude přejmenováno %lu souborů."
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows podporuje 1/1,5/2 stop bity, všechny kontrolní součty a kombinace řízení toku; konkrétní kombinace Linux/macOS jsou omezeny systémovým ovladačem."
+
+msgid "Write to file:"
+msgstr "Zapsat do souboru:"
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA / BTEA (experimentální)"
+
+msgid "You can drop a file onto this page."
+msgstr "Na tuto stránku můžete přetáhnout soubor."
+
+msgid "Zero-pad filenames"
+msgstr "Názvy souborů s nulovým polem"
+
+msgid "Zero-padded filename"
+msgstr "Nulově vyplněný název souboru"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "Nulové odsazení by vytvořilo duplicitní název souboru:"
+
+msgid "[stop]"
+msgstr "[stop]"
+
+msgid "ask"
+msgstr "zeptat se"
+
+msgid "ask:"
+msgstr "zeptat se:"
+
+msgid "big endian"
+msgstr "velký endian"
+
+msgid "communication client"
+msgstr "komunikačního klienta"
+
+msgid "communication server"
+msgstr "komunikační server"
+
+msgid "delay"
+msgstr "zpoždění"
+
+msgid "direction"
+msgstr "směr"
+
+msgid "even parity"
+msgstr "sudá parita"
+
+msgid "expect '"
+msgstr "očekávat'"
+
+msgid "folder 1"
+msgstr "složka 1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\nSestaveno: %s %s wxWidgets %s %s"
+
+msgid "include is missing the closing quote:"
+msgstr "include chybí závěrečná citace:"
+
+msgid "little endian"
+msgstr "malý endian"
+
+msgid "mapping"
+msgstr "mapování"
+
+msgid "mark"
+msgstr "značka"
+
+msgid "member"
+msgstr "člen"
+
+msgid "name"
+msgstr "jméno"
+
+msgid "name:"
+msgstr "jméno:"
+
+msgid "none"
+msgstr "žádný"
+
+msgid "odd parity"
+msgstr "lichá parita"
+
+msgid "offset"
+msgstr "offset"
+
+msgid "parse"
+msgstr "rozebrat"
+
+msgid "parsed value"
+msgstr "analyzovanou hodnotu"
+
+msgid "path:"
+msgstr "cesta:"
+
+msgid "port:"
+msgstr "port:"
+
+msgid "receive timeout"
+msgstr "přijímat časový limit"
+
+msgid "release:"
+msgstr "uvolnit:"
+
+msgid "reset"
+msgstr "resetovat"
+
+msgid "result"
+msgstr "výsledek"
+
+msgid "send"
+msgstr "poslat"
+
+msgid "send/receive pair"
+msgstr "odeslat/přijmout pár"
+
+msgid "serial number"
+msgstr "sériové číslo"
+
+msgid "size"
+msgstr "velikost"
+
+msgid "source"
+msgstr "zdroj"
+
+msgid "space"
+msgstr "prostor"
+
+msgid "start"
+msgstr "začít"
+
+msgid "stop"
+msgstr "zastavit"
+
+msgid "subscription:"
+msgstr "předplatné:"
+
+msgid "synchronous"
+msgstr "synchronní"
+
+msgid "take over"
+msgstr "převzít"
+
+msgid "test frame"
+msgstr "zkušební rám"
+
+msgid "test stopped"
+msgstr "test zastaven"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "je povolena předpona 0x a rozsah Latin-1 je 00–FF."
+
+msgid "type"
+msgstr "typu"
+
+msgid "union is not supported."
+msgstr "unie není podporována."

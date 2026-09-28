@@ -1,0 +1,29 @@
+{
+  "version": 6,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 20,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "windows-xp-x86-release",
+      "displayName": "Windows XP+ x86 Release (w64devkit)",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/windows-x86-release",
+      "toolchainFile": "${sourceDir}/cmake/w64devkit-x86.cmake",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_MAKE_PROGRAM": "D:/tools/w64devkit/bin/ninja.exe"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "windows-xp-x86-release",
+      "configurePreset": "windows-xp-x86-release",
+      "jobs": 0
+    }
+  ]
+}
+

@@ -1,0 +1,1864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTool\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%lu characters; image %d × %d."
+msgstr "Ký tự %lu; hình ảnh %d × %d."
+
+msgid "%lu files completed; failed to rename:\n%s"
+msgstr "Đã hoàn thành các tệp %lu; không thể đổi tên:\n%s"
+
+msgid "%lu files will be copied; newer files of the same name will overwrite older files. Continue?"
+msgstr "Các tệp %lu sẽ được sao chép; các tập tin mới hơn cùng tên sẽ ghi đè lên các tập tin cũ hơn. Tiếp tục?"
+
+msgid "%lu files: total %lu, code %lu, comments %lu, blank %lu; skipped %lu"
+msgstr "Các tệp %lu: tổng số %lu, mã %lu, nhận xét %lu, %lu trống; đã bỏ qua %lu"
+
+msgid "%lu header file entries have been loaded; include will be expanded recursively during parsing."
+msgstr "Các mục nhập tệp tiêu đề %lu đã được tải; include sẽ được mở rộng đệ quy trong quá trình phân tích cú pháp."
+
+msgid "%s completed: %u -> %u bytes"
+msgstr "%s đã hoàn thành: %u -> %u byte"
+
+msgid "/ No verification"
+msgstr "/ Không xác minh"
+
+msgid "/check"
+msgstr "/kiểm tra"
+
+msgid "1 byte (compact)"
+msgstr "1 byte (nhỏ gọn)"
+
+msgid "1.5 stop bits can only be used in combination with 5 data bits."
+msgstr "1,5 bit dừng chỉ có thể được sử dụng kết hợp với 5 bit dữ liệu."
+
+msgid "2 bytes"
+msgstr "2 byte"
+
+msgid "3DES (legacy)"
+msgstr "3DES (cũ)"
+
+msgid "4 bytes"
+msgstr "4 byte"
+
+msgid "5 data bits cannot be combined with 2 stop bits."
+msgstr "5 bit dữ liệu không thể kết hợp với 2 bit stop."
+
+msgid "64-bit unsigned integer"
+msgstr "Số nguyên không dấu 64-bit"
+
+msgid "8 bytes"
+msgstr "8 byte"
+
+msgid "A custom parameter exceeds the bit width specified by Width."
+msgstr "Tham số tùy chỉnh vượt quá độ rộng bit được chỉ định bởi Chiều rộng."
+
+msgid "A duplicate target filename exists; operation stopped."
+msgstr "Tồn tại tên tệp mục tiêu trùng lặp; hoạt động đã dừng lại."
+
+msgid "A sync preview will be automatically generated after selecting two folders."
+msgstr "Bản xem trước đồng bộ hóa sẽ được tạo tự động sau khi chọn hai thư mục."
+
+msgid "A zero-length array is only supported as the last structure member."
+msgstr "Mảng có độ dài bằng 0 chỉ được hỗ trợ làm thành viên cấu trúc cuối cùng."
+
+msgid "AAD (UTF-8):"
+msgstr "AAD (UTF-8):"
+
+msgid "ASCII converter"
+msgstr "Bộ chuyển đổi ASCII"
+
+msgid "ASCII string"
+msgstr "chuỗi ASCII"
+
+msgid "ASCII text can only contain characters from 0x00 to 0x7F."
+msgstr "Văn bản ASCII chỉ có thể chứa các ký tự từ 0x00 đến 0x7F."
+
+msgid "ASCII text cannot be empty."
+msgstr "Văn bản ASCII không được để trống."
+
+msgid "About (&A)"
+msgstr "Giới thiệu (&A)"
+
+msgid "About iTool"
+msgstr "Giới thiệu về iTool"
+
+msgid "About to modify %lu files. This cannot be undone automatically. Continue?"
+msgstr "Sắp sửa đổi các tệp %lu. Điều này không thể được hoàn tác tự động. Tiếp tục?"
+
+msgid "About to rename %lu files. Continue?"
+msgstr "Sắp đổi tên các tệp %lu. Tiếp tục?"
+
+msgid "Add leading zeros to numbered filenames for natural sorting"
+msgstr "Thêm số 0 đứng đầu vào tên tệp được đánh số để sắp xếp tự nhiên"
+
+msgid "Add new receive/send pair"
+msgstr "Thêm cặp nhận/gửi mới"
+
+msgid "Add new send/receive pair"
+msgstr "Thêm cặp gửi/nhận mới"
+
+msgid "Added receive/send mapping"
+msgstr "Đã thêm ánh xạ nhận/gửi"
+
+msgid "Adds 80 first, then pads with 00."
+msgstr "Đầu tiên thêm 80, sau đó thêm 00."
+
+msgid "Algorithm and parameters"
+msgstr "Thuật toán và tham số"
+
+msgid "Algorithm:"
+msgstr "Thuật toán:"
+
+msgid "Algorithms (22 types): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Multiple algorithms can be calculated at once."
+msgstr "Thuật toán (22 loại): MD5; SHA1; SHA2-224/256/384/512; SHA3-224/256/384/512; Keccak-224/256/384/512; RIPEMD-128/160/256/320; BLAKE2s-256; BLAKE2b-256/512; SM3. Nhiều thuật toán có thể được tính toán cùng một lúc."
+
+msgid "Aliases cannot be provided after the closing curly brace of a non-typedef structure."
+msgstr "Không thể cung cấp bí danh sau dấu ngoặc nhọn đóng của cấu trúc không phải typedef."
+
+msgid "Alignment:"
+msgstr "Căn chỉnh:"
+
+msgid "All files (*.*)|*.*"
+msgstr "Tất cả các tệp (*.*)|*.*"
+
+msgid "Anonymous structures must provide a typedef name."
+msgstr "Cấu trúc ẩn danh phải cung cấp tên typedef."
+
+msgid "Any non-empty"
+msgstr "Bất kỳ thứ gì không trống"
+
+msgid "Array length missing."
+msgstr "Độ dài mảng bị thiếu."
+
+msgid "Array length must be a positive integer or a defined numeric macro."
+msgstr "Độ dài mảng phải là số nguyên dương hoặc macro số được xác định."
+
+msgid "Array length must be greater than zero."
+msgstr "Độ dài mảng phải lớn hơn 0."
+
+msgid "Automatically calculate checksum, adjust zoom and copy image or save as PNG."
+msgstr "Tự động tính toán tổng kiểm tra, điều chỉnh thu phóng và sao chép hình ảnh hoặc lưu dưới dạng PNG."
+
+msgid "BIN file"
+msgstr "tập tin BIN"
+
+msgid "Barcode encoder"
+msgstr "Bộ mã hóa mã vạch"
+
+msgid "Barcode encoding"
+msgstr "Mã hóa mã vạch"
+
+msgid "Barcode height:"
+msgstr "Chiều cao mã vạch:"
+
+msgid "Barcode image copied."
+msgstr "Đã sao chép hình ảnh mã vạch."
+
+msgid "Base64"
+msgstr "cơ sở64"
+
+msgid "Base64 encoding and decoding; input and output can independently select UTF-8 text or files;"
+msgstr "Mã hóa và giải mã Base64; đầu vào và đầu ra có thể chọn văn bản hoặc tệp UTF-8 một cách độc lập;"
+
+msgid "Base64 error"
+msgstr "Lỗi Base64"
+
+msgid "Baud rate:"
+msgstr "Tốc độ truyền:"
+
+msgid "Bidirectional conversion between 64-bit Unix timestamp and UTC date and time; timestamp unit supports seconds and milliseconds;"
+msgstr "Chuyển đổi hai chiều giữa dấu thời gian Unix 64-bit và ngày giờ UTC; đơn vị dấu thời gian hỗ trợ giây và mili giây;"
+
+msgid "Binary"
+msgstr "nhị phân"
+
+msgid "Binary files (*.bin)|*.bin|All files (*.*)|*.*"
+msgstr "Tệp nhị phân (*.bin)|*.bin|Tất cả các tệp (*.*)|*.*"
+
+msgid "Bit field members are not supported."
+msgstr "Các thành viên trường bit không được hỗ trợ."
+
+msgid "Bits set: %d / 64"
+msgstr "Bộ bit: %d / 64"
+
+msgid "Bitset64"
+msgstr "Bitset64"
+
+msgid "Blank"
+msgstr "trống"
+
+msgid "Both folders have been synchronized."
+msgstr "Cả hai thư mục đã được đồng bộ hóa."
+
+msgid "C structure definition"
+msgstr "Định nghĩa cấu trúc C"
+
+msgid "CBC/ECB optional PKCS, Zero, ISO/IEC 7816-4 or no padding; supports secure random key, IV/Nonce and RSA key pair generation."
+msgstr "CBC/ECB tùy chọn PKCS, Zero, ISO/IEC 7816-4 hoặc không có phần đệm; hỗ trợ khóa ngẫu nhiên an toàn, tạo cặp khóa IV/Nonce và RSA."
+
+msgid "CRC calculation error"
+msgstr "Lỗi tính toán CRC"
+
+msgid "CRC calculator"
+msgstr "máy tính CRC"
+
+msgid "Calculate"
+msgstr "Tính toán"
+
+msgid "Calculate hashes for text, hexadecimal data, or files"
+msgstr "Tính toán giá trị băm cho văn bản, dữ liệu thập lục phân hoặc tệp"
+
+msgid "Calculate standard and custom CRC values for text, bytes, or files"
+msgstr "Tính toán giá trị CRC tiêu chuẩn và tùy chỉnh cho văn bản, byte hoặc tệp"
+
+msgid "Calculating file CRC in the background ..."
+msgstr "Tính toán tập tin CRC trong nền ..."
+
+msgid "Calculation completed."
+msgstr "Tính toán hoàn tất."
+
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+msgid "Canceled."
+msgstr "Đã hủy."
+
+msgid "Character %lu, “%s”, is outside the Latin-1 range (00–FF)."
+msgstr "Ký tự %lu, “%s”, nằm ngoài phạm vi Latin-1 (00–FF)."
+
+msgid "Clear"
+msgstr "Xóa"
+
+msgid "Clear all"
+msgstr "Xóa tất cả"
+
+msgid "Clear log"
+msgstr "Xóa nhật ký"
+
+msgid "Clear results"
+msgstr "Xóa kết quả"
+
+msgid "Cleared."
+msgstr "Đã xóa."
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Code"
+msgstr "Mã"
+
+msgid "Code 128-B content"
+msgstr "Nội dung mã 128-B"
+
+msgid "Code 128-B content cannot exceed 200 characters."
+msgstr "Nội dung mã 128-B không được vượt quá 200 ký tự."
+
+msgid "Code 128-B generates the checksum automatically."
+msgstr "Mã 128-B tự động tạo tổng kiểm tra."
+
+msgid "Code 128-B only supports ASCII 32~126 characters."
+msgstr "Mã 128-B chỉ hỗ trợ ký tự ASCII 32~126."
+
+msgid "Code and comments can be counted on the same line (for example, trailing comments)."
+msgstr "Mã và nhận xét có thể được tính trên cùng một dòng (ví dụ: nhận xét ở cuối)."
+
+msgid "Comments"
+msgstr "Bình luận"
+
+msgid "Common baud rates can be selected or manually entered from 1 to 4000000."
+msgstr "Tốc độ truyền phổ biến có thể được chọn hoặc nhập thủ công từ 1 đến 4000000."
+
+msgid "Commonly used files such as HTML/XML, CSS, Vue, CMake and their comment styles; the maximum size of a single file is 512 MiB."
+msgstr "Các tệp thường được sử dụng như HTML/XML, CSS, Vue, CMake và các kiểu nhận xét của chúng; kích thước tối đa của một tệp là 512 MiB."
+
+msgid "Communication client"
+msgstr "Khách hàng truyền thông"
+
+msgid "Communication client: Windows, Linux, and macOS all support serial ports, and support TCP, UDP, WebSocket, and MQTT 3.1.1; request/response data can be optionally Hex or ASCII;"
+msgstr "Máy khách giao tiếp: Windows, Linux và macOS đều hỗ trợ cổng nối tiếp và hỗ trợ TCP, UDP, WebSocket và MQTT 3.1.1; dữ liệu yêu cầu/phản hồi có thể là Hex hoặc ASCII tùy chọn;"
+
+msgid "Communication server"
+msgstr "Máy chủ truyền thông"
+
+msgid "Communication server: Windows, Linux, and macOS can all monitor the serial port and support TCP, UDP, WebSocket, and MQTT 3.1.1; receiving frames can be Hex or ASCII;"
+msgstr "Máy chủ truyền thông: Windows, Linux và macOS đều có thể giám sát cổng nối tiếp và hỗ trợ TCP, UDP, WebSocket và MQTT 3.1.1; khung nhận có thể là Hex hoặc ASCII;"
+
+msgid "Compare two directories and synchronize newer or one-sided files"
+msgstr "So sánh hai thư mục và đồng bộ hóa các tệp mới hơn hoặc một mặt"
+
+msgid "Compare two folders and their subdirectories; generate synchronized previews based on modification time; copy newer files and single-sided files in both directions;"
+msgstr "So sánh hai thư mục và thư mục con của chúng; tạo các bản xem trước được đồng bộ hóa dựa trên thời gian sửa đổi; sao chép các tệp mới hơn và tệp một mặt theo cả hai hướng;"
+
+msgid "Completed %lu files, copy failed:\n%s"
+msgstr "Đã hoàn thành các tệp %lu, sao chép không thành công:\n%s"
+
+msgid "Completed: %llu bytes, %lu algorithms."
+msgstr "Đã hoàn thành: byte %llu, thuật toán %lu."
+
+msgid "Completed: %lu files modified."
+msgstr "Đã hoàn thành: Các tệp %lu đã được sửa đổi."
+
+msgid "Completed: %lu files renamed."
+msgstr "Đã hoàn thành: Đã đổi tên các tệp %lu."
+
+msgid "Confirm rename"
+msgstr "Xác nhận đổi tên"
+
+msgid "Confirm replacement"
+msgstr "Xác nhận thay thế"
+
+msgid "Confirm synchronization"
+msgstr "Xác nhận đồng bộ hóa"
+
+msgid "Content matches"
+msgstr "Nội dung trùng khớp"
+
+msgid "Conversion completed."
+msgstr "Chuyển đổi hoàn tất."
+
+msgid "Convert"
+msgstr "Chuyển đổi"
+
+msgid "Convert between 64-bit Unix timestamps and UTC date/time"
+msgstr "Chuyển đổi giữa dấu thời gian Unix 64 bit và ngày/giờ UTC"
+
+msgid "Convert between hexadecimal strings and ASCII"
+msgstr "Chuyển đổi giữa các chuỗi thập lục phân và ASCII"
+
+msgid "Convert files or UTF-8 text to and from Base64"
+msgstr "Chuyển đổi tệp hoặc văn bản UTF-8 sang và từ Base64"
+
+msgid "Convert to Base64"
+msgstr "Chuyển đổi sang Base64"
+
+msgid "Convert to UTC ↓"
+msgstr "Chuyển đổi sang UTC ↓"
+
+msgid "Convert to Unix ↑"
+msgstr "Chuyển đổi sang Unix ↑"
+
+msgid "Converted bytes: %llu"
+msgstr "Số byte đã chuyển đổi: %llu"
+
+msgid "Copied to the clipboard."
+msgstr "Đã sao chép vào bảng nhớ tạm."
+
+msgid "Copy"
+msgstr "Sao chép"
+
+msgid "Copy image"
+msgstr "Sao chép hình ảnh"
+
+msgid "Copy result"
+msgstr "Sao chép kết quả"
+
+msgid "Count a single file or directory, you can choose whether to recurse and customize the extension; count total lines, code, comments and blank lines respectively;"
+msgstr "Đếm một tệp hoặc thư mục, bạn có thể chọn có lặp lại và tùy chỉnh tiện ích mở rộng hay không; đếm tổng số dòng, mã, nhận xét và dòng trống tương ứng;"
+
+msgid "Count results cleared."
+msgstr "Đếm kết quả đã xóa."
+
+msgid "Count total, code, comment, and blank lines by file"
+msgstr "Đếm tổng số, mã, nhận xét và dòng trống theo tệp"
+
+msgid "Crypto++ conversion failed: "
+msgstr "Chuyển đổi Crypto++ không thành công:"
+
+msgid "Current UTC time loaded."
+msgstr "Đã tải thời gian UTC hiện tại."
+
+msgid "Current time"
+msgstr "thời gian hiện tại"
+
+msgid "Custom"
+msgstr "tùy chỉnh"
+
+msgid "Custom Init, Poly, and XorOut must be hexadecimal numbers."
+msgstr "Init, Poly và XorOut tùy chỉnh phải là số thập lục phân."
+
+msgid "Custom Width supports only 8, 16, 24, 32, or 64."
+msgstr "Chiều rộng tùy chỉnh chỉ hỗ trợ 8, 16, 24, 32 hoặc 64."
+
+msgid "Custom algorithm: Width, Init, Poly, XorOut, RefIn, RefOut can be set, and multiple algorithm calculations can be selected at the same time."
+msgstr "Thuật toán tùy chỉnh: Có thể đặt Chiều rộng, Init, Poly, XorOut, RefIn, RefOut và có thể chọn nhiều phép tính thuật toán cùng một lúc."
+
+msgid "DES (legacy)"
+msgstr "DES (cũ)"
+
+msgid "Data bits:"
+msgstr "Bit dữ liệu:"
+
+msgid "Decimal"
+msgstr "thập phân"
+
+msgid "Decode from Base64"
+msgstr "Giải mã từ Base64"
+
+msgid "Decrypt"
+msgstr "Giải mã"
+
+msgid "Decryption"
+msgstr "Giải mã"
+
+msgid "Delay before sending (ms):"
+msgstr "Độ trễ trước khi gửi (ms):"
+
+msgid "Delete selected receive/send mapping"
+msgstr "Xóa ánh xạ nhận/gửi đã chọn"
+
+msgid "Delete selected send/receive pair"
+msgstr "Xóa cặp gửi/nhận đã chọn"
+
+msgid "Determine width from the largest number"
+msgstr "Xác định chiều rộng từ số lớn nhất"
+
+msgid "Direction"
+msgstr "Hướng"
+
+msgid "Directory sync"
+msgstr "Đồng bộ hóa thư mục"
+
+msgid "Directory:"
+msgstr "Thư mục:"
+
+msgid "Dropped directory accepted."
+msgstr "Thư mục bị xóa được chấp nhận."
+
+msgid "Dropped file accepted."
+msgstr "Tập tin bị rơi được chấp nhận."
+
+msgid "Dynamic tail array length is too large."
+msgstr "Độ dài mảng đuôi động quá lớn."
+
+msgid "Dynamic tail array requires at least two structure members."
+msgstr "Mảng đuôi động yêu cầu ít nhất hai thành viên cấu trúc."
+
+msgid "ECB (legacy)"
+msgstr "ECB (cũ)"
+
+msgid "Each hexadecimal value and bit status are updated together, supporting copying the results."
+msgstr "Mỗi giá trị thập lục phân và trạng thái bit được cập nhật cùng nhau, hỗ trợ sao chép kết quả."
+
+msgid "Edit receive/send pairs"
+msgstr "Chỉnh sửa cặp nhận/gửi"
+
+msgid "Edit selected receive/send mapping"
+msgstr "Chỉnh sửa ánh xạ nhận/gửi đã chọn"
+
+msgid "Edit selected send/receive pair"
+msgstr "Chỉnh sửa cặp gửi/nhận đã chọn"
+
+msgid "Edit send/receive pairs"
+msgstr "Chỉnh sửa cặp gửi/nhận"
+
+msgid "Enable this mapping"
+msgstr "Bật ánh xạ này"
+
+msgid "Encode ASCII text as a Code 128-B barcode"
+msgstr "Mã hóa văn bản ASCII dưới dạng mã vạch Mã 128-B"
+
+msgid "Encode UTF-8 text as a QR Code image"
+msgstr "Mã hóa văn bản UTF-8 dưới dạng hình ảnh Mã QR"
+
+msgid "Encode UTF-8 text into QR Code; automatically select the QR code version; support L (about 7%), M (about 15%),"
+msgstr "Mã hóa văn bản UTF-8 thành Mã QR; tự động chọn phiên bản mã QR; hỗ trợ L (khoảng 7%), M (khoảng 15%),"
+
+msgid "Encode text in the range of ASCII 32 to 126 and up to 200 characters into Code 128-B;"
+msgstr "Mã hóa văn bản trong phạm vi ASCII 32 đến 126 và tối đa 200 ký tự thành Mã 128-B;"
+
+msgid "Encoding detection: GB18030-2022 -> UTF-8 -> local code page; maximum 256 MiB per file."
+msgstr "Phát hiện mã hóa: GB18030-2022 -> UTF-8 -> trang mã cục bộ; tối đa 256 MiB cho mỗi tệp."
+
+msgid "Encountered failure and stopped as configured."
+msgstr "Đã gặp lỗi và dừng như đã định cấu hình."
+
+msgid "Encrypt"
+msgstr "Mã hóa"
+
+msgid "Encrypt and decrypt data using Crypto++ algorithms"
+msgstr "Mã hóa và giải mã dữ liệu bằng thuật toán Crypto++"
+
+msgid "Encryption"
+msgstr "Mã hóa"
+
+msgid "Encryption / Decryption"
+msgstr "Mã hóa/Giải mã"
+
+msgid "Encryption/decryption error"
+msgstr "Lỗi mã hóa/giải mã"
+
+msgid "Endianness:"
+msgstr "Độ bền:"
+
+msgid "Enter Hex data, for example: 31 32 33 34 35 36 37 38 39"
+msgstr "Nhập dữ liệu Hex, ví dụ: 31 32 33 34 35 36 37 38 39"
+
+msgid "Enter a 64-bit unsigned integer in hexadecimal, decimal or binary; display and click to edit bits 0~63;"
+msgstr "Nhập số nguyên không dấu 64 bit ở dạng thập lục phân, thập phân hoặc nhị phân; hiển thị và nhấp để chỉnh sửa các bit 0~63;"
+
+msgid "Enter an ASCII string, for example: 123"
+msgstr "Nhập chuỗi ASCII, ví dụ: 123"
+
+msgid "Enter data"
+msgstr "Nhập dữ liệu"
+
+msgid "Enter hexadecimal bytes, for example: 31 32 33"
+msgstr "Nhập byte thập lục phân, ví dụ: 31 32 33"
+
+msgid "Enter the text to convert."
+msgstr "Nhập văn bản để chuyển đổi."
+
+msgid "Error correction:"
+msgstr "Sửa lỗi:"
+
+msgid "Execute multiple sets of tests in configured order, supporting timeouts, loops, result statistics and millisecond timestamp logs."
+msgstr "Thực hiện nhiều bộ kiểm tra theo thứ tự được định cấu hình, hỗ trợ thời gian chờ, vòng lặp, thống kê kết quả và nhật ký dấu thời gian tính bằng mili giây."
+
+msgid "Exit (&X)	Alt-F4"
+msgstr "Thoát (&X) Alt-F4"
+
+msgid "Expected response (leave blank to indicate completion upon receipt of any non-empty data):"
+msgstr "Phản hồi dự kiến (để trống để biểu thị việc hoàn thành khi nhận được bất kỳ dữ liệu nào không trống):"
+
+msgid "Extensions:"
+msgstr "Tiện ích mở rộng:"
+
+msgid "Failed to create the file CRC worker thread."
+msgstr "Không tạo được chuỗi công việc CRC của tệp."
+
+msgid "Failed to initialize CRC."
+msgstr "Không thể khởi tạo CRC."
+
+msgid "Failed to map file (offset %llu, %s)"
+msgstr "Không thể ánh xạ tệp (bù %llu, %s)"
+
+msgid "Failed to map file (offset %llu, error %lu)"
+msgstr "Không thể ánh xạ tệp (offset %llu, lỗi %lu)"
+
+msgid "Failed to parse Hex data."
+msgstr "Không thể phân tích cú pháp dữ liệu Hex."
+
+msgid "Failed to read BIN file."
+msgstr "Không thể đọc tệp BIN."
+
+msgid "Failed to read header file:"
+msgstr "Không đọc được tệp tiêu đề:"
+
+msgid "Failed to rename: "
+msgstr "Không thể đổi tên:"
+
+msgid "Failed to save PNG."
+msgstr "Không lưu được PNG."
+
+msgid "Failed to start the file CRC worker thread."
+msgstr "Không thể khởi động chuỗi công việc CRC của tệp."
+
+msgid "Failed to update the CRC32/POSIX length."
+msgstr "Không thể cập nhật độ dài CRC32/POSIX."
+
+msgid "Failed to write file: "
+msgstr "Không thể ghi tập tin:"
+
+msgid "Features\n\n"
+msgstr "Tính năng"
+
+msgid "File"
+msgstr "tập tin"
+
+msgid "File (&F)"
+msgstr "Tệp (&F)"
+
+msgid "File hash calculation completed."
+msgstr "Tính toán băm tệp đã hoàn tất."
+
+msgid "File or directory:"
+msgstr "Tập tin hoặc thư mục:"
+
+msgid "Filename zero-padding"
+msgstr "Tên tệp không có phần đệm"
+
+msgid "Files with the same name have different sizes but the same modification time, so the direction cannot be safely determined:"
+msgstr "Các tệp có cùng tên có kích thước khác nhau nhưng cùng thời gian sửa đổi nên không thể xác định hướng một cách an toàn:"
+
+msgid "Find and replace"
+msgstr "Tìm và thay thế"
+
+msgid "Flow control:"
+msgstr "Kiểm soát dòng chảy:"
+
+msgid "Folder 1:"
+msgstr "Thư mục 1:"
+
+msgid "Folder 2"
+msgstr "Thư mục 2"
+
+msgid "Folder 2:"
+msgstr "Thư mục 2:"
+
+msgid "Folder sync"
+msgstr "Đồng bộ thư mục"
+
+msgid "Follow system"
+msgstr "Theo dõi hệ thống"
+
+msgid "For example: 123"
+msgstr "Ví dụ: 123"
+
+msgid "For example: 31 32 33 or 0x31, 0x32, 0x33"
+msgstr "Ví dụ: 31 32 33 hoặc 0x31, 0x32, 0x33"
+
+msgid "Format:"
+msgstr "Định dạng:"
+
+msgid "Four error correction levels: Q (approx. 25%), H (approx. 30%); adjust zoom, copy image, or save as PNG."
+msgstr "Bốn mức sửa lỗi: Q (khoảng 25%), H (khoảng 30%); điều chỉnh thu phóng, sao chép hình ảnh hoặc lưu dưới dạng PNG."
+
+msgid "Fractional seconds contain up to three digits."
+msgstr "Phân số giây chứa tối đa ba chữ số."
+
+msgid "From file:"
+msgstr "Từ tập tin:"
+
+msgid "From text box:"
+msgstr "Từ hộp văn bản:"
+
+msgid "GCM (recommended)"
+msgstr "GCM (được khuyến nghị)"
+
+msgid "Generate"
+msgstr "Tạo"
+
+msgid "Generate key pair"
+msgstr "Tạo cặp khóa"
+
+msgid "Generate random"
+msgstr "Tạo ngẫu nhiên"
+
+msgid "H (about 30%)"
+msgstr "H (khoảng 30%)"
+
+msgid "Hash calculation"
+msgstr "Tính toán băm"
+
+msgid "Hash checker"
+msgstr "Trình kiểm tra hàm băm"
+
+msgid "Hash error"
+msgstr "Lỗi băm"
+
+msgid "Header file directory:"
+msgstr "Thư mục tập tin tiêu đề:"
+
+msgid "Header file is not a valid UTF-8 or local encoding:"
+msgstr "Tệp tiêu đề không phải là mã hóa cục bộ hoặc UTF-8 hợp lệ:"
+
+msgid "Help (&H)"
+msgstr "Trợ giúp (&H)"
+
+msgid "Hex bytes may be separated by spaces, commas, semicolons, or line breaks, for example 31 32 33; "
+msgstr "Các byte hex có thể được phân tách bằng dấu cách, dấu phẩy, dấu chấm phẩy hoặc ngắt dòng, ví dụ 31 32 33;"
+
+msgid "Hex data contains invalid characters."
+msgstr "Dữ liệu hex chứa các ký tự không hợp lệ."
+
+msgid "Hex data must contain an even number of hexadecimal digits."
+msgstr "Dữ liệu hex phải chứa số chẵn các chữ số thập lục phân."
+
+msgid "Hex data must contain an even number of numbers."
+msgstr "Dữ liệu hex phải chứa số chẵn."
+
+msgid "Hex input cannot be empty."
+msgstr "Đầu vào hex không được để trống."
+
+msgid "Hex input contains an invalid character."
+msgstr "Đầu vào hex chứa ký tự không hợp lệ."
+
+msgid "Hex input contains invalid characters."
+msgstr "Đầu vào hex chứa các ký tự không hợp lệ."
+
+msgid "Hex input must contain an even number of numbers."
+msgstr "Đầu vào hex phải chứa số chẵn."
+
+msgid "Hex string"
+msgstr "Chuỗi lục giác"
+
+msgid "Hex: 31 32 33 or 313233"
+msgstr "Hệ lục giác: 31 32 33 hoặc 313233"
+
+msgid "Hexadecimal"
+msgstr "thập lục phân"
+
+msgid "Host:"
+msgstr "Chủ nhà:"
+
+msgid "IPv4 full interface: 0.0.0.0; IPv6 full interface:::"
+msgstr "Giao diện đầy đủ của IPv4: 0.0.0.0; Giao diện đầy đủ IPv6 :::"
+
+msgid "IV / Nonce (Hex):"
+msgstr "IV/Nonce (Hex):"
+
+msgid "Include header file not found:"
+msgstr "Bao gồm không tìm thấy tệp tiêu đề:"
+
+msgid "Include subdirectories"
+msgstr "Bao gồm các thư mục con"
+
+msgid "Includes the standard four-module white quiet zone."
+msgstr "Bao gồm vùng yên tĩnh màu trắng bốn mô-đun tiêu chuẩn."
+
+msgid "Incremental CRC calculation failed."
+msgstr "Tính toán CRC tăng dần không thành công."
+
+msgid "Input"
+msgstr "đầu vào"
+
+msgid "Input and output cleared; key parameters retained."
+msgstr "Đầu vào và đầu ra bị xóa; các thông số chính được giữ lại."
+
+msgid "Input: Hex bytes, UTF-8 text, files (large files use chunked memory mapping)."
+msgstr "Đầu vào: byte hex, văn bản UTF-8, tệp (tệp lớn sử dụng ánh xạ bộ nhớ phân đoạn)."
+
+msgid "Input: Hex bytes, UTF-8 text, files (supports drag-and-drop and chunked memory mapping)."
+msgstr "Đầu vào: byte hex, văn bản UTF-8, tệp (hỗ trợ kéo và thả và ánh xạ bộ nhớ phân đoạn)."
+
+msgid "Insufficient data: Dynamic structure header requires %lu bytes."
+msgstr "Dữ liệu không đủ: Tiêu đề cấu trúc động yêu cầu byte %lu."
+
+msgid "Insufficient data: Structure requires %lu bytes."
+msgstr "Dữ liệu không đủ: Cấu trúc yêu cầu byte %lu."
+
+msgid "Interface and log recording millisecond timestamp. The serial port preset baud rate is up to 921600, and a specific baud rate can also be entered manually."
+msgstr "Giao diện và ghi nhật ký dấu thời gian tính bằng mili giây. Tốc độ truyền đặt trước của cổng nối tiếp lên tới 921600 và tốc độ truyền cụ thể cũng có thể được nhập thủ công."
+
+msgid "Invalid Hex character: '%c'."
+msgstr "Ký tự Hex không hợp lệ: '%c'."
+
+msgid "Invalid WebSocket fragment sequence."
+msgstr "Chuỗi phân đoạn WebSocket không hợp lệ."
+
+msgid "Invalid WebSocket frame format or mask direction."
+msgstr "Định dạng khung hoặc hướng mặt nạ WebSocket không hợp lệ."
+
+msgid "Invalid WebSocket opcode."
+msgstr "Mã hoạt động WebSocket không hợp lệ."
+
+msgid "Invalid input"
+msgstr "Đầu vào không hợp lệ"
+
+msgid "Invalid millisecond format."
+msgstr "Định dạng mili giây không hợp lệ."
+
+msgid "Invert all"
+msgstr "Đảo ngược tất cả"
+
+msgid "Item %lu, “%s”, is not a two-digit hexadecimal byte."
+msgstr "Mục %lu, “%s”, không phải là byte thập lục phân gồm hai chữ số."
+
+msgid "Item %lu, “%s”, is not a valid Latin-1 byte (range 00–FF)."
+msgstr "Mục %lu, “%s”, không phải là byte Latin-1 hợp lệ (phạm vi 00–FF)."
+
+msgid "Key (Hex):"
+msgstr "Khóa (Hex):"
+
+msgid "Key length:"
+msgstr "Độ dài khóa:"
+
+msgid "L (about 7%)"
+msgstr "L (khoảng 7%)"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "Line %lu:"
+msgstr "Dòng %lu:"
+
+msgid "Line %lu: Block comment not ended."
+msgstr "Dòng %lu: Chặn bình luận chưa kết thúc."
+
+msgid "Line %lu: Unsupported character '%c'."
+msgstr "Dòng %lu: Ký tự không được hỗ trợ '%c'."
+
+msgid "Line counter"
+msgstr "Bộ đếm dòng"
+
+msgid "Listening address:"
+msgstr "Địa chỉ nghe:"
+
+msgid "Load directory"
+msgstr "Tải thư mục"
+
+msgid "Local port:"
+msgstr "Cảng địa phương:"
+
+msgid "M (about 15%)"
+msgstr "M (khoảng 15%)"
+
+msgid "MQTT Broker connection failed or timed out."
+msgstr "Kết nối môi giới MQTT không thành công hoặc hết thời gian chờ."
+
+msgid "MQTT Broker refused connection or invalid CONNACK."
+msgstr "Nhà môi giới MQTT từ chối kết nối hoặc CONNACK không hợp lệ."
+
+msgid "MQTT Payload not matched"
+msgstr "Tải trọng MQTT không khớp"
+
+msgid "MQTT Remaining Length is invalid."
+msgstr "Độ dài còn lại của MQTT không hợp lệ."
+
+msgid "MQTT client"
+msgstr "khách hàng MQTT"
+
+msgid "MQTT client disconnected."
+msgstr "Máy khách MQTT bị ngắt kết nối."
+
+msgid "MQTT connection disconnected."
+msgstr "Kết nối MQTT bị ngắt kết nối."
+
+msgid "MQTT message exceeds 16 MiB limit."
+msgstr "Tin nhắn MQTT vượt quá giới hạn 16 MiB."
+
+msgid "MQTT publish topic mismatch:"
+msgstr "MQTT xuất bản chủ đề không khớp:"
+
+msgid "MQTT publishing topics and subscription topics cannot be empty."
+msgstr "Chủ đề xuất bản MQTT và chủ đề đăng ký không được để trống."
+
+msgid "MQTT receive topic and response topic cannot be empty."
+msgstr "Chủ đề nhận MQTT và chủ đề phản hồi không được để trống."
+
+msgid "MQTT response publishing failed"
+msgstr "Xuất bản phản hồi MQTT không thành công"
+
+msgid "MQTT send failed or the connection was disconnected."
+msgstr "Gửi MQTT không thành công hoặc kết nối bị ngắt."
+
+msgid "Manual width:"
+msgstr "Chiều rộng thủ công:"
+
+msgid "Match complete frames out of order according to multiple configurations and send corresponding responses, checking for duplicate frames and prefix ambiguities;"
+msgstr "Ghép các khung hoàn chỉnh không theo thứ tự theo nhiều cấu hình và gửi phản hồi tương ứng, kiểm tra các khung trùng lặp và sự mơ hồ về tiền tố;"
+
+msgid "Match expression:"
+msgstr "Biểu thức phù hợp:"
+
+msgid "Match messages and respond over serial, TCP, UDP, WebSocket, or MQTT"
+msgstr "So khớp tin nhắn và phản hồi qua nối tiếp, TCP, UDP, WebSocket hoặc MQTT"
+
+msgid "Matched and posted response"
+msgstr "Phản hồi phù hợp và được đăng"
+
+msgid "Matched and responded"
+msgstr "Đã khớp và đã phản hồi"
+
+msgid "Member type enum is not supported."
+msgstr "Loại thành viên enum không được hỗ trợ."
+
+msgid "Member's statement is not concluded."
+msgstr "Tuyên bố của thành viên chưa được kết luận."
+
+msgid "Milliseconds"
+msgstr "Mili giây"
+
+msgid "Mode:"
+msgstr "Chế độ:"
+
+msgid "Module width:"
+msgstr "Chiều rộng mô-đun:"
+
+msgid "Move down: Adjust the execution order of send/receive pairs"
+msgstr "Di chuyển xuống: Điều chỉnh thứ tự thực hiện các cặp gửi/nhận"
+
+msgid "Move up: Adjust the execution order of send/receive pairs"
+msgstr "Di chuyển lên: Điều chỉnh thứ tự thực hiện các cặp gửi/nhận"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Name cannot be empty."
+msgstr "Tên không được để trống."
+
+msgid "New filename"
+msgstr "Tên tệp mới"
+
+msgid "No files need zero-padding."
+msgstr "Không có tập tin nào cần đệm bằng không."
+
+msgid "No matches found."
+msgstr "Không tìm thấy kết quả phù hợp."
+
+msgid "No padding; input length must be a multiple of the block size."
+msgstr "Không có đệm; độ dài đầu vào phải là bội số của kích thước khối."
+
+msgid "No structure definition found."
+msgstr "Không tìm thấy định nghĩa cấu trúc."
+
+msgid "No valid file was found in the dropped content."
+msgstr "Không tìm thấy tập tin hợp lệ trong nội dung bị loại bỏ."
+
+msgid "Not matched"
+msgstr "Không khớp"
+
+msgid "Note: CBC does not provide integrity authentication; prefer GCM for new applications."
+msgstr "Lưu ý: CBC không cung cấp xác thực tính toàn vẹn; thích GCM cho các ứng dụng mới."
+
+msgid "Number of tasks sent:"
+msgstr "Số lượng nhiệm vụ được gửi:"
+
+msgid "OAEP and PKCS#1 v1.5; input and output can be independently selected as UTF-8, Hex, Base64 or file;"
+msgstr "OAEP và PKCS#1 v1.5; đầu vào và đầu ra có thể được chọn độc lập dưới dạng UTF-8, Hex, Base64 hoặc tệp;"
+
+msgid "Only accept this WebSocket path, such as /ws; currently supports ws://, not TLS/wss://"
+msgstr "Chỉ chấp nhận đường dẫn WebSocket này, chẳng hạn như /ws; hiện hỗ trợ ws://, không phải TLS/wss://"
+
+msgid "Only filenames beginning with digits are processed; remaining text and extensions are preserved."
+msgstr "Chỉ những tên tệp bắt đầu bằng chữ số mới được xử lý; văn bản và phần mở rộng còn lại được giữ nguyên."
+
+msgid "Only struct definitions are supported (enum/union/ordinary declarations are not supported)."
+msgstr "Chỉ hỗ trợ các định nghĩa cấu trúc (khai báo enum/union/thông thường không được hỗ trợ)."
+
+msgid "Operation failed."
+msgstr "Thao tác không thành công."
+
+msgid "Original Hex"
+msgstr "Lục giác gốc"
+
+msgid "Original filename"
+msgstr "Tên tập tin gốc"
+
+msgid "Out-of-order receive/transmit mapping"
+msgstr "Ánh xạ nhận/truyền không theo thứ tự"
+
+msgid "Output"
+msgstr "đầu ra"
+
+msgid "Output to text box:"
+msgstr "Xuất ra hộp văn bản:"
+
+msgid "PKCS#1 v1.5 (legacy)"
+msgstr "PKCS#1 v1.5 (cũ)"
+
+msgid "PKCS#5 / PKCS#7 (recommended)"
+msgstr "PKCS#5 / PKCS#7 (được khuyến nghị)"
+
+msgid "PKCS#7 (recommended)"
+msgstr "PKCS#7 (được khuyến nghị)"
+
+msgid "PNG image (*.png)|*.png"
+msgstr "Hình ảnh PNG (*.png)|*.png"
+
+msgid "PNG saved."
+msgstr "Đã lưu PNG."
+
+msgid "Padding is added automatically and removed during decryption."
+msgstr "Phần đệm được thêm tự động và xóa trong quá trình giải mã."
+
+msgid "Padding is added automatically; an extra block is added even when the data is aligned."
+msgstr "Phần đệm được thêm tự động; một khối bổ sung được thêm vào ngay cả khi dữ liệu được căn chỉnh."
+
+msgid "Padding:"
+msgstr "Phần đệm:"
+
+msgid "Pads with 00; decryption removes trailing 00 bytes and may lose original trailing zero bytes."
+msgstr "Miếng đệm có 00; quá trình giải mã sẽ loại bỏ 00 byte ở cuối và có thể mất các byte 0 ở cuối ban đầu."
+
+msgid "Parity check:"
+msgstr "Kiểm tra tính chẵn lẻ:"
+
+msgid "Parse Hex streams or BIN files using C structure definitions"
+msgstr "Phân tích luồng Hex hoặc tệp BIN bằng định nghĩa cấu trúc C"
+
+msgid "Paste"
+msgstr "Dán"
+
+msgid "Paste an RSA private key"
+msgstr "Dán khóa riêng RSA"
+
+msgid "Paste an RSA public key"
+msgstr "Dán khóa công khai RSA"
+
+msgid "Penultimate field specifies tail array length"
+msgstr "Trường áp chót chỉ định độ dài mảng đuôi"
+
+msgid "Pixels per module:"
+msgstr "Pixel trên mỗi mô-đun:"
+
+msgid "Please add at least one send/receive pair."
+msgstr "Vui lòng thêm ít nhất một cặp gửi/nhận."
+
+msgid "Please configure at least one enabled receive/send mapping."
+msgstr "Vui lòng định cấu hình ít nhất một ánh xạ nhận/gửi được bật."
+
+msgid "Please select a valid BIN file."
+msgstr "Vui lòng chọn tệp BIN hợp lệ."
+
+msgid "Please select a valid header directory."
+msgstr "Vui lòng chọn một thư mục tiêu đề hợp lệ."
+
+msgid "Please select two valid folders."
+msgstr "Vui lòng chọn hai thư mục hợp lệ."
+
+msgid "Please wait ..."
+msgstr "Xin vui lòng chờ..."
+
+msgid "Pointer members are not supported."
+msgstr "Thành viên con trỏ không được hỗ trợ."
+
+msgid "Preset algorithms (18 types): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XZ, WE."
+msgstr "Thuật toán cài sẵn (18 loại): CRC8/SMBUS; CRC16/MODBUS, CCITT_FALSE, XMODEM, KERMIT, USB; CRC24/LTEA, LTEB, BLE; CRC32, CRC32C, CRC32/MPEG2, POSIX, AUTOSAR, BZIP2; CRC64/ECMA, XX, CHÚNG TÔI."
+
+msgid "Preview"
+msgstr "Xem trước"
+
+msgid "Preview: %lu files will change; %lu non-text or oversized files skipped."
+msgstr "Xem trước: Các tệp %lu sẽ thay đổi; %lu các tệp không phải văn bản hoặc quá khổ bị bỏ qua."
+
+msgid "Private key (Base64 DER / PEM):"
+msgstr "Khóa riêng (Base64 DER/PEM):"
+
+msgid "Private key (PKCS#1 PEM; keep it secure)"
+msgstr "Khóa riêng (PKCS#1 PEM; giữ an toàn)"
+
+msgid "Protocol analysis"
+msgstr "Phân tích giao thức"
+
+msgid "Protocol parser"
+msgstr "Trình phân tích giao thức"
+
+msgid "Public key (Base64 DER / PEM):"
+msgstr "Khóa công khai (Base64 DER/PEM):"
+
+msgid "Public key (PKCS#1 PEM)"
+msgstr "Khóa công khai (PKCS#1 PEM)"
+
+msgid "Q (about 25%)"
+msgstr "Q (khoảng 25%)"
+
+msgid "QR Code content (UTF-8)"
+msgstr "Nội dung mã QR (UTF-8)"
+
+msgid "QR Code content cannot be empty."
+msgstr "Nội dung Mã QR không được để trống."
+
+msgid "QR Code content is too long: "
+msgstr "Nội dung Mã QR quá dài:"
+
+msgid "QR Code encoder"
+msgstr "Bộ mã hóa mã QR"
+
+msgid "QR Code encoding"
+msgstr "Mã hóa mã QR"
+
+msgid "QR Code image copied."
+msgstr "Đã sao chép hình ảnh Mã QR."
+
+msgid "RC4 (legacy)"
+msgstr "RC4 (cũ)"
+
+msgid "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED and RSA; supports GCM, CBC, CTR, ECB,"
+msgstr "RC4/5/6, ChaCha20, Salsa20, Camellia, SEED và RSA; hỗ trợ GCM, CBC, TLB, ECB,"
+
+msgid "RSA key pair"
+msgstr "Cặp khóa RSA"
+
+msgid "Raw variable block"
+msgstr "Khối biến thô"
+
+msgid "Read C struct/typedef struct definition and #define array length, and parse Hex data stream or BIN file;"
+msgstr "Đọc định nghĩa cấu trúc C struct/typedef và #define độ dài mảng, đồng thời phân tích luồng dữ liệu Hex hoặc tệp BIN;"
+
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+msgid "Receive a match (must be an exact match):"
+msgstr "Nhận kết quả trùng khớp (phải khớp chính xác):"
+
+msgid "Receive data does not match"
+msgstr "Nhận dữ liệu không khớp"
+
+msgid "Receive topic:"
+msgstr "Nhận chủ đề:"
+
+msgid "Received message not matched"
+msgstr "Tin nhắn nhận được không khớp"
+
+msgid "Received: %lu Matched: %lu Unmatched: %lu Responded: %lu"
+msgstr "Đã nhận: %lu Đã khớp: %lu Chưa khớp: %lu Đã phản hồi: %lu"
+
+msgid "Received: 0 Matched: 0 Unmatched: 0 Responded: 0"
+msgstr "Đã nhận: 0 Đã khớp: 0 Chưa khớp: 0 Đã trả lời: 0"
+
+msgid "Recognizes C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+msgstr "Nhận dạng C/C++, Java, C#, JavaScript/TypeScript, Python, Go, Rust, PHP, Ruby, Shell, SQL,"
+
+msgid "Recommended default: AES-256-GCM."
+msgstr "Mặc định được đề xuất: AES-256-GCM."
+
+msgid "Rename"
+msgstr "Đổi tên"
+
+msgid "Rename interrupted"
+msgstr "Đổi tên bị gián đoạn"
+
+msgid "Replace"
+msgstr "Thay thế"
+
+msgid "Replace file content"
+msgstr "Thay thế nội dung tập tin"
+
+msgid "Replace filenames"
+msgstr "Thay thế tên tập tin"
+
+msgid "Replace folder names"
+msgstr "Thay thế tên thư mục"
+
+msgid "Replacement expression:"
+msgstr "Biểu thức thay thế:"
+
+msgid "Replacer error"
+msgstr "Lỗi thay thế"
+
+msgid "Reply frame"
+msgstr "Khung trả lời"
+
+msgid "Request data cannot be empty."
+msgstr "Dữ liệu yêu cầu không được để trống."
+
+msgid "Requires %u bytes / %u Hex characters"
+msgstr "Yêu cầu byte %u / %u Ký tự hex"
+
+msgid "Requires confirmation before execution and displays the number of files to be synchronized and copied."
+msgstr "Yêu cầu xác nhận trước khi thực hiện và hiển thị số lượng tệp sẽ được đồng bộ hóa và sao chép."
+
+msgid "Respond to the topic:"
+msgstr "Trả lời chủ đề:"
+
+msgid "Response delay (ms):"
+msgstr "Độ trễ phản hồi (ms):"
+
+msgid "Response does not match:"
+msgstr "Phản hồi không khớp:"
+
+msgid "Response sending failed"
+msgstr "Gửi phản hồi không thành công"
+
+msgid "Response/verification"
+msgstr "Phản hồi/xác minh"
+
+msgid "Result copied."
+msgstr "Đã sao chép kết quả."
+
+msgid "Results cleared."
+msgstr "Đã xóa kết quả."
+
+msgid "Root structure %s: %lu bytes; parse %lu records; remaining %lu bytes at the end."
+msgstr "Cấu trúc gốc %s: %lu byte; phân tích các bản ghi %lu; byte %lu còn lại ở cuối."
+
+msgid "Run serial, TCP, UDP, WebSocket, or MQTT request and response tests"
+msgstr "Chạy các thử nghiệm yêu cầu và phản hồi nối tiếp, TCP, UDP, WebSocket hoặc MQTT"
+
+msgid "Save PNG"
+msgstr "Lưu PNG"
+
+msgid "Save QR Code"
+msgstr "Lưu mã QR"
+
+msgid "Save barcode"
+msgstr "Lưu mã vạch"
+
+msgid "Scan the numeric numbers at the beginning of the file names in the directory and automatically add leading zeros according to the maximum number width; support for including subdirectories;"
+msgstr "Quét các số ở đầu tên file trong thư mục và tự động thêm các số 0 đầu theo độ rộng số tối đa; hỗ trợ bao gồm các thư mục con;"
+
+msgid "Search tools..."
+msgstr "Công cụ tìm kiếm..."
+
+msgid "Seconds"
+msgstr "Giây"
+
+msgid "Select BIN file"
+msgstr "Chọn tệp BIN"
+
+msgid "Select a file to calculate CRC"
+msgstr "Chọn file để tính CRC"
+
+msgid "Select a file to hash"
+msgstr "Chọn một tập tin để băm"
+
+msgid "Select a single file or directory and batch replace file names and text content with advanced regular expressions; supports drag and drop;"
+msgstr "Chọn một tệp hoặc thư mục và thay thế hàng loạt tên tệp và nội dung văn bản bằng các biểu thức chính quy nâng cao; hỗ trợ kéo và thả;"
+
+msgid "Select a valid directory."
+msgstr "Chọn một thư mục hợp lệ."
+
+msgid "Select a valid file or directory."
+msgstr "Chọn một tập tin hoặc thư mục hợp lệ."
+
+msgid "Select a valid file."
+msgstr "Chọn một tập tin hợp lệ."
+
+msgid "Select a valid input file."
+msgstr "Chọn một tập tin đầu vào hợp lệ."
+
+msgid "Select algorithms, then calculate."
+msgstr "Chọn thuật toán rồi tính toán."
+
+msgid "Select an existing file."
+msgstr "Chọn một tập tin hiện có."
+
+msgid "Select an output file."
+msgstr "Chọn một tập tin đầu ra."
+
+msgid "Select at least one CRC algorithm."
+msgstr "Chọn ít nhất một thuật toán CRC."
+
+msgid "Select at least one hash algorithm."
+msgstr "Chọn ít nhất một thuật toán băm."
+
+msgid "Select at least one replacement method."
+msgstr "Chọn ít nhất một phương pháp thay thế."
+
+msgid "Select directory"
+msgstr "Chọn thư mục"
+
+msgid "Select directory for filename zero-padding"
+msgstr "Chọn thư mục cho tên tệp không đệm"
+
+msgid "Select directory..."
+msgstr "Chọn thư mục..."
+
+msgid "Select file"
+msgstr "Chọn tập tin"
+
+msgid "Select file..."
+msgstr "Chọn tập tin..."
+
+msgid "Select folders to sync"
+msgstr "Chọn thư mục để đồng bộ"
+
+msgid "Select header file directory"
+msgstr "Chọn thư mục tập tin tiêu đề"
+
+msgid "Select input file"
+msgstr "Chọn tập tin đầu vào"
+
+msgid "Select output file"
+msgstr "Chọn tập tin đầu ra"
+
+msgid "Select source code directory"
+msgstr "Chọn thư mục mã nguồn"
+
+msgid "Select source code file"
+msgstr "Chọn tệp mã nguồn"
+
+msgid "Selected the first valid file from the dropped files."
+msgstr "Đã chọn tệp hợp lệ đầu tiên từ các tệp bị xóa."
+
+msgid "Send after matching (can be left blank, only receive statistics):"
+msgstr "Gửi sau khi khớp (có thể để trống, chỉ nhận thống kê):"
+
+msgid "Sending frame: %lu Legal receiving: %lu Illegal receiving: %lu Timeout: %lu Successful task: %lu/%lu Success rate: %.2f%%"
+msgstr "Khung gửi: %lu Nhận hợp pháp: %lu Nhận bất hợp pháp: %lu Thời gian chờ: %lu Nhiệm vụ thành công: %lu/%lu Tỷ lệ thành công: %.2f%%"
+
+msgid "Sending frame: 0 Legal receiving: 0 Illegal receiving: 0 Timeout: 0 Successful task: 0/0 Success rate: 0.00%"
+msgstr "Khung gửi: 0 Nhận hợp pháp: 0 Nhận bất hợp pháp: 0 Hết thời gian chờ: 0 Nhiệm vụ thành công: 0/0 Tỷ lệ thành công: 0,00%"
+
+msgid "Sending interval (ms):"
+msgstr "Khoảng thời gian gửi (ms):"
+
+msgid "Serial port reception failed."
+msgstr "Việc tiếp nhận cổng nối tiếp không thành công."
+
+msgid "Serial port transmission failed."
+msgstr "Truyền cổng nối tiếp không thành công."
+
+msgid "Serial port: preset baud rate 1200~921600, and can manually input 1~4000000; 5/6/7/8 data bits;"
+msgstr "Cổng nối tiếp: tốc độ truyền đặt trước 1200 ~ 921600 và có thể nhập thủ công 1 ~ 4000000; 5/6/7/8 bit dữ liệu;"
+
+msgid "Set all to 1"
+msgstr "Đặt tất cả thành 1"
+
+msgid "Settings (&S)"
+msgstr "Cài đặt (&S)"
+
+msgid "Shift left <<"
+msgstr "Dịch sang trái <<"
+
+msgid "Shift right >>"
+msgstr "Chuyển sang phải >>"
+
+msgid "Show original text"
+msgstr "Hiển thị văn bản gốc"
+
+msgid "Source line count"
+msgstr "Số dòng nguồn"
+
+msgid "Start counting"
+msgstr "Bắt đầu đếm"
+
+msgid "Start the server"
+msgstr "Khởi động máy chủ"
+
+msgid "Stop bit:"
+msgstr "Dừng chút:"
+
+msgid "Stop on failure"
+msgstr "Dừng lại khi thất bại"
+
+msgid "Stream cipher"
+msgstr "Mật mã dòng"
+
+msgid "Struct alignment must be 1, 2, 4, or 8."
+msgstr "Căn chỉnh cấu trúc phải là 1, 2, 4 hoặc 8."
+
+msgid "Success, RX:"
+msgstr "Thành công, RX:"
+
+msgid "Support AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+msgstr "Hỗ trợ AES, SM4, DES/3DES, Blowfish, Twofish, CAST5, IDEA, Serpent, TEA/XTEA/XXTEA,"
+
+msgid "Supports 1/2/4/8 byte packing, little endian/big endian, multiple consecutive records and tail remaining byte prompts."
+msgstr "Hỗ trợ đóng gói 1/2/4/8 byte, endian nhỏ/cuối lớn, nhiều bản ghi liên tiếp và các dấu nhắc byte còn lại ở đuôi."
+
+msgid "Supports IPv4, IPv6 (e.g. ::1) and hostname"
+msgstr "Hỗ trợ IPv4, IPv6 (ví dụ ::1) và tên máy chủ"
+
+msgid "Supports basic types, fixed-length arrays, and defined nested structures."
+msgstr "Hỗ trợ các kiểu cơ bản, mảng có độ dài cố định và các cấu trúc lồng nhau được xác định."
+
+msgid "Supports binary files, progress display, and cancellation operations; non-UTF-8 decoding results can be saved as files."
+msgstr "Hỗ trợ các tệp nhị phân, hiển thị tiến trình và các thao tác hủy; kết quả giải mã không phải UTF-8 có thể được lưu dưới dạng tệp."
+
+msgid "Supports getting current time, copy timestamp and UTC text, and checking value range and date format."
+msgstr "Hỗ trợ lấy thời gian hiện tại, sao chép dấu thời gian và văn bản UTC cũng như kiểm tra phạm vi giá trị và định dạng ngày."
+
+msgid "Supports nested structures, basic integers, float, double, bool, characters and fixed-length arrays;"
+msgstr "Hỗ trợ các cấu trúc lồng nhau, số nguyên cơ bản, float, double, bool, ký tự và mảng có độ dài cố định;"
+
+msgid "Swap input and output"
+msgstr "Hoán đổi đầu vào và đầu ra"
+
+msgid "Synchronization completed, %lu files copied in total."
+msgstr "Quá trình đồng bộ hóa đã hoàn tất, tổng cộng các tệp %lu đã được sao chép."
+
+msgid "Synchronization interruption"
+msgstr "Đồng bộ hóa bị gián đoạn"
+
+msgid "TCP client"
+msgstr "máy khách TCP"
+
+msgid "TCP connection failed or timed out."
+msgstr "Kết nối TCP không thành công hoặc hết thời gian chờ."
+
+msgid "TCP reception failed or the connection was dropped."
+msgstr "Việc tiếp nhận TCP không thành công hoặc kết nối bị ngắt."
+
+msgid "TCP send failed."
+msgstr "Gửi TCP không thành công."
+
+msgid "Tag:"
+msgstr "Thẻ:"
+
+msgid "Target width: %lu digits; %lu files will be renamed."
+msgstr "Độ rộng mục tiêu: chữ số %lu; Các tệp %lu sẽ được đổi tên."
+
+msgid "Testing has been stopped."
+msgstr "Thử nghiệm đã bị dừng lại."
+
+msgid "Testing is complete."
+msgstr "Thử nghiệm đã hoàn tất."
+
+msgid "Text"
+msgstr "văn bản"
+
+msgid "Text encoding is detected according to GB18030-2022, UTF-8, and local code page. The maximum single file size is 256 MiB."
+msgstr "Mã hóa văn bản được phát hiện theo GB18030-2022, UTF-8 và trang mã cục bộ. Kích thước tệp đơn tối đa là 256 MiB."
+
+msgid "Text is hashed using UTF-8 encoding"
+msgstr "Văn bản được băm bằng mã hóa UTF-8"
+
+msgid "Text is processed using UTF-8 encoding"
+msgstr "Văn bản được xử lý bằng mã hóa UTF-8"
+
+msgid "The BIN file cannot be read, or the file exceeds 256 MiB."
+msgstr "Không thể đọc tệp BIN hoặc tệp vượt quá 256 MiB."
+
+msgid "The MQTT PUBLISH topic is invalid."
+msgstr "Chủ đề XUẤT BẢN MQTT không hợp lệ."
+
+msgid "The MQTT SUBACK is invalid or the subscription was refused."
+msgstr "SUBACK MQTT không hợp lệ hoặc đăng ký đã bị từ chối."
+
+msgid "The MQTT SUBSCRIBE message is invalid."
+msgstr "Thông báo SUBSCRIBE MQTT không hợp lệ."
+
+msgid "The MQTT publish topic is invalid."
+msgstr "Chủ đề xuất bản MQTT không hợp lệ."
+
+msgid "The MQTT subscription topic is invalid."
+msgstr "Chủ đề đăng ký MQTT không hợp lệ."
+
+msgid "The UTC date or time is outside the valid range."
+msgstr "Ngày hoặc giờ UTC nằm ngoài phạm vi hợp lệ."
+
+msgid "The UTC time contains an invalid number."
+msgstr "Thời gian UTC chứa số không hợp lệ."
+
+msgid "The UTC time format should be YYYY-MM-DD HH:MM:SS[.mmm]."
+msgstr "Định dạng thời gian UTC phải là YYYY-MM-DD HH:MM:SS[.mmm]."
+
+msgid "The WebSocket peer has closed the connection."
+msgstr "WebSocket ngang hàng đã đóng kết nối."
+
+msgid "The barcode content cannot be empty."
+msgstr "Nội dung mã vạch không được để trống."
+
+msgid "The baud rate must be an integer between 1 and 4000000."
+msgstr "Tốc độ baud phải là số nguyên từ 1 đến 4000000."
+
+msgid "The decoded result is not UTF-8 text. Output to a file to preserve the binary data."
+msgstr "Kết quả được giải mã không phải là văn bản UTF-8. Xuất ra một tập tin để bảo toàn dữ liệu nhị phân."
+
+msgid "The dropped file or directory is invalid."
+msgstr "Tệp hoặc thư mục bị bỏ không hợp lệ."
+
+msgid "The file exceeds 16 MiB. Write to a file to avoid excessive text-box memory use."
+msgstr "Tệp vượt quá 16 MiB. Ghi vào một tập tin để tránh sử dụng quá nhiều bộ nhớ hộp văn bản."
+
+msgid "The header file directory is invalid."
+msgstr "Thư mục tệp tiêu đề không hợp lệ."
+
+msgid "The input and output files cannot be the same."
+msgstr "Các tập tin đầu vào và đầu ra không thể giống nhau."
+
+msgid "The language setting could not be saved."
+msgstr "Không thể lưu cài đặt ngôn ngữ."
+
+msgid "The last member must be an array for a dynamic tail array."
+msgstr "Thành viên cuối cùng phải là một mảng cho mảng đuôi động."
+
+msgid "The match expression cannot be empty."
+msgstr "Biểu thức khớp không được để trống."
+
+msgid "The parsing results have been cleared."
+msgstr "Kết quả phân tích cú pháp đã bị xóa."
+
+msgid "The penultimate member must be an 8-32 bit integer scalar for a dynamic tail array."
+msgstr "Thành viên áp chót phải là số nguyên vô hướng 8-32 bit cho mảng đuôi động."
+
+msgid "The receive cache has exceeded the limit and has been cleared."
+msgstr "Bộ đệm nhận đã vượt quá giới hạn và đã bị xóa."
+
+msgid "The received data cannot be empty."
+msgstr "Dữ liệu nhận được không được để trống."
+
+msgid "The received frames cannot be the same or prefix each other, otherwise the TCP/serial port cannot determine the frame boundary."
+msgstr "Các khung nhận được không thể giống nhau hoặc tiền tố lẫn nhau, nếu không thì cổng TCP/nối tiếp không thể xác định ranh giới khung."
+
+msgid "The regular expression is invalid."
+msgstr "Biểu thức chính quy không hợp lệ."
+
+msgid "The replacement produced an invalid filename."
+msgstr "Việc thay thế tạo ra một tên tệp không hợp lệ."
+
+msgid "The request received was not a valid MQTT 3.1.1 CONNECT."
+msgstr "Yêu cầu nhận được không phải là KẾT NỐI MQTT 3.1.1 hợp lệ."
+
+msgid "The request received was not a valid WebSocket RFC 6455 handshake."
+msgstr "Yêu cầu nhận được không phải là bắt tay WebSocket RFC 6455 hợp lệ."
+
+msgid "The root structure is invalid."
+msgstr "Cấu trúc gốc không hợp lệ."
+
+msgid "The serial port or host cannot be empty."
+msgstr "Cổng nối tiếp hoặc máy chủ không được để trống."
+
+msgid "The server has ended."
+msgstr "Máy chủ đã kết thúc."
+
+msgid "The server has stopped."
+msgstr "Máy chủ đã dừng lại."
+
+msgid "The server rejected the WebSocket upgrade or the handshake response was invalid."
+msgstr "Máy chủ từ chối nâng cấp WebSocket hoặc phản hồi bắt tay không hợp lệ."
+
+msgid "The two folders cannot be the same, nor can they be subdirectories of each other."
+msgstr "Hai thư mục không thể giống nhau và cũng không thể là thư mục con của nhau."
+
+msgid "The value format is invalid or outside the range of a 64-bit unsigned integer."
+msgstr "Định dạng giá trị không hợp lệ hoặc nằm ngoài phạm vi của số nguyên không dấu 64 bit."
+
+msgid "Timeout (ms):"
+msgstr "Thời gian chờ (ms):"
+
+msgid "Timestamp"
+msgstr "Dấu thời gian"
+
+msgid "Timestamp converter"
+msgstr "Bộ chuyển đổi dấu thời gian"
+
+msgid "To be synchronized: %lu files"
+msgstr "Để được đồng bộ hóa: các tệp %lu"
+
+msgid "Tools"
+msgstr "Công cụ"
+
+msgid "Total lines"
+msgstr "Tổng số dòng"
+
+msgid "Try again:"
+msgstr "Hãy thử lại:"
+
+msgid "UDP reception failed."
+msgstr "Việc tiếp nhận UDP không thành công."
+
+msgid "UDP send failed."
+msgstr "Gửi UDP không thành công."
+
+msgid "UTC input may use a space or T separator and an optional trailing Z."
+msgstr "Đầu vào UTC có thể sử dụng dấu cách hoặc dấu phân cách T và dấu Z ở cuối tùy chọn."
+
+msgid "UTC time (YYYY-MM-DD HH:MM:SS[.mmm])"
+msgstr "Thời gian UTC (YYYY-MM-DD HH:MM:SS[.mmm])"
+
+msgid "UTC time converted to a Unix timestamp."
+msgstr "Thời gian UTC được chuyển đổi thành dấu thời gian Unix."
+
+msgid "UTF-8 text"
+msgstr "văn bản UTF-8"
+
+msgid "Unable to bind UDP port."
+msgstr "Không thể liên kết cổng UDP."
+
+msgid "Unable to calculate relative path:"
+msgstr "Không thể tính toán đường dẫn tương đối:"
+
+msgid "Unable to create communication channel."
+msgstr "Không thể tạo kênh liên lạc."
+
+msgid "Unable to create file mapping (error %lu)"
+msgstr "Không thể tạo ánh xạ tệp (lỗi %lu)"
+
+msgid "Unable to get file size (%s)"
+msgstr "Không thể lấy kích thước tệp (%s)"
+
+msgid "Unable to get file size (error %lu)"
+msgstr "Không thể lấy kích thước tệp (lỗi %lu)"
+
+msgid "Unable to initialize the network socket subsystem; network tools are unavailable."
+msgstr "Không thể khởi tạo hệ thống con ổ cắm mạng; công cụ mạng không có sẵn."
+
+msgid "Unable to listen on MQTT port."
+msgstr "Không thể nghe trên cổng MQTT."
+
+msgid "Unable to listen on TCP port."
+msgstr "Không thể nghe trên cổng TCP."
+
+msgid "Unable to listen on WebSocket port."
+msgstr "Không thể nghe trên cổng WebSocket."
+
+msgid "Unable to open UDP local port (address family or port not available)."
+msgstr "Không thể mở cổng cục bộ UDP (không có họ địa chỉ hoặc cổng)."
+
+msgid "Unable to open file: %s (%s)"
+msgstr "Không thể mở tệp: %s (%s)"
+
+msgid "Unable to open file: %s (error %lu)"
+msgstr "Không mở được file: %s (lỗi %lu)"
+
+msgid "Unable to open serial port:"
+msgstr "Không thể mở cổng nối tiếp:"
+
+msgid "Unable to read directory:"
+msgstr "Không thể đọc thư mục:"
+
+msgid "Unable to read header file, or file exceeds 16 MiB:"
+msgstr "Không thể đọc tệp tiêu đề hoặc tệp vượt quá 16 MiB:"
+
+msgid "Unable to read serial port configuration."
+msgstr "Không thể đọc cấu hình cổng nối tiếp."
+
+msgid "Unable to reread file during replacement: "
+msgstr "Không thể đọc lại tập tin trong quá trình thay thế:"
+
+msgid "Unable to resolve IPv4/IPv6 address:"
+msgstr "Không thể phân giải địa chỉ IPv4/IPv6:"
+
+msgid "Unable to resolve IPv4/IPv6 listening address:"
+msgstr "Không thể giải quyết địa chỉ nghe IPv4/IPv6:"
+
+msgid "Unable to resolve type:"
+msgstr "Không thể giải quyết loại:"
+
+msgid "Unable to set serial port parameters."
+msgstr "Không thể đặt tham số cổng nối tiếp."
+
+msgid "Unable to start server thread."
+msgstr "Không thể khởi động chuỗi máy chủ."
+
+msgid "Unable to start test thread."
+msgstr "Không thể bắt đầu chuỗi thử nghiệm."
+
+msgid "Unix / UTC conversion"
+msgstr "Chuyển đổi Unix / UTC"
+
+msgid "Unix seconds are outside the convertible range."
+msgstr "Giây Unix nằm ngoài phạm vi chuyển đổi."
+
+msgid "Unix timestamp"
+msgstr "Dấu thời gian Unix"
+
+msgid "Unix timestamp cannot be empty."
+msgstr "Dấu thời gian Unix không được để trống."
+
+msgid "Unix timestamp converted to UTC."
+msgstr "Dấu thời gian Unix được chuyển đổi sang UTC."
+
+msgid "Unix timestamp is not a valid 64-bit integer."
+msgstr "Dấu thời gian Unix không phải là số nguyên 64 bit hợp lệ."
+
+msgid "Unknown or undefined member type."
+msgstr "Loại thành viên không xác định hoặc không xác định."
+
+msgid "Use private key"
+msgstr "Sử dụng khóa riêng"
+
+msgid "Use public key"
+msgstr "Sử dụng khóa chung"
+
+msgid "Use regular expressions to replace filenames and text in batches"
+msgstr "Sử dụng biểu thức chính quy để thay thế hàng loạt tên tệp và văn bản"
+
+msgid "Used to make dictionary order consistent with natural numbering order and to check for conflicts before renaming."
+msgstr "Được sử dụng để sắp xếp thứ tự từ điển phù hợp với thứ tự đánh số tự nhiên và kiểm tra xung đột trước khi đổi tên."
+
+msgid "Value copied to the clipboard."
+msgstr "Giá trị được sao chép vào bảng nhớ tạm."
+
+msgid "Value range: 0 to 2^64-1"
+msgstr "Phạm vi giá trị: 0 đến 2^64-1"
+
+msgid "Verify response content (only wait for the configured length when unchecked)"
+msgstr "Xác minh nội dung phản hồi (chỉ đợi độ dài được định cấu hình khi bỏ chọn)"
+
+msgid "Version %d; %d × %d modules; image %d × %d."
+msgstr "Phiên bản %d; mô-đun %d × %d; hình ảnh %d × %d."
+
+msgid "View and edit every bit of a 64-bit unsigned integer"
+msgstr "Xem và chỉnh sửa từng bit của số nguyên không dấu 64 bit"
+
+msgid "Warning: Crypto++ names its XXTEA implementation BTEA and marks it as not thoroughly tested; input must be at least 8 bytes and a multiple of 4."
+msgstr "Cảnh báo: Crypto++ đặt tên triển khai XXTEA là BTEA và đánh dấu nó là chưa được kiểm tra kỹ lưỡng; đầu vào phải có ít nhất 8 byte và bội số của 4."
+
+msgid "Warning: ECB exposes data patterns and is not recommended for real data."
+msgstr "Cảnh báo: ECB để lộ các mẫu dữ liệu và không được khuyến nghị sử dụng cho dữ liệu thực."
+
+msgid "Warning: Prefer OAEP; PKCS#1 v1.5 is provided only for compatibility."
+msgstr "Cảnh báo: Thích OAEP hơn; PKCS#1 v1.5 chỉ được cung cấp để tương thích."
+
+msgid "Warning: This algorithm is insecure and is provided only for legacy compatibility."
+msgstr "Cảnh báo: Thuật toán này không an toàn và chỉ được cung cấp để tương thích với phiên bản cũ."
+
+msgid "Warning: This algorithm is intended for legacy systems or protocols; prefer AES-GCM for new data."
+msgstr "Cảnh báo: Thuật toán này dành cho các hệ thống hoặc giao thức cũ; thích AES-GCM cho dữ liệu mới."
+
+msgid "WebSocket HTTP header is too large or incomplete."
+msgstr "Tiêu đề HTTP WebSocket quá lớn hoặc không đầy đủ."
+
+msgid "WebSocket TCP connection failed or timed out."
+msgstr "Kết nối TCP WebSocket không thành công hoặc hết thời gian chờ."
+
+msgid "WebSocket client"
+msgstr "Máy khách WebSocket"
+
+msgid "WebSocket connection disconnected."
+msgstr "Kết nối WebSocket bị ngắt kết nối."
+
+msgid "WebSocket handshake connection broken."
+msgstr "Kết nối bắt tay WebSocket bị hỏng."
+
+msgid "WebSocket handshake timed out."
+msgstr "Bắt tay WebSocket đã hết thời gian chờ."
+
+msgid "WebSocket message exceeds 16 MiB limit."
+msgstr "Thông báo WebSocket vượt quá giới hạn 16 MiB."
+
+msgid "WebSocket path mismatch."
+msgstr "Đường dẫn WebSocket không khớp."
+
+msgid "WebSocket request path, such as /ws; currently supports ws://, but does not support TLS/wss://"
+msgstr "Đường dẫn yêu cầu WebSocket, chẳng hạn như /ws; hiện hỗ trợ ws://, nhưng không hỗ trợ TLS/wss://"
+
+msgid "WebSocket send failed or the connection was disconnected."
+msgstr "Gửi WebSocket không thành công hoặc kết nối bị ngắt."
+
+msgid "When response validation is enabled, the expected response cannot be empty."
+msgstr "Khi xác thực phản hồi được bật, phản hồi dự kiến không được để trống."
+
+msgid "Width"
+msgstr "Chiều rộng"
+
+msgid "Width is calculated separately for each folder; %lu files will be renamed."
+msgstr "Độ rộng được tính riêng cho từng thư mục; %lu tệp sẽ được đổi tên."
+
+msgid "Windows supports 1/1.5/2 stop bits, all checksums, and flow control combinations; the specific combinations of Linux/macOS are limited by the system driver."
+msgstr "Windows hỗ trợ các bit dừng 1/1.5/2, tất cả các tổng kiểm tra và kết hợp điều khiển luồng; sự kết hợp cụ thể của Linux/macOS bị giới hạn bởi trình điều khiển hệ thống."
+
+msgid "Write to file:"
+msgstr "Viết vào tập tin:"
+
+msgid "XXTEA / BTEA (experimental)"
+msgstr "XXTEA / BTEA (thử nghiệm)"
+
+msgid "You can drop a file onto this page."
+msgstr "Bạn có thể thả một tập tin vào trang này."
+
+msgid "Zero-pad filenames"
+msgstr "Tên tập tin không có đệm"
+
+msgid "Zero-padded filename"
+msgstr "Tên tệp không có đệm"
+
+msgid "Zero-padding would create a duplicate filename: "
+msgstr "Không có phần đệm sẽ tạo ra một tên tệp trùng lặp:"
+
+msgid "[stop]"
+msgstr "[dừng lại]"
+
+msgid "ask"
+msgstr "hỏi"
+
+msgid "ask:"
+msgstr "hỏi:"
+
+msgid "big endian"
+msgstr "endian lớn"
+
+msgid "communication client"
+msgstr "khách hàng truyền thông"
+
+msgid "communication server"
+msgstr "máy chủ truyền thông"
+
+msgid "delay"
+msgstr "sự chậm trễ"
+
+msgid "direction"
+msgstr "phương hướng"
+
+msgid "even parity"
+msgstr "chẵn lẻ"
+
+msgid "expect '"
+msgstr "mong đợi '"
+
+msgid "folder 1"
+msgstr "thư mục 1"
+
+msgid "iTool %s\nBuilt: %s %s    wxWidgets %s    %s"
+msgstr "iTool %s\nĐược xây dựng: %s %s wxWidgets %s %s"
+
+msgid "include is missing the closing quote:"
+msgstr "bao gồm thiếu dấu ngoặc kép kết thúc:"
+
+msgid "little endian"
+msgstr "endian nhỏ"
+
+msgid "mapping"
+msgstr "lập bản đồ"
+
+msgid "mark"
+msgstr "đánh dấu"
+
+msgid "member"
+msgstr "thành viên"
+
+msgid "name"
+msgstr "tên"
+
+msgid "name:"
+msgstr "tên:"
+
+msgid "none"
+msgstr "không có"
+
+msgid "odd parity"
+msgstr "chẵn lẻ lẻ"
+
+msgid "offset"
+msgstr "bù đắp"
+
+msgid "parse"
+msgstr "phân tích cú pháp"
+
+msgid "parsed value"
+msgstr "giá trị được phân tích cú pháp"
+
+msgid "path:"
+msgstr "đường dẫn:"
+
+msgid "port:"
+msgstr "cổng:"
+
+msgid "receive timeout"
+msgstr "nhận được thời gian chờ"
+
+msgid "release:"
+msgstr "phát hành:"
+
+msgid "reset"
+msgstr "đặt lại"
+
+msgid "result"
+msgstr "kết quả"
+
+msgid "send"
+msgstr "gửi"
+
+msgid "send/receive pair"
+msgstr "cặp gửi/nhận"
+
+msgid "serial number"
+msgstr "số sê-ri"
+
+msgid "size"
+msgstr "kích thước"
+
+msgid "source"
+msgstr "nguồn"
+
+msgid "space"
+msgstr "không gian"
+
+msgid "start"
+msgstr "bắt đầu"
+
+msgid "stop"
+msgstr "dừng lại"
+
+msgid "subscription:"
+msgstr "đăng ký:"
+
+msgid "synchronous"
+msgstr "đồng bộ"
+
+msgid "take over"
+msgstr "tiếp quản"
+
+msgid "test frame"
+msgstr "khung kiểm tra"
+
+msgid "test stopped"
+msgstr "kiểm tra đã dừng"
+
+msgid "the 0x prefix is allowed and the Latin-1 range is 00–FF."
+msgstr "tiền tố 0x được cho phép và phạm vi Latin-1 là 00–FF."
+
+msgid "type"
+msgstr "loại"
+
+msgid "union is not supported."
+msgstr "công đoàn không được hỗ trợ."

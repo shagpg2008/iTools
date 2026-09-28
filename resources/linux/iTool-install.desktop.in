@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=iTool
+Comment=Multi-purpose developer utility toolbox
+Exec=@ITOOL_ARTIFACT_NAME@
+Icon=itool
+Terminal=false
+Categories=Utility;Development;
+StartupNotify=true
+StartupWMClass=iTool
