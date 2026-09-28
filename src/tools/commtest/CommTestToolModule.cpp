@@ -38,6 +38,8 @@
 
 #ifdef __WXMSW__
 #include <wx/msw/wrapwin.h>
+#else
+#include <sys/socket.h>
 #endif
 
 namespace
